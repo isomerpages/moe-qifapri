@@ -37,8 +37,7 @@ Privacy Statement
 
   
 
-6.  Please contact us at qifa_ps@moe.edu.sg should you:
-
+6.  Please contact us at [qifa_ps@moe.edu.sg](mailto:qifa_ps@moe.edu.sg)
 1.  have any enquires or feedback on our data protection policies and procedures,
 2.  require more information on or access to the data which you have earlier provided to us
 
