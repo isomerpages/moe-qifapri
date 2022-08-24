@@ -1,4 +1,5 @@
 collections:
   accolades-and-achievements:
     output: true
-    order: []
+    order:
+      - Staff Accolades.md
