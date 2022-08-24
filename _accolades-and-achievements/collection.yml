@@ -1,0 +1,4 @@
+collections:
+  accolades-and-achievements:
+    output: true
+    order: []
