@@ -2,5 +2,6 @@ collections:
   administration:
     output: true
     order:
+      - Privacy Statement.md
       - Student Care Centre.md
       - Administration.md
