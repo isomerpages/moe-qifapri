@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Gallery.md
-      - School Rules.md
-      - School Song.md
-      - School Support Staff.md
-      - School Teaching Staff.md
-      - School Executive Committee.md
-      - Principal's Message.md
-      - School History.md
-      - Qifa Teaching & Learning Framework.md
       - School Vision.md
+      - Qifa Teaching & Learning Framework.md
+      - School History.md
+      - Principal's Message.md
+      - School Executive Committee.md
+      - School Teaching Staff.md
+      - School Support Staff.md
+      - School Song.md
+      - School Rules.md
+      - Gallery.md
