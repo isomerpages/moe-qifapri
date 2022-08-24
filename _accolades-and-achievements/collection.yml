@@ -2,5 +2,6 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - What our ex pupils say about us.md
       - Bouquets.md
       - Staff Accolades.md
