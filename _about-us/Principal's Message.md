@@ -55,6 +55,3 @@ Mrs Catherine Chiang
 Principal
 
 </div></div>
-
-
-
