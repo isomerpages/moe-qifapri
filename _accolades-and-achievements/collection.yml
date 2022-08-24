@@ -2,4 +2,5 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - Bouquets.md
       - Staff Accolades.md
