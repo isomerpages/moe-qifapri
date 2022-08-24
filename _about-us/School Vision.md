@@ -3,7 +3,7 @@ title: School Vision
 permalink: /about-us/permalink
 description: ""
 ---
-vSchool Vision
+School Vision
 =============
 
   
