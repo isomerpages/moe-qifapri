@@ -2,4 +2,5 @@ collections:
   administration:
     output: true
     order:
+      - Student Care Centre.md
       - Administration.md
