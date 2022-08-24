@@ -2,6 +2,7 @@ collections:
   administration:
     output: true
     order:
+      - Administration.md
       - School Bookshop.md
       - School Uniform.md
       - Forms.md
@@ -9,4 +10,3 @@ collections:
       - Frequently Asked Questions.md
       - Privacy Statement.md
       - Student Care Centre.md
-      - Administration.md
