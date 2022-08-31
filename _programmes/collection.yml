@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - ICT/ICT Achievements.md
-      - ICT/Information, Communications and Technology.md
       - ICT/.keep
+      - ICT/Information, Communications and Technology.md
+      - ICT/ICT Achievements.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/MOE Sexuality Education in Schools.md
