@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE/.keep
       - Programme for Active Learning.md
       - PE, Art and Music/.keep
       - PE, Art and Music/Physical Education.md
