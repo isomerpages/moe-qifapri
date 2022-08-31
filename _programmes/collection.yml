@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE/Cyber Wellness.md
       - CCE/The Heritage of Qifa Primary School.md
       - CCE/MOE Sexuality Education in Schools.md
       - CCE/Character & Citizenship Education.md
