@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE/STAR Pupil Award 2020.md
       - CCE/.keep
       - CCE/Character & Citizenship Education.md
       - CCE/MOE Sexuality Education in Schools.md
