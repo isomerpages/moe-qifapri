@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Programme for Active Learning.md
       - PE, Art and Music/.keep
       - PE, Art and Music/Physical Education.md
       - PE, Art and Music/Visual Art.md
