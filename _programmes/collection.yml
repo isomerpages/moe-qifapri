@@ -2,16 +2,16 @@ collections:
   programmes:
     output: true
     order:
-      - CCE/Character Awards.md
-      - CCE/Values In Action.md
-      - CCE/Student Leadership.md
-      - CCE/NESS.md
-      - CCE/To Earth With Love Project 2020.md
-      - CCE/Cyber Wellness.md
-      - CCE/The Heritage of Qifa Primary School.md
-      - CCE/MOE Sexuality Education in Schools.md
-      - CCE/Character & Citizenship Education.md
       - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - CCE/The Heritage of Qifa Primary School.md
+      - CCE/Cyber Wellness.md
+      - CCE/To Earth With Love Project 2020.md
+      - CCE/NESS.md
+      - CCE/Student Leadership.md
+      - CCE/Values In Action.md
+      - CCE/Character Awards.md
       - Programme for Active Learning.md
       - PE, Art and Music/.keep
       - PE, Art and Music/Physical Education.md
