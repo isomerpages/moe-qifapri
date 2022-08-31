@@ -2,11 +2,11 @@ collections:
   programmes:
     output: true
     order:
-      - Mother Tongue/Tamil.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Mother Tongue.md
       - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
       - ICT/.keep
       - ICT/Information, Communications and Technology.md
       - ICT/ICT Achievements.md
