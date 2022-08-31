@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - PE, Art and Music/Visual Art.md
       - PE, Art and Music/Physical Education.md
       - PE, Art and Music/.keep
       - CCAs.md
