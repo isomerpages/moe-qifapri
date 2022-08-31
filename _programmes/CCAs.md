@@ -341,3 +341,13 @@ Singapore Youth Festival bi-annually (Performing Art CCAs) – subject to select
   </tr>
 </tbody>
 </table>
+
+All Primary 3 to 6 pupils are strongly encouraged to join a CCA as the school strongly believes that CCA provides pupils with an opportunity to experience learning outside the classroom. Instructors or coaches are engaged for all Performing Arts and Sports CCA groups to further develop pupils holistically through social interaction with their peers.
+
+  
+
+Primary 2 pupils go though the CCA Experience Programme in Semester 2 to allow them to have a better understanding of what CCA entails.
+
+  
+
+CCA is held on Tuesday and / or Thursday from 2.00pm to 4.00pm.
