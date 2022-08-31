@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - PE, Art and Music/.keep
       - CCAs.md
       - Learning for Life Programme.md
       - Applied Learning Programme.md
