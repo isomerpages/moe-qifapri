@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CCE/MOE Sexuality Education in Schools.md
       - CCE/Character & Citizenship Education.md
       - CCE/.keep
       - Programme for Active Learning.md
