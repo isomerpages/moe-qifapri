@@ -1,6 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    collection: about-us
+  - title: Administration
+    collection: administration
+  - title: "Accolades and Achievements "
+    collection: accolades-and-achievements
+  - title: Programmes
+    collection: programmes
+  - title: Partnership
+    collection: partnership
+  - title: Links
+    collection: links
+  - title: Microsite
+    url: https://sites.google.com/moe.edu.sg/p1orientationqifa
