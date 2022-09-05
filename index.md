@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /privacy/
+          url: /announcements/permalink/
 ---
