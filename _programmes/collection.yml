@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Mathematics/Programmes.md
       - Mathematics/Mathematics.md
       - Mathematics/.keep
       - Science.md
