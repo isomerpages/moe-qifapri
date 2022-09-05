@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Parents/Pupil Travel Declaration.md
-      - Parents/Parents.md
       - Parents/.keep
+      - Parents/Parents.md
+      - Parents/Pupil Travel Declaration.md
       - Pupils/.keep
       - Pupils/Pupils.md
       - Pupils/Reading.md
