@@ -2,6 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Pupils/Example Title.md
+      - Pupils/Reading.md
       - Pupils/Pupils.md
       - Pupils/.keep
