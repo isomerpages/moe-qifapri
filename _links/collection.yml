@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents.md
       - Pupils/.keep
       - Pupils/Pupils.md
       - Pupils/Reading.md
