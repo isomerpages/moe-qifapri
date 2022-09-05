@@ -2,10 +2,10 @@ collections:
   programmes:
     output: true
     order:
-      - Mathematics/Maths Links.md
-      - Mathematics/Programmes.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Programmes.md
+      - Mathematics/Maths Links.md
       - Science.md
       - Mother Tongue/.keep
       - Mother Tongue/Mother Tongue.md
