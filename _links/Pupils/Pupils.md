@@ -4,7 +4,6 @@ permalink: /links/permalink/
 description: ""
 third_nav_title: Pupils
 ---
-
 Pupils
 ======
 
@@ -21,7 +20,7 @@ Pupils
 [Guide to access SwimSafer Quiz](/files/Guidelines%20to%20access%20SwimSafer%202.pdf)  
 [Guide to print SwimSafer E-Certificate](/files/SwimSafer%20E-Certificate%20User%20Guide%20(For%20Parents)-compressed.pdf)
   
-[Reading](https://qifapri-moe-edu-sg-admin.cwp.sg/links/pupils/reading)  
+[Reading](/links/Pupils/reading/permalink/)  
   
 [eCareer](https://www.myskillsfuture.gov.sg/content/student/en/primary.html)  
   
