@@ -2,6 +2,7 @@ collections:
   partnership:
     output: true
     order:
+      - Parents/2021 P6 Graduation.md
       - Parents/Home Based Learning.md
       - Parents/Google Classroom Documents.md
       - Parents/Parents.md
