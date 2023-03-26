@@ -1,6 +1,6 @@
 ---
 title: Student Care Centre
-permalink: /administration/StudentCareCentre/permalink
+permalink: /administration/StudentCareCentre/permalink/
 description: ""
 ---
 Student Care Centre
@@ -27,4 +27,4 @@ School Term : 1.30pm to 7pm
 
 School Holidays : 7.30am to 7pm
 
-![](/images/SCC%20Info.jpg)
+![](/images/Done/Done/SCC%20Info.jpg)
