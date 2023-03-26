@@ -1,6 +1,6 @@
 title: Qifa Primary School
 url: https://qifapri.moe.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/qifalogo.jpg
 colors:
   primary-color: "#8a0616"
   secondary-color: "#3ad1af"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1i3m52bw81st9.amplifyapp.com
 prod: https://master.d1i3m52bw81st9.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo-main.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
