@@ -1,22 +1,16 @@
 ---
 title: Principal's Message
-permalink: /about-us/PrincipalMessage/permalink
+permalink: /about-us/PrincipalMessage/permalink/
 description: ""
 ---
 Principal's Message
 ===================
 
 
+<img src="/images/Done/Done/Mrs%20Catherine%20Chiang.jpeg" 
+     style="width:50%;float:left">
 
 
-
-<div>
-
-<div style="float: left">
-
-![](/images/Mrs%20Catherine%20Chiang.jpeg) 
-
-</div><div>
 
 It is my pleasure to welcome you and your children back to a new school year and to QIFA, a wonderful school founded 113 years ago, which has since grown into a school of choice among parents, educators and students.
 
