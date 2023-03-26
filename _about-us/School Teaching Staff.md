@@ -47,91 +47,91 @@ School Teaching Staff
     <td class="tg-njgx">nurul_atieqa_shafiee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Ms Soh Yi An</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">soh_yi_an@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">1C</td>
-    <td class="tg-njgx">Mr Brendan Lim</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">brendan_lim_cheng_hai@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mdm Siti Mariam</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">siti_mariam_md_kasim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">1D</td>
-    <td class="tg-njgx">Ms Eileen Ang</td>
-    <td class="tg-njgx">SH/PE&amp;CCA</td>
-    <td class="tg-njgx">eileen_ang@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mdm Kwan Wai Yee</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">kwan_wai_yee@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">1E</td>
-    <td class="tg-njgx">Mr Lai Kar Kit</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">lai_kar_kit@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mdm Norhazlinah</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">norhazlinah_latib@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">1F</td>
-    <td class="tg-njgx">Ms Han Mengshi</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">han_mengshi@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mdm Lim Lean See</td>
-    <td class="tg-njgx">SWB Coordinator</td>
-    <td class="tg-njgx">lim_lean_see@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">1G</td>
-    <td class="tg-njgx">Mdm Wang Heck Ling</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">wang_heck_ling@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mrs Rebecca Wong</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">yeo_saw_yan_rebecca@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="3">1H</td>
-    <td class="tg-njgx">Mrs Jacqueline Lok</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">jacqueline_lok_pei_ling@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Ms Lily Suriani Tan</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">lily_suriani_tan@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-njgx">Mr Tan Kwee Chuan</td>
     <td class="tg-njgx"> </td>
     <td class="tg-njgx">tan_kwee_chuan@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx" rowspan="2">1I</td>
-    <td class="tg-njgx">Mdm Patricia Goh</td>
+    <td class="tg-njgx" rowspan="3">1C</td>
+    <td class="tg-njgx">Mrs Lim Soke Hwee</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">patricia_goh@schools.gov.sg</td>
+    <td class="tg-njgx">lim_soke_hwee@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mr Meng Xianmin</td>
+    <td class="tg-njgx">Ms Lim Shu Ning</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">meng_xianmin@schools.gov.sg</td>
+    <td class="tg-njgx">	lim_shu_ning@schools.gov.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-njgx">Mrs Rebecca Wong</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">	yeo_saw_yan_rebecca@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1D</td>
+    <td class="tg-njgx">Mr Brendan Lim</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">brendan_lim_cheng_hai@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Mdm Yu Kuon Len</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">yu_kuon_len@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1E</td>
+    <td class="tg-njgx">Mr Leang Shi Yan</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">leang_shi_yan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Ms Nurul Adlina</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">nurul_adlina_binte_adnan@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1F</td>
+    <td class="tg-njgx">Mdm Leok Shiau Lie</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">leok_shiau_lie@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Ms Sherlyn Li</td>
+    <td class="tg-njgx"></td>
+    <td class="tg-njgx">li_seow_keng_sherlyn@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1G</td>
+    <td class="tg-njgx">Ms Abigail Koh</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">abigail_koh_zhi_wei@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Mr Benny Lim</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">	lim_kah_peng@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1H</td>
+    <td class="tg-njgx">Ms Anthea Ong</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">anthea_ong_qian_mei@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Ms Deepa</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">deepa_naidu_ananda@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">1I</td>
+    <td class="tg-njgx">Ms Seow Wen-Qi</td>
+    <td class="tg-njgx">ST/Lower Primary Learners </td>
+    <td class="tg-njgx">seow_wen-qi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Ms Serene Cheong</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">cheong_xuan_yin_serene@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-kgb6" colspan="4">PRIMARY 2</td>
