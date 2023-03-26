@@ -193,36 +193,47 @@ School Teaching Staff
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">2F</td>
-    <td class="tg-njgx">Ms Serene Cheong</td>
+    <td class="tg-njgx">Ms Han Mengshi</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">cheong_xuan_yin_serene@schools.gov.sg</td>
+    <td class="tg-njgx">	han_mengshi@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Ms Nurul Adlina</td>
+    <td class="tg-njgx">Mdm Lim Lean See</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">nurul_adlina_binte_adnan@schools.gov.sg</td>
+    <td class="tg-njgx">	lim_lean_see@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">2G</td>
-    <td class="tg-njgx">Mrs Jayanthi Rao</td>
+    <td class="tg-njgx">Ms Chui Ru Wei</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">jayanthi_arumugam@schools.gov.sg</td>
+    <td class="tg-njgx">chui_ru_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mr Leang Shi Yan</td>
-    <td class="tg-njgx">CCE Coordinator</td>
-    <td class="tg-njgx">leang_shi_yan@schools.gov.sg</td>
+    <td class="tg-njgx">Mdm Wang Heck Ling</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">wang_heck_ling@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">2H</td>
-    <td class="tg-njgx">Ms Sherlyn Li</td>
+    <td class="tg-njgx">Mdm Jacqueline Lok</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">li_seow_keng_sherlyn@schools.gov.sg</td>
+    <td class="tg-njgx">	jacqueline_lok_pei_ling@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mrs Thena</td>
-    <td class="tg-njgx">TL Coordinator</td>
-    <td class="tg-njgx">jayanthi_yelamalay@schools.gov.sg</td>
+    <td class="tg-njgx">Ms Lily Suriani Tan</td>
+    <td class="tg-njgx">YH/Lower Primary</td>
+    <td class="tg-njgx">	lily_suriani_tan@schools.gov.sg</td>
+  </tr>
+	  <tr>
+    <td class="tg-njgx" rowspan="2">2I</td>
+    <td class="tg-njgx">Ms Joyce Huang</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">		huang_yuxin_joyce@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Mr Meng Xianmin</td>
+    <td class="tg-njgx"></td>
+    <td class="tg-njgx">	meng_xianmin@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-kgb6" colspan="4">PRIMARY 3</td>
