@@ -1,12 +1,12 @@
 ---
 title: School Support Staff
-permalink: /about-us/support/permalink
+permalink: /about-us/support/permalink/
 description: ""
 ---
 School Support Staff
 ====================
 
-![](/images/executive%20and%20administrative%20staff%202.jpg)
+![](/images/Done/Done/executive%20and%20administrative%20staff%202.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -30,14 +30,18 @@ School Support Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qrq8">Ms Lee Seet Fong<br></td>
-    <td class="tg-njgx">Administration Manager<br></td>
-    <td class="tg-0cio"><a href="mailto:LEE_Seet_Fong@schools.gov.sg">LEE_Seet_Fong@schools.gov.sg</a></td>
+    <td class="tg-qrq8">Mr Tan Seng Chuan<br></td>
+    <td class="tg-njgx">Operations Manager<br></td>
+    <td class="tg-0cio"><a href="mailto:
+tan_seng_chuan@schools.gov.sg">
+tan_seng_chuan@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-qrq8">Mr G.Haridass<br></td>
+    <td class="tg-qrq8">Mr Mike Loke<br></td>
     <td class="tg-njgx">Operations Manager<br></td>
-    <td class="tg-0cio"><a href="mailto:g_haridass@schools.gov.sg">g_haridass@schools.gov.sg</a></td>
+    <td class="tg-0cio"><a href="mailto:
+loke_yeng_yuen@schools.gov.sg">
+loke_yeng_yuen@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td class="tg-qrq8">Ms Kasturi Selvarajoo<br></td>
