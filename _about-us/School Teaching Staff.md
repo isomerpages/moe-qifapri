@@ -239,91 +239,81 @@ School Teaching Staff
     <td class="tg-kgb6" colspan="4">PRIMARY 3</td>
   </tr>
   <tr>
-    <td class="tg-njgx" rowspan="3">3A</td>
+    <td class="tg-njgx" rowspan="2">3A</td>
     <td class="tg-njgx">Mdm Ruzi</td>
     <td class="tg-njgx"> </td>
     <td class="tg-njgx">nur_azmia_ruziani_azman@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mdm Siti Aishah</td>
+    <td class="tg-njgx">Ms Violet Koh</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">siti_aisah_karim@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mdm Nafisah</td>
-    <td class="tg-njgx">P1-3 ML Coordinator</td>
-    <td class="tg-njgx">nafisah_abd_hamid@schools.gov.sg</td>
+    <td class="tg-njgx">koh_lai_ling@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">3B</td>
-    <td class="tg-njgx">Mr Goh Yi Keng</td>
+    <td class="tg-njgx">Mr Victor Ang</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">goh_yi_keng@schools.gov.sg</td>
+    <td class="tg-njgx">ang_yulong_victor@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Ms Rashiqah</td>
+    <td class="tg-njgx">Ms Yuzalina</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">rashiqah_mohd_rashid@schools.gov.sg</td>
+    <td class="tg-njgx">yuzalina_mahfuz@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">3C</td>
-    <td class="tg-njgx">Mrs Cheah Hwee Lin</td>
+    <td class="tg-njgx">Ms Rose</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">koh_hwee_lin@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Ms Chui Ru Wei</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">chui_ru_wei@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="3">3D</td>
-    <td class="tg-njgx">Mr Faisal</td>
-    <td class="tg-njgx">HOD/L.E.A.P</td>
-    <td class="tg-njgx">mohamad_faisal_jamain@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Ms Abigail Koh</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">abigail_koh_zhi_wei@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mr Alex Wong</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">wong_hoong_khit@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">3E</td>
-    <td class="tg-njgx">Mr Leong Yew Meng</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">leong_yew_meng@schools.gov.sg</td>
+    <td class="tg-njgx">manuel_rose_delema@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx">Ms Yap Kar Wei</td>
-    <td class="tg-njgx">LH/CL (int)</td>
+    <td class="tg-njgx"> </td>
     <td class="tg-njgx">yap_kar_wei@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx" rowspan="2">3F</td>
-    <td class="tg-njgx">Ms Kok Li Yin</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">kok_li_yin@schools.gov.sg</td>
+    <td class="tg-njgx" rowspan="2">3D</td>
+    <td class="tg-njgx">Ms Camy Ong</td>
+    <td class="tg-njgx">	YH/Middle Primary</td>
+    <td class="tg-njgx">ong_lay_leng_camy@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mrs Bernice Yap</td>
-    <td class="tg-njgx">SH/Discipline (int)</td>
-    <td class="tg-njgx">toh_bee_lay@schools.gov.sg</td>
+    <td class="tg-njgx">Mr Melvin Chan</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">melvin_chan_wei_yi@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">3E</td>
+    <td class="tg-njgx">Ms Moh Choy Ying</td>
+    <td class="tg-njgx">HOD/Science </td>
+    <td class="tg-njgx">moh_choy_ying@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Mr Ng Joon Khang</td>
+    <td class="tg-njgx">ST/Chinese</td>
+    <td class="tg-njgx">ng_joon_khang@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx" rowspan="2">3F</td>
+    <td class="tg-njgx">Mdm J Latifah</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">j_latifah_abu_jalil@schools.gov.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-njgx">Ms Teresa Wong</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">teresa_wong_hui_ling@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">3G</td>
-    <td class="tg-njgx">Ms Adeline Chan</td>
-    <td class="tg-njgx">AYH/P1-3</td>
-    <td class="tg-njgx">chan_hui_ling_a@schools.gov.sg</td>
+    <td class="tg-njgx">Mdm Soh Hui Ting</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">soh_hui_ting@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mr Aaron Koh</td>
-    <td class="tg-njgx">HOD/PAM &amp; CCA</td>
-    <td class="tg-njgx">aaron_koh_sheng_min@schools.gov.sg</td>
+    <td class="tg-njgx">Mrs Thena</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">jayanthi_yelamalay@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-kgb6" colspan="4">PRIMARY 4</td>
