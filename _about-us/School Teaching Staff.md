@@ -240,9 +240,9 @@ School Teaching Staff
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="3">3A</td>
-    <td class="tg-njgx">Mrs Nicole Goh</td>
-    <td class="tg-njgx">YH/P4-6</td>
-    <td class="tg-njgx">lee_hui_min@schools.gov.sg</td>
+    <td class="tg-njgx">Mdm Ruzi</td>
+    <td class="tg-njgx"> </td>
+    <td class="tg-njgx">nur_azmia_ruziani_azman@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx">Mdm Siti Aishah</td>
