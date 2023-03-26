@@ -1,6 +1,6 @@
 ---
 title: School Teaching Staff
-permalink: /about-us/teachingstaff/permalink
+permalink: /about-us/teachingstaff/permalink/
 description: ""
 ---
 School Teaching Staff
@@ -31,20 +31,20 @@ School Teaching Staff
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">1A</td>
-    <td class="tg-njgx">Ms Anthea Ong</td>
-    <td class="tg-njgx"> </td>
-    <td class="tg-njgx">anthea_ong_qian_mei@schools.gov.sg</td>
+    <td class="tg-njgx">Ms Nurul Jannah</td>
+    <td class="tg-njgx"> AYH/Lower Primary</td>
+    <td class="tg-njgx">	nurul_jannah_ismail@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mdm Yar King Phin</td>
+    <td class="tg-njgx">Mdm Lim Yi Hui</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">yar_king_phin@schools.gov.sg</td>
+    <td class="tg-njgx">	lim_yi_hui@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx" rowspan="2">1B</td>
-    <td class="tg-njgx">Mrs Selva Rajoo</td>
+    <td class="tg-njgx">Mrs Ain</td>
     <td class="tg-njgx"> </td>
-    <td class="tg-njgx">selva_rajoo_ramayi@schools.gov.sg</td>
+    <td class="tg-njgx">nurul_atieqa_shafiee@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-njgx">Ms Soh Yi An</td>
