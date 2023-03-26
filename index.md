@@ -2,7 +2,7 @@
 layout: homepage
 title: Qifa Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo-main.png
 permalink: /
 notification: ""
 sections:
@@ -13,4 +13,5 @@ sections:
           description: ""
           url: /announcements/permalink/
 ---
+
 
