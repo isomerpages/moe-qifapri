@@ -1,12 +1,12 @@
 ---
 title: School Executive Committee
-permalink: /about-us/sec/permalink
+permalink: /about-us/sec/permalink/
 description: ""
 ---
 School Executive Committee
 ==========================
 
-![](/images/Org%20Chart.jpg)
+![](/images/Done/Done/Org%20Chart.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
