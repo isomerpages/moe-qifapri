@@ -1,0 +1,11 @@
+collections:
+  partnership:
+    output: true
+    order:
+      - Parents/.keep
+      - Parents/Parents.md
+      - Parents/Google Classroom Documents.md
+      - Parents/Home Based Learning.md
+      - Parents/2021 P6 Graduation.md
+      - Parent Support Group.md
+      - School Advisory Committee.md
