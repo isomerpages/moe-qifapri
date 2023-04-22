@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Students’ Achievements – Our Graduating Cohort.md
-      - 2021/Exemplary Student by Class.md
       - 2021/.keep
       - 2021/2021.md
       - 2021/Students who have Excelled.md
+      - 2021/Exemplary Student by Class.md
       - 2020/.keep
       - 2020/2020.md
       - 2020/Students who have excelled.md
