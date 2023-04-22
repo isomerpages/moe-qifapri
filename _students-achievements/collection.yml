@@ -2,7 +2,6 @@ collections:
   students-achievements:
     output: true
     order:
-      - 2018.md
       - Students’ Achievements – Our Graduating Cohort.md
       - 2021/.keep
       - 2021/2021.md
@@ -19,3 +18,4 @@ collections:
       - 2019/Students Offered DSA.md
       - 2019/Students who have excelled.md
       - 2019/Top Student from Each P6 Class.md
+      - 2018.md
