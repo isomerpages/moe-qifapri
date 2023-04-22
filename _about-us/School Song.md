@@ -1,28 +1,14 @@
 ---
 title: School Song
-permalink: /about-us/schoolsong/permalink
+permalink: /about-us/schoolsong/permalink/
 description: ""
 ---
 School Song
 ===========
 
-As we come together
+**REQUIRE JACKSON INPUT MUSIC**
 
-United we'll do our best
-
-With perseverance and strength,
-
-We overcome all our trials
-
-  
-
-Together we will strive
-
-Towards a future bright
-
-One heart one voice one mind
-
-At Qifa we will shine
+<center>As we come together<br>United we'll do our best<br>With perseverance and strength,<br>We overcome all our trials<br><br>Together we will strive<br>rds a future bright<br>heart one voice one mind<br>ifa we will shine
 
   
 
@@ -42,4 +28,4 @@ Towards a future bright
 
 One heart one voice one mind
 
-At Qifa we will shine
+At Qifa we will shine</center>
