@@ -28,7 +28,7 @@ third_nav_title: "2021"
 | 18  | LUKE KOY |
 |  19 | MOK HUI TING, VICTORIA  |
 | 20  | NG YU EN  |
-| 21  | SIDNEY ALEXANDER  |
+| 21  | PAN RUIXI  |
 | 22  | PANG YUYING  |
 | 23  | PRANAV NARAYAN RAJKUMAR  |
 | 24  | RAHUL SEN  |
