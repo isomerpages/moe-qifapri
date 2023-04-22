@@ -6,6 +6,8 @@ third_nav_title: "2021"
 ---
 ## Students who have Excelled
 
+| **No.**  | **Student Name**  |
+|:-:|---|
 | 1  | AIDANZ NG (HUANG WEICONG)  |
 | 2  | ALANIS NEO JIA RUI  |
 | 3  |  BRAYDEN HO RUI HENG |
@@ -40,4 +42,10 @@ third_nav_title: "2021"
 | 32  | ZHAO JASMINE QINGYING  |
 | 33  | ZHU JINGXUAN  |
 |  34 | ZHU ZIFAN  |
+| 35  | WANG BEN  |
+| 36  |WONG KING JIT EVAN   |
+| 37  |  WONG ZI YANG JAVIER |
+| 38  | XU RUNZHANG  |
+|39   |YU LANG  |
+| 40  | ZHAO JAMES BANGYANG  |
 |   |   |
