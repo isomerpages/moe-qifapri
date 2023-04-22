@@ -12,10 +12,10 @@ third_nav_title: "2020"
 | Tan Ghee Kiat (Chen Yiji)  | 6 Adventurous  | Ghee Kiat puts in the effort to complete his assignments and improve his grades. He seeks clarification when in doubt during his learning. He shows perseverance in spite of set-backs.  |
 | Ummie Nadeera Binte Abdul Malik  | 6 Brainy  | Ummie has shown maturity, calmness and appreciation whilst she had to serve a Stay-Home-Notice during her Preliminary Examinations. Even though she was not in school to revise with the rest of the class, it did not dampen her spirits to seek help from teachers online to clarify her doubts. She is well-liked by her peers and has an easy-going personality. She is focused when there is a task at hand and does not get distracted.  |
 | Carrie Ngoh  | 6 Compassion  | Carrie is a responsible and self-motivated student who shows much initiative and possesses the drive to excel. She carries out her duty as the class NE Ambassador competently. Workwise, she constantly seeks to improve herself, putting her best foot forward in her daily work. She is also affable and unassuming, ever ready to render help to fellow classmates who require help in their work. She shows concern and empathy for her classmates and is a blessing to the people around her.  |
-| Wang Ben  |   |   |
-|Wong King Jit Evan   |   |   |
-|   |   |   |
-|   |   |   |
+| Wang Ben  | 6 Dynamicas  |Ben is an outgoing and confident student who actively contributes to class discussions. He is enthusiastic about learning and is willing to share his knowledge with his peers in class. He shows respect towards his teachers and peers. He is also a caring friend who renders help to others readily.   |
+|Wong King Jit Evan   | 6 Dynamicas  | Evan is a keen learner who is well read in his areas of interest. He enjoys sharing his knowledge with the class. He is conscientious and takes pride in submitting quality work. He has shown significant progress in respecting diverse views presented by his peers.  |
+| Xu Runzhang  | 6 Dynamicas  | Runzhang has a zest for learning and is able to grasp new concepts independently. He is enthusiastic in sharing his thoughts and knowledge with the class. He is also self-motivated and takes pride in submitting quality work.  |
+| Zhu Jingxuan  | 6 Dynamicas  | Jingxuan is a jovial and kind student who is well-liked by her peers. She has a zest for learning and actively seeks answers to quench her curiosity. As the National Education Ambassador, Jingxuan has taken up the challenge to facilitate class discussions and she has done well. She has consistently demonstrated consideration and empathy towards her peers and offers them words of encouragement.  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
