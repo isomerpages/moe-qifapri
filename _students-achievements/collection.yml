@@ -2,7 +2,7 @@ collections:
   students-achievements:
     output: true
     order:
-      - 2020/Students who have excelled.md
-      - 2020/2020.md
       - 2020/.keep
+      - 2020/2020.md
+      - 2020/Students who have excelled.md
       - Students’ Achievements – Our Graduating Cohort.md
