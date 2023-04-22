@@ -39,13 +39,13 @@ third_nav_title: "2021"
 | 29  | XU RUNZHANG  |
 |30   |YU LANG  |
 | 31  | ZHAO JAMES BANGYANG  |
-| 32  | ZHAO JASMINE QINGYING  |
-| 33  | ZHU JINGXUAN  |
-|  34 | ZHU ZIFAN  |
-| 35  | WANG BEN  |
-| 36  |WONG KING JIT EVAN   |
-| 37  |  WONG ZI YANG JAVIER |
-| 38  | XU RUNZHANG  |
-|39   |YU LANG  |
-| 40  | ZHAO JAMES BANGYANG  |
+| 32  | WOO ZHI YANG ALVIN  |
+| 33  | XU WANGSHU  |
+|  34 | YANG JIU  |
+| 35  | YANG MAOLONG  |
+| 36  |YE QINGHE   |
+| 37  |  YU BEI HAO |
+| 38  | YU MENGXUAN  |
+|39   |ZHOU YICHEN  |
+| 40  | ZHU RUIXI  |
 |   |   |
