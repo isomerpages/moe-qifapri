@@ -2,9 +2,9 @@ collections:
   students-achievements:
     output: true
     order:
+      - Students’ Achievements – Our Graduating Cohort.md
       - 2020/.keep
       - 2020/2020.md
       - 2020/Students who have excelled.md
       - 2020/Top Student from Each P6 Class.md
       - 2020/Students Offered DSA.md
-      - Students’ Achievements – Our Graduating Cohort.md
