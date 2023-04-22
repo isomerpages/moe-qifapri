@@ -35,11 +35,11 @@ third_nav_title: "2020"
 | 25  | VAN DER MEULEN KAEDEN MILES  |
 | 26  | WANG BEN  |
 | 27  |WONG KING JIT EVAN   |
-| 28  |   |
-| 29  |   |
-|30   |   |
-| 31  |   |
-| 32  |   |
-| 33  |   |
-|  34 |   |
+| 28  |  WONG ZI YANG JAVIER |
+| 29  | XU RUNZHANG  |
+|30   |YU LANG  |
+| 31  | ZHAO JAMES BANGYANG  |
+| 32  | ZHAO JASMINE QINGYING  |
+| 33  | ZHU JINGXUAN  |
+|  34 | ZHU ZIFAN  |
 |   |   |
