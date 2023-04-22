@@ -1,6 +1,6 @@
 ---
 title: School Bookshop
-permalink: /administration/bookshop/permalink
+permalink: /administration/bookshop/permalink/
 description: ""
 ---
 School Bookshop
@@ -9,10 +9,8 @@ School Bookshop
 HB Book Centre
 --------------
 
-7 Everton Pk 
-
-#01-15 HDB Everton, 
-
+7 Everton Pk&nbsp;<br>
+#01-15 HDB Everton,&nbsp;<br>
 Singapore 080007
 
   
