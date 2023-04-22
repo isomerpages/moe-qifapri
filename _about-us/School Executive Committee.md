@@ -62,11 +62,6 @@ School Executive Committee
     <td class="tg-njgx">ng_jing_zong_kenny@schools.gov.sg</td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mrs Mavis Low</td>
-    <td class="tg-njgx">SSD</td>
-    <td class="tg-njgx">mavis_siew_sook_ling@schools.gov.sg</td>
-  </tr>
-  <tr>
     <td class="tg-njgx">Mr Mohamad Faisal</td>
     <td class="tg-njgx">HOD/Leadership, Engagement, Advocacy and Partnership</td>
     <td class="tg-njgx">mohamad_faisal_jamain@schools.gov.sg</td>
@@ -108,7 +103,7 @@ School Executive Committee
   </tr>
   <tr>
     <td class="tg-njgx">Ms Ong Jingxuan<br></td>
-    <td class="tg-njgx">LH/Science</td>
+    <td class="tg-njgx">LH/Staff Learning &amp; Development</td>
     <td class="tg-njgx">ong_jingxuan@schools.gov.sg</td>
   </tr>
   <tr>
