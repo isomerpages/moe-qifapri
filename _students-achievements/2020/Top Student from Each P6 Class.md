@@ -16,8 +16,8 @@ third_nav_title: "2020"
 |Wong King Jit Evan   | 6 Dynamicas  | Evan is a keen learner who is well read in his areas of interest. He enjoys sharing his knowledge with the class. He is conscientious and takes pride in submitting quality work. He has shown significant progress in respecting diverse views presented by his peers.  |
 | Xu Runzhang  | 6 Dynamicas  | Runzhang has a zest for learning and is able to grasp new concepts independently. He is enthusiastic in sharing his thoughts and knowledge with the class. He is also self-motivated and takes pride in submitting quality work.  |
 | Zhu Jingxuan  | 6 Dynamicas  | Jingxuan is a jovial and kind student who is well-liked by her peers. She has a zest for learning and actively seeks answers to quench her curiosity. As the National Education Ambassador, Jingxuan has taken up the challenge to facilitate class discussions and she has done well. She has consistently demonstrated consideration and empathy towards her peers and offers them words of encouragement.  |
-|   |   |   |
-|   |   |   |
+| Prithiviraj Chandrasekar  | 6 Empathy  | Raj is an articulate and amicable student who shares interesting perspectives in class discussions. He is a motivated student who takes ownership of his learning. He expresses his opinions well and readily. He grasps new ideas and concepts with ease, and is always open to accepting new challenges. Raj remains unfazed even when working under pressure. His delightful personality is an asset to the class, and he will continue to blossom in his academic and CCA pursuits.  |
+| Cho Yi Qing Lydia  |  6 Faith | Lydia is a conscientious and responsible pupil who has improved in her focus and attention this year. She has grown to become an independent learner who takes pride in her work and meets deadlines promptly. Lydia is also honest and trustworthy in her interactions with others and can be depended on to tell the truth.  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
