@@ -2,6 +2,7 @@ collections:
   students-achievements:
     output: true
     order:
+      - 2017.md
       - Students’ Achievements – Our Graduating Cohort.md
       - 2021/.keep
       - 2021/2021.md
