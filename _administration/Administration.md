@@ -1,6 +1,6 @@
 ---
 title: Administration
-permalink: /administration/permalink
+permalink: /administration/permalink/
 description: ""
 ---
 School Bus Service
@@ -8,31 +8,19 @@ School Bus Service
 
   
 
-### Alan Bus Services
-
-Clementi Central Post Office
-
-P.O. Box 65
-
+**Alan Bus Services**<br>
+Clementi Central Post Office<br>
+P.O. Box 65<br>
 Singapore 911203
-
-  
 
 Office Number: 6777 8811
 
-  
-
 Mobile Number: 9056 9496
-
-  
 
 Fax: 67791616
 
-  
-
-Website: [http://www.alanbus.com](http://www.alanbus.com/)
-
-Email: [alanbus@alanbus.com](mailto:alanbus@alanbus.com)
+Website:&nbsp;[http://www.alanbus.com](http://www.alanbus.com/)<br>
+Email:&nbsp;[alanbus@alanbus.com](mailto:alanbus@alanbus.com)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
