@@ -8,22 +8,22 @@ third_nav_title: "2019"
 
 | **No.**  | **Student Name**  |
 |:-:|---|
-| 1  | AIDANZ NG (HUANG WEICONG)  |
-| 2  | ALANIS NEO JIA RUI  |
-| 3  |  BRAYDEN HO RUI HENG |
-| 4  | CARRIE NGOH  |
-| 5  | CHAN SI YUN  |
-| 6  | CHNG HAO QIN  |
-| 7  | ELISE YUKI SIM (SHEN XUAN)  |
-| 8  | GE JINGYI  |
-| 9  | ILAYARAJA YAZHINI  |
-| 10  | ISHAAN KRISHNAN  |
-| 11  | JESLYN TAN RAYE YING  |
-| 12  | JI MOZHE  |
-| 13  | JIANG XINDI  |
-| 14  | JUNG INKI  |
-| 15  | KNG LI LIN, CRISTA  |
-|  16 | LEE HUA JAY  |
+| 1  | ALYSON CHIO EN RUI  |
+| 2  | ASHLEY LIM ANN LEE  |
+| 3  | CHUA TSZE YANG |
+| 4  | CHUA YEE TING  |
+| 5  | ETHAN TAN JIALE  |
+| 6  |FANG ZHEN GANG, BENJAMIN |
+| 7  | GUO JIAYI, ANDIE  |
+| 8  | HAMZA ASIM  |
+| 9  | HE YI XIN  |
+| 10  | ISAAC WAN HAO LUN  |
+| 11  | JAYDEN TAN JIA LE  |
+| 12  | JISU YUN  |
+| 13  |KENNETH KOH KAI LE  |
+| 14  | LI CHENG KUN  |
+| 15  | LI CHENJIA  |
+|  16 | MAK MUN YEW  |
 | 17  | LIU YICHEN CLAIRE  |
 | 18  | MOHAMMAD FARHAT  |
 |  19 | PRITHIVIRAJ CHANDRASEKAR  |
