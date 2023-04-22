@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /administration/contactus/permalink
+permalink: /administration/contactus/permalink/
 description: ""
 ---
 Contact Us
@@ -8,28 +8,23 @@ Contact Us
 
   
 
-Qifa Primary School 
-
-50 West Coast Avenue 
-
-Singapore 128104 
+Qifa Primary School&nbsp;<br>
+50 West Coast Avenue&nbsp;<br>
+Singapore 128104&nbsp;
 
   
 
   
 
-You may contact us using our contact data. 
+You may contact us using our contact data.&nbsp;
 
   
 
-**Phone:** 6778 3085 
-
-**Fax:** 6776 1485 
-
-**Email:** [qifa\_ps@moe.edu.sg](mailto:qifa_ps@moe.edu.sg)
+**Phone:**&nbsp;6778 3085&nbsp;<br>
+**Fax:**&nbsp;6776 1485&nbsp;<br>
+**Email:**&nbsp;[qifa\_ps@moe.edu.sg](mailto:qifa_ps@moe.edu.sg)
 
   
 
-Nearest MRT Station: Clementi MRT
-
+Nearest MRT Station: Clementi MRT<br>
 Bus Services: 285, 78, 51, 30, 143
