@@ -55,3 +55,16 @@ Class of 2000
 <br clear="left">
 
 When I received my PSLE score of 271, I knew much of it has to be credited to my education at Qifa primary school. While not a big name school at my time, Qifa is nonetheless one of the best in the West coast/ Ayer Rajah region.&nbsp; The teachers were caring and helpful, and always tried to cater to the needs of each individual student. My English was rather poor in lower primary due to my Chinese background. However, I eventually achieved an A in my PSLE, thanks to the encouragement and attention given to me by my teachers.&nbsp; Apart from the main curriculum, Qifa also exposes students to many enrichment activities. I remembered participating in nationwide Chinese essay writing competitions and science fairs. These were important experiences that helped me develop my interest in the future. Of course, School is not just a place to study, but also one to have fun and to make friends. Qifa, while not incredibly big, has most of the facilities one would need, including music rooms, multipurpose hall and venues for sports. As a member of both the school badminton and science clubs, I enjoyed my time at Qifa primary school thoroughly, and spent countless afternoons training or trying to complete the young scientist badges.&nbsp; I also made invaluable friends, some of whom I still keep in touch 15 years later. I miss my time in Qifa primary school and would recommend the school to any student who wants to study hard, play hard and ultimately have fond memories to treasure.
+
+----
+
+<br>
+
+<img align="left" style="width:30%" src="/images/lihanyi.jpg">
+
+Li Han Yi  <br>
+Primary 6E, Class of 2007  <br>
+Hwa Chong Outstanding Student Award
+<br clear="left">
+
+Qifa provided me with everything necessary for a good primary education, and prepared me aptly for greater challenges in life. The school equips herself with vast resources and expertise to deliver relevant knowledge and skills to students effectively. The teachers were some of the most experienced and patient educators that I have met: they offered early morning consultations before examinations, exposed us to novel pedagogy such as experiments, drama and debates, and encouraged us to raise any doubts we had in class. Besides academics, Qifa places a strong emphasis on character building, constantly educating students on the importance of manners and work ethics. Finally, Qifa invests generously in providing students with a holistic experience, which includes leadership, sports, aesthetics, and community service. Such a well-engineered education has inspired many batches of students to become exceptional members of society, and I am confident it will continue to do so.
