@@ -36,3 +36,23 @@ description: ""
 “It is really heart-warming to know the Teachers and Principal in Qifa care so much for their pupils.&nbsp; Our child enjoys school very much as he is the only child at home and look forward to meeting his friends and teachers in school.”
 
 <p align="right">Parent of a Primary 2 child</p>
+
+“Keep up the wonderful and lovely job.&nbsp; Kudos to the principal and teachers in Qifa who demonstrate and teach what they preach on holistic learning.”
+
+<p align="right">Parent of a Primary 2 child</p>
+
+“Thank you for all the support and guidance given to our child.&nbsp; Without it, he would not have had the opportunity to learn and improve himself in Qifa over the past 3 terms.&nbsp; We are glad that our child is in Qifa. The school and the staff has indeed lived up to its vision of ‘An Achieving School With A Caring Environment’.”
+
+<p align="right">Parent of a Primary I child</p>
+
+“The Form Teacher's prompt response has demonstrated Qifa Primary's commitment to providing a caring, friendly and secure environment, which is essential for any child's strive towards excellence… Thank you for the resolute assurance that your team has shown.”
+
+<p align="right">Parent of a Primary I child</p>
+
+“My family and I are extremely grateful to the school librarian for her outstanding sense of duty and for going above and beyond her job scope to take care of the welfare of our child.&nbsp; Please forward our appreciation to her and extend our compliments to the Principal and the rest of the school staff.”
+
+<p align="right">Parent of a Primary I child</p>
+
+“I would like to express my heartfelt thanks to some of the pupils of 4E who have gone out of their way to help us… I would also like to thank the IT staff who came to assist us on system problem and network connection.&nbsp; We also appreciate the school teachers who bought us some drinks as we could not afford to break for lunch due to time constraints. We were touched by the school hospitality.”
+
+<p align="right">Staff from National Library Board</p>
