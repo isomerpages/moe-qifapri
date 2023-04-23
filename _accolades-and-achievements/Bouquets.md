@@ -37,8 +37,7 @@ Please click&nbsp;[here](https://qifapri.moe.edu.sg/about-us/gallery/2018-photos
 
   
 
-Member of the Public, Mr Wayne Erh
-
+Member of the Public, Mr Wayne Erh<br>
 (Via online feedback to the school on Tuesday 21 April 2015)
 
   
@@ -53,7 +52,7 @@ Students from Qifa Primary School took part in the judging process and assisted 
 
 Mr Arthur Fong, Chairman of West Coast Town Council, also presented a token of appreciation to Mr Kenny Ng from Qifa Primary School for their participation.
 
-![](/images/West%20Coast%20Town%20Council%20Newsletter%202014.png)
+<img style="width:85%" src="/images/bouquet1.jpg">
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
