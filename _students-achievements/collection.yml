@@ -2,5 +2,5 @@ collections:
   students-achievements:
     output: true
     order:
-      - 2022 Achievement.md
       - 2023 Achievement.md
+      - 2022 Achievement.md
