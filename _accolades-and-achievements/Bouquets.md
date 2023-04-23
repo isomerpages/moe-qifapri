@@ -56,7 +56,7 @@ Mr Arthur Fong, Chairman of West Coast Town Council, also presented a token of a
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-![](/images/YiKuishuai.png)
+<img style="width:85%" src="/images/bouquet2.jpg">
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -70,7 +70,7 @@ She has been volunteering since she was 5 years old. Despite her size, she helps
 
   
 
-Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Minister for Finance, at the launch of 4PM Ramadhan On Wheel 2014 on 29 March 2014. Adriana is in Primary 2F.
+Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Minister for Finance, at the launch of 4PM Ramadhan On Wheel 2014 on 29 March 2014. Adriana is in Primary 2F. Click here for the full text of the speech.
 
   
 
