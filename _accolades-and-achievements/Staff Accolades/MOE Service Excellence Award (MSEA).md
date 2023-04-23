@@ -25,3 +25,8 @@ The MSEA is an MOE-wide award that recognises MOE staff who
 
 **MSEA Silver Award Winners:**  <br>
 (From left to right) Ms Angela Lim, Ms Lee Jia Yi, Mrs Yvonne Kam, Mrs Mavis Low, Mr Aaron Goh
+
+<img style="width:85%" src="/images/mseaimg4.jpg">
+
+**MSEA Silver Award Winners:**<br>
+(From left to right) Mdm Patricia Goh, Mdm Leok Shiau Lie, Mdm Farhana, Ms Adeline Chan, and&nbsp;Ms Lian Kay Yun (not in picture)
