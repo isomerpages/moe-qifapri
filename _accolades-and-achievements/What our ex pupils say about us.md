@@ -68,3 +68,12 @@ Hwa Chong Outstanding Student Award
 <br clear="left">
 
 Qifa provided me with everything necessary for a good primary education, and prepared me aptly for greater challenges in life. The school equips herself with vast resources and expertise to deliver relevant knowledge and skills to students effectively. The teachers were some of the most experienced and patient educators that I have met: they offered early morning consultations before examinations, exposed us to novel pedagogy such as experiments, drama and debates, and encouraged us to raise any doubts we had in class. Besides academics, Qifa places a strong emphasis on character building, constantly educating students on the importance of manners and work ethics. Finally, Qifa invests generously in providing students with a holistic experience, which includes leadership, sports, aesthetics, and community service. Such a well-engineered education has inspired many batches of students to become exceptional members of society, and I am confident it will continue to do so.
+
+----
+
+_"Ms Uma was one of the few inspiring figures who truly believed in my abilities, and constantly challenged me to out-perform myself. Concomitantly, she warned me of the perils of complacency and taught me to be humble."_
+
+<p align="right"><b>Yi Kuishuai (Pri 6 - 2009)</b></p>
+
+(Note: Kuishuai was featured in All-Round Excellence and Outstanding Student Award Graduation<br>
+2013, an annual Hwa Chong Institution publication on their most outstanding students.)
