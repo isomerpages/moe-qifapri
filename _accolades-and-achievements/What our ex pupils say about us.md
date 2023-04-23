@@ -95,3 +95,16 @@ I will never forget the first moment when I stepped into this school. The wide h
 I thoroughly enjoyed my time spent in Qifa Primary School, be it hiding in the privacy of a corner of the school reading my favourite stories and novels or listening with delight to the lessons made more engaging by the jests and jokes exchanged between students and teachers. But of course the lessons during school were not only fun and games; I remember with much fondness the patience of my teachers in answering all of our doubts and questions, and their innovation in developing little ways to help us learn better, for example through class projects, group projects, inter-group competitions in class and so on.
 
 It is in Qifa that I made so many friends who stuck with me through thick and thin, through basketball matches during recess and house parties after PSLE, through secondary school and hopefully even through our lives. Even though throughout my primary school, there were several occasions when my parents hesitated over if I should transfer to another school, ultimately we always chose to stay – because Qifa offers such a holistic and enjoyable learning journey to all her students. And to this day, I have never regretted my choice.
+
+----
+
+<br>
+
+<img align="left" style="width:30%" src="/images/joelng.jpg">
+
+**Joel Ng**&nbsp;<br>
+Class of 2004&nbsp;<br>
+Reading Law in Cambridge University
+<br clear="left">
+
+Primary school education is all about building a strong foundation and getting the basics right. Throughout my six years in Qifa Primary School, I was consistently amazed by the peerless and selfless dedication of my teachers. They went the extra mile to make lessons engaging and interesting and instill important virtues of diligence, discipline and determination in their students, creating an environment that was conducive to intellectual discourse and academic development. At the same time, their efforts at delivering a holistic education were clear in their efforts to form strong interpersonal relationships with their students to help develop them on an individual level. It can thus be said that classrooms were ruled with both an iron fist and a heart of gold. The foundation of a great education is great educators. Sounds basic? Well, Qifa got the basics right, and for that I am truly grateful.
