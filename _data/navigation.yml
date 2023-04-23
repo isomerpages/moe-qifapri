@@ -5,8 +5,20 @@ links:
   - title: Administration
     collection: administration
   - title: Accolades and Achievements
-    url: /permalink
-    sublinks: []
+    url: /students-achievements/our-grad-cohort/
+    sublinks:
+      - title: Our Graduating Cohort
+        url: /students-achievements/our-grad-cohort/
+      - title: Celebrated on Honours Day
+        url: /accolades-and-achievements/honoursday/permalink
+      - title: Students Achievements
+        url: /accolades-and-achievements/StudentsAchievements/permalink
+      - title: What ex-pupils say about us
+        url: /accolades-and-achievements/ex/permalink
+      - title: Bouquets
+        url: /accolades-and-achievements/Bouquets/permalink
+      - title: Staff Accolades
+        url: /accolades-and-achievements/StaffAccolades/permalink
   - title: Programmes
     collection: programmes
   - title: Partnership
