@@ -76,9 +76,7 @@ Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Mini
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-![](/images/Kenneth%20Chee%20Wei%20Quan.png)
-
-![](/images/Li%20Bo.png)
+<img style="width:85%" src="/images/bouquet3.jpg">
 
 
 
