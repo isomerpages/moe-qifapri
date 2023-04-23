@@ -39,3 +39,8 @@ Qifa News Network (QNN), the school’s newscast and signature programme, provid
 |:-:|---|
 | QNN journalists reporting school events  | QNN journalists reporting school events  |
 |   |   |
+
+<img align="left" style="width:49%" src="/images/applied7.jpg">
+<br clear="left">
+
+<p align="left">QNN journalists reporting school events</p>
