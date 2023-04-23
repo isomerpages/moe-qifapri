@@ -80,6 +80,6 @@ Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Mini
 
 
 
-* **[Bouquets from Parents and Other Partners](https://qifapri.moe.edu.sg/accolades-and-achievements/bouquets/bouquets-from-parents-and-other-partners)**
+* **[Bouquets from Parents and Other Partners](/bouquets-1/)**
 
 * **[Ex-pupils who have excelled in post primary education](https://qifapri.moe.edu.sg/accolades-and-achievements/bouquets/ex-pupils-who-have-excelled-in-post-primary-education)**
