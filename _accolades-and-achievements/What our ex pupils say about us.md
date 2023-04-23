@@ -77,3 +77,21 @@ _"Ms Uma was one of the few inspiring figures who truly believed in my abilities
 
 (Note: Kuishuai was featured in All-Round Excellence and Outstanding Student Award Graduation<br>
 2013, an annual Hwa Chong Institution publication on their most outstanding students.)
+
+----
+
+<br>
+
+<img align="left" style="width:30%" src="/images/qiubiqing.jpg">
+
+**Qiu Biqing**<br>
+Top PSLE pupil in 2009<br>
+Currently studying in Raffles Girls’ Secondary (2013)
+<br clear="left">
+
+**Qifa Primary School – A Happy Journey**<br>
+I will never forget the first moment when I stepped into this school. The wide hall, with its grand high ceiling and the crowd of students of different races huddled on the floor, impressed and intimidated me. In the years to come the intimidation wore away, leaving in its wake only fondness and intimacy for this school that has heralded my entrance to the Singaporean society and its way of life.
+
+I thoroughly enjoyed my time spent in Qifa Primary School, be it hiding in the privacy of a corner of the school reading my favourite stories and novels or listening with delight to the lessons made more engaging by the jests and jokes exchanged between students and teachers. But of course the lessons during school were not only fun and games; I remember with much fondness the patience of my teachers in answering all of our doubts and questions, and their innovation in developing little ways to help us learn better, for example through class projects, group projects, inter-group competitions in class and so on.
+
+It is in Qifa that I made so many friends who stuck with me through thick and thin, through basketball matches during recess and house parties after PSLE, through secondary school and hopefully even through our lives. Even though throughout my primary school, there were several occasions when my parents hesitated over if I should transfer to another school, ultimately we always chose to stay – because Qifa offers such a holistic and enjoyable learning journey to all her students. And to this day, I have never regretted my choice.
