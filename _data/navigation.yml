@@ -4,8 +4,9 @@ links:
     collection: about-us
   - title: Administration
     collection: administration
-  - title: "Accolades and Achievements "
-    collection: accolades-and-achievements
+  - title: Accolades and Achievements
+    url: /permalink
+    sublinks: []
   - title: Programmes
     collection: programmes
   - title: Partnership
