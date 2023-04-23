@@ -10,10 +10,10 @@ third_nav_title: Staff Accolades
 
 The MSEA is an MOE-wide award that recognises MOE staff who
 
-*   are passionate in their service delivery  
-      
-    
+*   are passionate in their service delivery     
 *   consistently serve internal and external customers with C.A.R.E (Collaborate, Anticipate, Reach out, Empathise)  
-      
-    
 *   inspire their colleagues to do likewise
+
+<u><b>2021 MOE Service Excellence Award:</b></u>
+
+<img style="width:85%" src="/images/mseaimg2.jpg">
