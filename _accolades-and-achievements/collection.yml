@@ -2,9 +2,9 @@ collections:
   accolades-and-achievements:
     output: true
     order:
-      - Student Achievements/.keep
       - Graduating Cohort/.keep
       - Students Achievements Celebrated on Honours Day.md
+      - Student Achievements/.keep
       - What our ex pupils say about us.md
       - Bouquets.md
       - Staff Accolades.md
