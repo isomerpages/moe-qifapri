@@ -44,3 +44,9 @@ Qifa News Network (QNN), the school’s newscast and signature programme, provid
 <br clear="left">
 
 <p align="left">QNN journalists reporting school events</p>
+
+**Developing Active Thinkers**&nbsp;<br>
+Visible Thinking Routines are embedded in our lessons to develop our pupils to be active thinkers. These thinking routines are simple are simple but powerful tools to teach thinking skills explicitly and develop thinking dispositions.
+
+To be effective communicators, pupils need to learn to consider the different and diverse perspectives of others and be confident to share their own. Through the applied learning programme, pupils are free to pen down and discuss their thoughts with their peers in a fun and non-threatening learning environment.
+
