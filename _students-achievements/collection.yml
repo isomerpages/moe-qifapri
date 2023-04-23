@@ -2,9 +2,9 @@ collections:
   students-achievements:
     output: true
     order:
-      - 2020 Achievements/Other Achievements.md
-      - 2020 Achievements/2020 Achievements.md
       - 2020 Achievements/.keep
+      - 2020 Achievements/2020 Achievements.md
+      - 2020 Achievements/Other Achievements.md
       - 2023 Achievement.md
       - 2022 Achievement.md
       - 2021 Achievements/.keep
