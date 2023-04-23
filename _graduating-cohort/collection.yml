@@ -1,5 +1,5 @@
 collections:
-  students-achievements:
+  graduating-cohort:
     output: true
     order:
       - Students’ Achievements – Our Graduating Cohort.md
