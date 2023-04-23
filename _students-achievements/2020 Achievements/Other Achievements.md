@@ -13,12 +13,5 @@ third_nav_title: 2020 Achievements
 | <br><br><br><br><br><br><br><br>Singapore Math Kangaroo<br>Contest (SMKC)<br>Primary 4  | Perfect Score<br><br><br><br>Gold<br><br><br><br>Silver<br><br><br><br><br><br><br>Bronze  | KAN YU HONG (4E)<br>YAN XIYUAN LISA (4E)<br><br>SOH ZHI SHENG (4E)<br>BANGARI VENKATESHA JUANITA (4E)<br><br>YANG YIK YIN RYAN (4E)<br><br>CHEN JUNLAN (4E)<br>JESHER LIM YI HUI (4E)<br>ELISE YEO ZITONG (4E)<br>YIK LE YI (4E)<br>QUEK JIN SHYAN (4E)<br>GAN KAI ZHE (4E)<br>ZHAO MICHAEL BANGZE (4E)<br>CHEO ZENG HOE (4D)<br>THAM HOY CHUN (4E) |
 | <br><br><br><br><br>Singapore and Asian<br>Schools Math Olympiad&nbsp;<br>(SASMO) – Primary 3  |<br><br><br>Silver <br><br><br><br><br><br><br><br>Bronze  | XU&nbsp; XIAOFAN (3C)<br>XU&nbsp; YIHONG (3D)<br>CHEN&nbsp; YIHAO, ISABELLA (3C)<br>YAO WEISHI VINCENT (3D)<br>LIM&nbsp; YEUH CHEAH REYES (3D)<br><br>LEE HUA SUN (3C)<br>CHANDRASEKAR SURYAVARMAN (3B)<br>TAN LE QIAN (3C)<br>SIYATH ATAPATTU (3C)  |
 | <br><br><br><br><br><br><br><br>Singapore and Asian<br>Schools Math Olympiad&nbsp;<br>(SASMO) – Primary 3  | <br>Gold<br><br><br><br><br>Silver<br><br><br><br><br><br><br><br>Bronze | YAN XIYUAN LISA (4E)<br>BANGARI VENKATESHA JUANITA (4E)<br><br>JIN XINYUE (4E)<br>LIM JESHER YI HUI (4E)<br>SOH ZHI SHENG (4E) <br><br>LI ZEXUAN (4E)<br>ZHAO MICHAEL BANGZE (4E)<br>CHEN JUNLAN (4E)<br>KAN YU HONG (4E)<br>QUEK JIN SHYAN (4E)<br>GARETH KOH HONGXU (4E)<br>YANG YIK YIN RYAN (4E)<br>YIK LE YI (4E) |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| <br><br><br><br><br><br><br><br><br>13th Annual Mathlympics<br>2020  | <br>Gold<br><br><br><br>Silver <br><br><br><br><br><br><br><br><br><br>Bronze | GUO CHENGXI (5C)<br>YAN XIYUAN LISA (4E)<br>YE QINGHE (5A)<br><br>NG YU EN (5B)<br>PARANIDHARAN VISHAL (5C)<br><br> TAN LUCAS CHUN LEONG (5A)<br>BANGARI VENKATESHA JUANITA (4E)<br>DECLAN &nbsp;KHODYAT (5A)<br>MAK MUN ZHONG (5A)<br>PANG YUYING (5B)<br>TAN YU XUAN GABRIEL (5C)<br>THAM YUJAY (5C)<br>WONG PIN RUI (5B)<br>YU MENGXUAN (5B)<br>ZHU RUIXI (5A) |
 |   |   |   |
