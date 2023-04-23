@@ -17,3 +17,11 @@ The MSEA is an MOE-wide award that recognises MOE staff who
 <u><b>2021 MOE Service Excellence Award:</b></u>
 
 <img style="width:85%" src="/images/mseaimg2.jpg">
+
+**MSEA Platinum &amp; Gold Awards Winner:**&nbsp;Mr Mohammad Faisal Jamain<br>
+**MSEA Gold Award Winner:**&nbsp;Ms Kasturi Selvarajoo
+
+<img style="width:85%" src="/images/mseaimg3.jpg">
+
+**MSEA Silver Award Winners:**  <br>
+(From left to right) Ms Angela Lim, Ms Lee Jia Yi, Mrs Yvonne Kam, Mrs Mavis Low, Mr Aaron Goh
