@@ -30,3 +30,12 @@ Qifa News Network (QNN), the school’s newscast and signature programme, provid
 |:-:|---|
 | Our QNN journalists  | QNN journalists interviewed President Madam Halimah Yacob and Senior Parliamentary Secretary Ms Low Yen Ling during our school’s Racial Harmony commemoration event  |
 |   |   |
+
+<img align="left" style="width:49%" src="/images/applied5.jpg">
+<img align="right" style="width:49%" src="/images/applied6.jpg">
+<br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| QNN journalists reporting school events  | QNN journalists reporting school events  |
+|   |   |
