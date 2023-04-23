@@ -24,3 +24,22 @@ Away from the topic of academics and on to the topic of environment.&nbsp; What 
 This six-year journey is certainly one that I would remember. Even as I head into my future endeavours, I will always keep close to heart the wonderful memories and long lasting friendships that are all certainly a result of my six years at Qifa Primary School.
 
 <center><b>Delirium</b><br>Delirium, delirium, delirium,<br>It’s engraved in my mind.<br>The agony inside of me<br>Is not of any kind.<br><br>My soul is nothing but an empty cask,<br>Scraped clean by a deadly knife.<br>The mental devils surrounding me,<br>Are like bees swarming a hive.<br><br>But wait, I am not a slave,<br>Meant for delirium’s biding.<br>I am the master of my own mind,<br>No one controls whom I am abiding.<br><br>So, let this be a message,<br>Do not let delirium control.<br>For once it’s deep inside your soul,<br>It’s the only thing you will ever know.<br><br>- Dave Wong</center>
+
+----
+
+<br>
+<img align="left" style="width:30%" src="/images/miguel.jpg">
+
+Miguel Antonio<br>
+Class of 2013
+<br clear="left">
+
+#### My Life, My Home, My Qifa
+
+I had the most amazing experiences as a pupil in Qifa Primary. This is where I found my talent in singing, when I joined the Qifa Idol. That changed my life forever. My school had always been very supportive in developing my talent and nurturing it. I couldn't ask for more supportive school principals, teachers and administrative staff. They were very understanding when I had performances or recordings. They never stopped me from doing what I am passionate about but were always there to encourage me in my studies. For an artist like me, I was never pressured in doing well in my studies alone. I still obtained good results in school because of my loving teachers, Ms Koh, Mr Lee, Ms Lum and Mdm Wong. My time in Qifa was unforgettable and to spend my Primary years in Qifa was the best choice that I had made!
+
+The first time I performed, representing Qifa was for the Dabu Association. That platform introduced me to the public. I learnt how people react. Singing in front of an audience made me feel more alive and it felt as if I ‘fed on’ their support and cheers. I had no stage fright. I was just free and my passion for music was so great that when I went on stage, I would feel the ‘freeness’ of my voice and go to my own realm that just filled my heart with happiness and joy of singing.
+
+Last year, I represented the school for the Singapore Youth Festival as a soloist and with my sister, Isabella in the group category. My parents had initially not wanted me to join the SYF competition as they didn't want me to compete anymore. However, I convinced my parents to allow me to join since it would be my last year in Qifa. I wanted to represent Qifa to make the school proud. I was blessed to win in both categories and my sister and I were ecstatic to make our school proud. Qifa had always been very supportive of my sister and me. My class came in full force to the Esplanade to watch and cheer for us for the finals. That competition was really meaningful to me and just made me realise how much the school loved and supported me.
+
+After PSLE, I sang one final song for the whole school. "Make you feel my love" was the song I sang in President's Star Charity late October, so I wanted to dedicate that song to&nbsp; my school to thank them for all the love and support they had given me in my Primary school years. The school has given me something I cannot repay which is unconditional love and support. Qifa has a place in my heart and will always do for it is My life, My home and My Qifa!
