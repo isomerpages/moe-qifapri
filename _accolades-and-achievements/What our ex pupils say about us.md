@@ -43,3 +43,8 @@ The first time I performed, representing Qifa was for the Dabu Association. That
 Last year, I represented the school for the Singapore Youth Festival as a soloist and with my sister, Isabella in the group category. My parents had initially not wanted me to join the SYF competition as they didn't want me to compete anymore. However, I convinced my parents to allow me to join since it would be my last year in Qifa. I wanted to represent Qifa to make the school proud. I was blessed to win in both categories and my sister and I were ecstatic to make our school proud. Qifa had always been very supportive of my sister and me. My class came in full force to the Esplanade to watch and cheer for us for the finals. That competition was really meaningful to me and just made me realise how much the school loved and supported me.
 
 After PSLE, I sang one final song for the whole school. "Make you feel my love" was the song I sang in President's Star Charity late October, so I wanted to dedicate that song to&nbsp; my school to thank them for all the love and support they had given me in my Primary school years. The school has given me something I cannot repay which is unconditional love and support. Qifa has a place in my heart and will always do for it is My life, My home and My Qifa!
+
+---- 
+
+<br>
+
