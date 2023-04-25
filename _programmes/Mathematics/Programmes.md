@@ -39,5 +39,5 @@ Maths FAME Day is a signature programme of Qifa. This programme aims to increase
 
 <img align="left" style="width:30%" src="/images/matheprog5.jpg">
 
-<br><br>Maths FAME Day is a signature programme of Qifa. This programme aims to increase pupils’ curiosity in Mathematics and develop their love in Maths. Pupils can relate Mathematics to everyday life.
+<br><br><br><br>Pupils get to learn through experience and carry out hands-on learning to further deepen their Maths learning.
 <br clear="left">
