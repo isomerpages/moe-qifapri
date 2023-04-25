@@ -78,3 +78,13 @@ P6 – Dialogue in the Dark: VIA Project
 *   Prefects’ Led Focus Group Discussions
 *   School Improvement Project
 *   Friend of Singa – Spreading Kindness in Qifa
+
+<img align="right" style="width:49%" src="/images/cceimg6.jpg">
+
+**Cyber Wellness activities as follows:**
+
+*   Assembly talks on Cyber Wellness issues
+*   School-based and FTGP Cyber Wellness lessons
+*   Cyber Wellness Week
+*   Cyber Wellness Student Ambassador Programme (CWSAP)
+*   Cyber Wellness Talk for P1 Parents
