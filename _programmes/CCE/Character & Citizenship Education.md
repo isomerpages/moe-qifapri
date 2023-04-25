@@ -19,4 +19,18 @@ Character &amp; Citizenship Education (CCE) in Qifa anchors on the school missio
 **Approach**<br>
 CCE key programmes are driven by the whole-school approach of using the Head (Moral Knowing), Heart (Moral Feeling) and Hands (Moral Action) principles to inculcate values and equip social and emotional competencies in our pupils. This is achieved through the CCE curriculum, which comprises CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Modules as well as learning experiences like the National Education (NE) commemorative days, Programme for Active Learning (PAL), Co-curricular (CCA), Values-in-Action (VIA) activities that reinforce CCE. The various key programmes and activities are integrated into every level to equip our pupils with the necessary knowledge, skills and values to develop our pupils into ‘leaders of good character’, ‘concerned citizens’ and ‘active contributor’. This philosophy is deeply ingrained in the school’s approach to developing the CCE curriculum.
 
+<img align="right" style="width:49%" src="/images/cceimg1.jpg">
 
+**Key Programmes**
+
+**Character Education activities as follows:**
+
+*   Kindness Project
+*   Character Building Programme
+*   Zippy Friends
+*   Cool Kids Award (**C**aught d**O**ing g**O**od in schoo**L**)
+*   Model Class &amp; Star Pupil Award!
+*   **E**dusave&nbsp;**Cha**racter Award (ECHA award)
+*   **F**orm&nbsp;**T**eacher&nbsp;**G**uidance&nbsp;**P**eriod (FTGP)
+*   **S**tudent&nbsp;**T**eacher&nbsp;**A**wesome&nbsp;**R**elationship (STAR)
+*   Pre-assembly talks on values stories
