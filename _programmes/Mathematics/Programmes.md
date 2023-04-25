@@ -20,3 +20,9 @@ Content
 <img align="left" style="width:30%" src="/images/matheprog1.jpg">
 
 <br><br><br>The Learning Support for Maths (LSM) aims to provide early intervention and support for pupils who are weak in numeracy skills.
+<br clear="left">
+
+<img align="left" style="width:30%" src="/images/matheprog2.jpg">
+
+<br><br>The International Chess Programme combines Mathematical concepts with&nbsp;fun&nbsp;chess game. This ignites the pupils’ passion for Maths.
+<br clear="left">
