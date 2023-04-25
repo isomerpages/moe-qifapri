@@ -32,18 +32,15 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
   
 
-**Overview of Qifa Primary School’s Sexuality Education Programme for**&nbsp;**2022**
+<u><b>OVERVIEW OF QIFA PRIMARY SCHOOL'S SEXUALITY EDUCATION PROGRAMME FOR 2023</b></u>
 
   
-4\. &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+4 \. &nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[**here**](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
-5\. &nbsp; The subjects that incorporate topics on sexuality include:
+5 \. &nbsp; The subjects that incorporate topics on sexuality include:
 
-a. Science&nbsp;
-
-b. Form Teacher Guidance Period (FTGP)
-
-c.&nbsp;Character and Citizenship Education (CCE)
+*   Science
+*   Character and Citizenship Education (CCE)
 
 **Growing Years (GY) Programme**:&nbsp;“Curious Minds (2nd Edition)” (Primary 5 &amp; 6) Teaching &amp; Learning resource package
 
