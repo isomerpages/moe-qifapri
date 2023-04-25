@@ -49,6 +49,8 @@ CCE key programmes are driven by the whole-school approach of using the Head (Mo
 *   International Friendship DayRacial Harmony Day
 *   National Day
 
+<img align="right" style="width:49%" src="/images/cceimg3.jpg">
+
 **Values-in-Action (VIA) activities as follows:**
 
 *   **School-Wide Programmes**<br>
