@@ -9,7 +9,7 @@ Parents
 
 ### Information for Parents
 
-* [Parents Seminar 2022](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/parents/parent-seminar-2022)
+* [e-Parents Seminar 2023](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/e-parents-seminar-2023)
 
 * [Qifa Bulletin](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/parents/qifa-bulletin)
  
