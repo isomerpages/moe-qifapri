@@ -64,3 +64,5 @@ P3 – ‘Love Your Food’ Anti Food Waste Campaign<br>
 P4 – Biannual Mid-Autumn Celebration or Qifa Carnival<br>
 P5 – West Coast Earth Hour Community Event<br>
 P6 – Dialogue in the Dark: VIA Project
+
+<img style="width:85%" src="/images/cceimg4.jpg">
