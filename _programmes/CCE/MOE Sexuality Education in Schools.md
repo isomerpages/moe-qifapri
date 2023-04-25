@@ -70,6 +70,8 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 |   | <br><br><br>Are We More than Friends?<br>Lesson 2<br>(60 min)  | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.  | <br><br><br><br><br>Term 4/Week 1  |
 |   |   |   |   |
 
+**Please Note:**<br>
+**For&nbsp;2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.**
 
 **Information for Parents**
 
