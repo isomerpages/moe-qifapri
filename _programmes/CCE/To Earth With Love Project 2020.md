@@ -17,6 +17,6 @@ The world celebrates **Earth Day** annually. 22 April 2020 marks 50 years of **E
 <img style="width:85%" src="/images/earth7.jpg">
 <img style="width:85%" src="/images/earth8.jpg">
 <img style="width:85%" src="/images/earth9.jpg">
-<img style="width:85%" src="/images/earth10.jpg">
+<img style="width:85%" src="/images/earth13.jpg">
 <img style="width:85%" src="/images/earth11.jpg">
 <img style="width:85%" src="/images/earth12.jpg">
