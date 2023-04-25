@@ -6,17 +6,4 @@ third_nav_title: CCE
 ---
 To Earth With Love Project 2020
 ===============================
-
-![](/images/Website%201.jpeg)
-![](/images/Website%2010.jpeg)
-![](/images/Website%203.jpeg)
-![](/images/Website%204.jpeg)
-![](/images/Website%205.jpeg)
-![](/images/Website%206.jpeg)
-![](/images/Website%207.jpeg)
-![](/images/Website%208.jpeg)
-![](/images/Website%209.jpeg)
-![](/images/Website%2010.jpeg)
-![](/images/Website%2011.jpeg)
-![](/images/Website%2012.jpeg)
-![](/images/Website%2013.jpeg)
+The world celebrates **Earth Day** annually. 22 April 2020 marks 50 years of **Earth Day**. To celebrate **Earth Day**, the school prepared an online learning package. **"To Earth with Love"** for our students. Qifa students learnt how to make no-sew face masks. They also participated 3Rs **(Reduce, Reuse, Recycle)** at home.
