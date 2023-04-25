@@ -36,13 +36,13 @@ Pupils develop music appreciation and understanding through direct experiences i
 
 The diagram below summarises the main objectives of the music curriculum.
 
-![](/images/Music%20Curriculum.png)
+<img style="width:85%" src="/images/music1.jpg">
 
 **Our Music Lessons:**
 
   
 
-**Key focus** of each level:
+**Key focus**&nbsp;of each level:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
