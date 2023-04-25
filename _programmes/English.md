@@ -25,9 +25,7 @@ In MLEA, there is a shared experience that is linked to the Big Book that has be
 
 ![](/images/Screenshot24.png)
 
-Writing Process Cycle (WPC) at Upper Primary Levels
-
-  
+<u>Writing Process Cycle (WPC) at Upper Primary Levels</u>
 
 Basing on the principles of the Modified Language Experience Approach (MLEA) at the Lower Primary, WPC continues to guide pupils at the Upper Primary levels in the processes of planning, writing and reviewing before they apply these skills in writing independently.
 
