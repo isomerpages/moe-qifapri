@@ -67,6 +67,8 @@ P6 – Dialogue in the Dark: VIA Project
 
 <img style="width:85%" src="/images/cceimg4.jpg">
 
+<img align="right" style="width:49%" src="/images/cceimg5.jpg">
+
 **Pupil Leadership activities as follows:**
 
 *   Pupil Leadership 2-Day Workshop
