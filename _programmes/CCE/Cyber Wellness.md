@@ -90,17 +90,17 @@ The Republic has introduced digital defence as the sixth pillar in its national 
 
 Our CW efforts also aim to develop student leaders to be advocates of CW in our school. The CW workshops for our Student Cyber Wellness Ambassadors (CWSAs) were carried out to engage pupils in positive peer influence to spread CW messages amongst their peers. These training workshops aim to develop ambassadors who can support their peers in cyber issues and champion CW-related efforts.
 
-![](/images/Pic1.jpeg)
+<img style="width:85%" src="/images/cyber3.jpg">
 
 One of our&nbsp;Qifa Primary School Cyber Wellness Ambassador, Ethan Tan Jiale, of Primary 6 Exemplary, was presented with the Cyber Wellness Student Ambassador (CWSA) Award 2019. The CWSA Award recognises student ambassadors who demonstrate leadership and commitment to the school’s Cyber Wellness efforts, and for their active involvement and notable contribution in promoting Cyber Wellness education amongst their peers.
 
-![](/images/Pic2.jpeg)
+<img style="width:85%" src="/images/cyber4.jpg">
 
 **CW Activities**
 
 This year, some of our cyber wellness ambassadors took part in the inaugural National CW Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Academic Productivity &amp; Well-Being with Mobile Devices &amp; Screen Time” The ambassadors will be designing a comprehensive CW toolkit for their peers so that they can manage their screen time better.
 
-![](/images/Pic3.jpeg)
+<img style="width:85%" src="/images/cyber5.jpg">
 
 The CWSA workshops equipped the ambassadors with facilitation skills and questioning techniques that enable them to design interesting cyber wellness activities for their peers during the cyber wellness day. The theme for term 2 cyber wellness day was “Digital Defence”.
 
