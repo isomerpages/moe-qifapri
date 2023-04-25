@@ -52,142 +52,18 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
 <center><b>Primary 5</b></center>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ftsx{background-color:#FFF;color:#565656;text-align:center;vertical-align:top}
-.tg .tg-qrq8{background-color:#FFF;color:#565656;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kggv{background-color:#FFF;color:#565656;text-align:center;vertical-align:middle}
-.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qrq8">UNIT</th>
-    <th class="tg-qrq8">LESSONS / DURATION</th>
-    <th class="tg-qrq8">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-qrq8">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-njgx" rowspan="4">Gosh! I Am Changing</td>
-    <td class="tg-njgx">What Is Happening To Me?<br>(30 min)</td>
-    <td class="tg-ftsx">·        know what puberty is<br>·        identify the physical changes during puberty</td>
-    <td class="tg-njgx"><span style="color:#565656">Term 2 Week 9</span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">What Can I Do? (Part 1)<br> (30 min)</td>
-    <td class="tg-ftsx">·        identify the stresses caused by physical and emotional changes during puberty<br>·        describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·        describe the emotions caused by physical changes during puberty<br>·        recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-njgx">Term 2 Week 9</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">What Can I Do? (Part 2)<br> (30 min)</td>
-    <td class="tg-ftsx">·        identify the stresses caused by physical and emotional changes during puberty<br>·        describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·        describe the emotions caused by physical changes during puberty<br>·        recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
-    <td class="tg-njgx">Term 2 Week 9</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Main Task<br>(30 min)</td>
-    <td class="tg-ftsx">Description of the Main Task:<br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td class="tg-njgx">Term 2 Week 9</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Where I Belong</td>
-    <td class="tg-njgx">What Are Families?<br>(30 min)<br> </td>
-    <td class="tg-ftsx">·        know that there are different types of family structures<br>·        know that every family is unique<br>·        state that the three basic functions of families are to provide love, protection and guidance<br>·        identify the right sources of help to turn to when in need<br> </td>
-    <td class="tg-njgx">Term 3 Week 1</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Where I Belong</td>
-    <td class="tg-njgx">What is My Role?<br> (30 min)</td>
-    <td class="tg-ftsx">·        know that gender is about being male or female<br>·        choose not to stereotype by gender</td>
-    <td class="tg-njgx"><span style="color:#565656">Term 3 Week 1</span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="2">How Do I Keep Myself Safe?</td>
-    <td class="tg-njgx">What is Safety?<br>(30 min)</td>
-    <td class="tg-ftsx">·        know what sexual abuse is<br>·        know that there are laws in Singapore that can protect them from sexual abuse<br>·        know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-kggv">Term 3 Week 1</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Stop It! Run! Tell!<br>(30 min)</td>
-    <td class="tg-ftsx">·        protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·        know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-njgx"><span style="color:#565656">Term 3 Week 1</span></td>
-  </tr>
-</tbody>
-</table>
-
-
-**Primary 6**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ftsx{background-color:#FFF;color:#565656;text-align:center;vertical-align:top}
-.tg .tg-qrq8{background-color:#FFF;color:#565656;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-kggv{background-color:#FFF;color:#565656;text-align:center;vertical-align:middle}
-.tg .tg-njgx{background-color:#FFF;color:#565656;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qrq8">UNIT</th>
-    <th class="tg-qrq8">LESSONS / DURATION</th>
-    <th class="tg-qrq8">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</th>
-    <th class="tg-qrq8">TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-njgx" rowspan="5">Are We More Than Friends?</td>
-    <td class="tg-njgx">Who Are My Friends?<br>(30 min)</td>
-    <td class="tg-ftsx">·        identify the qualities of a healthy friendship<br>·        recognise the importance of making wise choices in friendship</td>
-    <td class="tg-kggv">Term 2 Week 10</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Am I A Good Friend?<br>(30 min)</td>
-    <td class="tg-ftsx">·        identify the qualities that they have as a friend<br>·        recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-kggv">Term 2 Week 10</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">What is Love?<br>(30 min)</td>
-    <td class="tg-ftsx">·        identify the characteristics of love and infatuation<br>·        distinguish between the characteristics of love versus infatuation<br>·        identify strong feelings arising from infatuation</td>
-    <td class="tg-kggv">Term 2 Week 10</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Am I Falling In Love?<br>(30 min)</td>
-    <td class="tg-ftsx">·        manage strong feelings arising from infatuation<br>·        identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-kggv">Term 2 Week 10</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Main Task<br> (30 min)</td>
-    <td class="tg-ftsx">Description of the Main Task:<br> <br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-    <td class="tg-njgx">Term 4 Week 2</td>
-  </tr>
-  <tr>
-    <td class="tg-njgx" rowspan="3">Friends or Foes?</td>
-    <td class="tg-njgx">Are You Really My Friend?<br>(30 min)</td>
-    <td class="tg-ftsx">·        identify the pros and cons of forming relationships through social networking websites<br>·        know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-njgx">Term 4<span style="background-color:initial"> Week 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Is It All Safe?<br>(30 min)</td>
-    <td class="tg-ftsx">·        know that some information (like pornography) received through the Internet may be harmful<br>·        know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-njgx">Term 4<span style="background-color:initial"> Week 2</span></td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Main Task<br> (30 min)</td>
-    <td class="tg-ftsx">Description of the Main Task:<br> <br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety.  These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.<br> </td>
-    <td class="tg-njgx">Term 4<span style="background-color:initial"> Week 2</span></td>
-  </tr>
-</tbody>
-</table>
+|  **CCE(FTGP) THEME** | **LESSON TITLE / DURATION**  | **Lesson OVERVIEW**  |**TIME PERIOD**<br>**(e.g. Term 1 Week 2)**   |
+|:-:|---|---|---|
+| Growing Years  | <br><br><br><br><br><br><br>The Changes in Me<br>(60 min)  | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | <br><br>Term 2/Week 2<br>(5A/5B/5C/5D) <br><br><br><br><br><br><br><br><br>Term 2/Week 4<br>(5E/5F/5G) |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 **Information for Parents**
 
