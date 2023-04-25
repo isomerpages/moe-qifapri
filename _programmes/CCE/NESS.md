@@ -38,6 +38,17 @@ It serves as a good opportunity to help pupils learn and appreciate other&nbsp;c
 <br>**_NE message: We must preserve racial and religious harmony_**
 <br clear="right">
 
+<img align="right" style="width:49%" src="/images/qifaness5.jpg">
+
+**Racial Harmony Day**<br>
+Racial Harmony Day serves to remind our pupils that race and religion are potential&nbsp;fault-lines in Singapore society. It is a day for schools to reflect on,&nbsp;and celebrate our success as a harmonious nation and society built on a&nbsp;rich&nbsp;diversity of cultures and heritages.
+
+<img align="right" style="width:49%" src="/images/qifaness6.jpg">
+
+**_NE message:_**<br>
+**_Singapore is our homeland; this is where we belong._**<br>
+**_We must preserve racial and religious harmony_**
+<br clear="right">
 
 #### **_Social Studies_**
 
