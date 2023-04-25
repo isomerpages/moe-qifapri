@@ -52,7 +52,7 @@ To be effective communicators, pupils need to learn to consider the different an
 
 <img align="left" style="width:49%" src="/images/active1.jpg">
 <img align="right" style="width:49%" src="/images/active2.jpg">
-<br clear="left"><br>
+<br clear="left"><br><br><br>
 
 |   |   |
 |:-:|---|
