@@ -50,7 +50,7 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
 <img style="width:50%" src="/images/moesexed.jpg">
 
-**Primary 5**
+<center><b>Primary 5</b></center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
