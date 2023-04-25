@@ -104,6 +104,6 @@ This year, some of our cyber wellness ambassadors took part in the inaugural Nat
 
 The CWSA workshops equipped the ambassadors with facilitation skills and questioning techniques that enable them to design interesting cyber wellness activities for their peers during the cyber wellness day. The theme for term 2 cyber wellness day was “Digital Defence”.
 
-![](/images/Pic4.jpeg)
+<img style="width:85%" src="/images/cyber6.jpg">
 
 Together with our CWSAs,&nbsp;the school&nbsp;ensures our students are safe and have positive experiences online by adopting positive CW habits.
