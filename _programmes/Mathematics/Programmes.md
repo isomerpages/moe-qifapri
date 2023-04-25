@@ -26,3 +26,8 @@ Content
 
 <br><br>The International Chess Programme combines Mathematical concepts with&nbsp;fun&nbsp;chess game. This ignites the pupils’ passion for Maths.
 <br clear="left">
+
+<img align="left" style="width:30%" src="/images/matheprog3.jpg">
+
+<br><br><br><br><br><br><br>Maths FAME Day is a signature programme of Qifa. This programme aims to increase pupils’ curiosity in Mathematics and develop their love in Maths. Pupils can relate Mathematics to everyday life.
+<br clear="left">
