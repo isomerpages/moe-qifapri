@@ -11,21 +11,17 @@ Science Department
 
   
 
-**Mission**
-
-To develop **scientifically literate pupils** who use science to **understand the world around them** and **make scientifically informed personal decisions**.
-
-  
-
-**Science Learning in Qifa**
+**Mission**<br>
+To develop&nbsp;**scientifically literate pupils**&nbsp;who use science to&nbsp;**understand the world around them**&nbsp;and&nbsp;**make scientifically informed personal decisions**.
 
   
 
-Qifa Science teachers believe in **creating meaningful and authentic learning experiences** for the pupils where they can learn Science concepts through **purposeful play** to ignite the **joy of learning**.
+**Science Learning in Qifa**<br>
+Qifa Science teachers believe in&nbsp;**creating meaningful and authentic learning experiences**&nbsp;for the pupils where they can learn Science concepts through&nbsp;**purposeful play**&nbsp;to ignite the&nbsp;**joy of learning**.
 
 ![](/images/Screenshot%2018.png)
 
-In **Primary 3**, pupils attempt to classify stationery in their pencil cases when they are introduced to the term ‘classification’ in Diversity. Pupils get to bring items from home and share with their classmates what they have brought when learning the topic on Materials and Magnets.  They will also be given the opportunity to rear caterpillars to learn about the life cycle of butterflies and to develop a greater sense of responsibility through caring for their caterpillar ‘pets’.
+In&nbsp;**Primary 3**, pupils attempt to classify stationery in their pencil cases when they are introduced to the term ‘classification’ in Diversity. Pupils get to bring items from home and share with their classmates what they have brought when learning the topic on Materials and Magnets.&nbsp; They will also be given the opportunity to rear caterpillars to learn about the life cycle of butterflies and to develop a greater sense of responsibility through caring for their caterpillar ‘pets’.
 
 ![](/images/Screenshot%2019.png)
 
@@ -41,8 +37,8 @@ At Primary 6, pupils will embark on a field trip at Sungei Buloh Wetland Reserve
 
   
 
-By providing these rich learning experiences, pupils will be able to **make connections and create relevance** to see that science is found everywhere around us. 
+By providing these rich learning experiences, pupils will be able to&nbsp;**make connections and create relevance**&nbsp;to see that science is found everywhere around us.&nbsp;
 
   
 
-With strong grounding in **scientific knowledge** and **application, skills and attitudes** that support the development of **scientific inquiry**, our Science department aims to develop scientifically literate pupils who can use science to make sense of the world around them as well as to make informed personal and societal decisions.
+With strong grounding in&nbsp;**scientific knowledge**&nbsp;and&nbsp;**application, skills and attitudes**&nbsp;that support the development of&nbsp;**scientific inquiry**, our Science department aims to develop scientifically literate pupils who can use science to make sense of the world around them as well as to make informed personal and societal decisions.
