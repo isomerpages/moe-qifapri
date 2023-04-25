@@ -43,5 +43,5 @@ Throughout their primary school years, a progressive approach is adopted to guid
 
 Primary 3 pupils also attend Swimsafer 2.0 to attain the Swimming learning outcomes in the PE curriculum.
 
-<img style="width:85%" src="/images/physical2.jpg"><br>
+<img style="width:85%" src="/images/physical2.jpg">
 <img style="width:85%" src="/images/physical3.jpg">
