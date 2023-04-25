@@ -15,15 +15,11 @@ A Strong Foundation and A Rich Language for All - Approach to EL teaching from E
 
 ![](/images/English%20Language%20Foundation.jpg)
 
-English Language Programs
+<u>English Language Programs</u>
 
 **_Writing Programme_**
 
-  
-
-MLEA (Modified Language Experience Approach towards Writing) at Lower Primary Levels
-
-  
+<u>MLEA (Modified Language Experience Approach towards Writing) at Lower Primary Levels</u> 
 
 In MLEA, there is a shared experience that is linked to the Big Book that has been read during Shared Reading. The shared experience provides the context and content for the pupils to think and talk about, using the language structures and vocabulary they have learnt in Shared Book Approach (SBA).
 
