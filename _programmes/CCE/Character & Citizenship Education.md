@@ -34,3 +34,17 @@ CCE key programmes are driven by the whole-school approach of using the Head (Mo
 *   **F**orm&nbsp;**T**eacher&nbsp;**G**uidance&nbsp;**P**eriod (FTGP)
 *   **S**tudent&nbsp;**T**eacher&nbsp;**A**wesome&nbsp;**R**elationship (STAR)
 *   Pre-assembly talks on values stories
+
+<img align="right" style="width:49%" src="/images/cceimg2.jpg">
+
+**Citizenship Education activities as follows:**
+
+*   Social Studies related Learning Journeys&nbsp;
+*   Heritage Gallery (HG) lessons&nbsp;
+*   Pre-assembly talks on Singapore’s history
+
+**4 core National Education Events**
+
+*   Total Defence Day
+*   International Friendship DayRacial Harmony Day
+*   National Day
