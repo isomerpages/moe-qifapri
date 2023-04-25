@@ -58,3 +58,12 @@ To be effective communicators, pupils need to learn to consider the different an
 |:-:|---|
 | Pupils using Let’s Talk cards to develop their academic discussion skills across subjects  | These lessons help to make pupils’ thinking visible and develop their critical thinking skills |
 |   |   |
+
+<img align="left" style="width:49%" src="/images/active3.jpg">
+<img align="right" style="width:49%" src="/images/active4.jpg">
+<br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| Pupils are given the opportunity to reflect on what they know about a topic and share their viewpoints  | Pupils learnt to consider diverse perspectives on a topic |
+|   |   |
