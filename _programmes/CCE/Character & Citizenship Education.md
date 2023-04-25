@@ -48,3 +48,17 @@ CCE key programmes are driven by the whole-school approach of using the Head (Mo
 *   Total Defence Day
 *   International Friendship DayRacial Harmony Day
 *   National Day
+
+**Values-in-Action (VIA) activities as follows:**
+
+*   **School-Wide Programmes**<br>
+Newspaper Collection Drive<br>
+‘Keep Qifa Clean’ Campaign
+
+*   **Level-Based Programmes**<br>
+P1 – P1&amp;2 Buddy Programme &amp; Recycling Project&nbsp;<br>
+P2 – kNOw Cleaners’ Day &amp; P1&amp;2 Buddy Programme&nbsp;<br>
+P3 – ‘Love Your Food’ Anti Food Waste Campaign<br>
+P4 – Biannual Mid-Autumn Celebration or Qifa Carnival<br>
+P5 – West Coast Earth Hour Community Event<br>
+P6 – Dialogue in the Dark: VIA Project
