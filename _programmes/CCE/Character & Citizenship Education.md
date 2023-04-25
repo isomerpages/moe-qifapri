@@ -66,3 +66,13 @@ P5 – West Coast Earth Hour Community Event<br>
 P6 – Dialogue in the Dark: VIA Project
 
 <img style="width:85%" src="/images/cceimg4.jpg">
+
+**Pupil Leadership activities as follows:**
+
+*   Pupil Leadership 2-Day Workshop
+*   Prefects’ Investiture
+*   Pupil Leadership training
+*   Fundraising for SPCA and WWF
+*   Prefects’ Led Focus Group Discussions
+*   School Improvement Project
+*   Friend of Singa – Spreading Kindness in Qifa
