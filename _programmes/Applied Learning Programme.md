@@ -67,3 +67,8 @@ To be effective communicators, pupils need to learn to consider the different an
 |:-:|---|
 | Pupils are given the opportunity to reflect on what they know about a topic and share their viewpoints  | Pupils learnt to consider diverse perspectives on a topic |
 |   |   |
+
+<img align="left" style="width:49%" src="/images/active5.jpg">
+<br clear="left">
+
+<p align="left">Pupils use headlines to capture the main idea of a reading text</p>
