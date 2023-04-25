@@ -69,12 +69,9 @@ National Day marks our Separation from Malaysia, and our emergence as an&nbsp;in
 
 The primary focus of SS would be to develop pupils into informed, concerned and participative citizens at the local and global level. It seeks to evoke pupils’ curiosity to inquire into real-world issues that concern their lives.
 
-  
-
 As part of engaging pupils’ interest in inquiry based learning, learning journeys are weaved into the SS curriculum. Learning journeys allows pupils to seek joy in learning and contextualise their learning experiences in an authentic real-world setting. It aims to excite and sustain pupils’ interest in the subject as they learn to explore, construct new knowledge and make connections to the topics being studied.
 
-![](/images/P1%20Heritage%20Gardens%20P2%20Spore%20Philatelic%20Museum.jpg)
+<img style="width:85%" src="/images/qifaness9.jpg"><br>
+<img style="width:85%" src="/images/qifaness10.jpg"><br>
+<img style="width:85%" src="/images/qifaness11.jpg">
 
-![](/images/P3%20LTA%20P4%20Heritage%20Sites.jpg)
-
-![](/images/P5%20NEWater%20Visitor%20Centre%20P6%20Bt%20Chandu.jpg)
