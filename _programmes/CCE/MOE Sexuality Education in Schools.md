@@ -55,7 +55,7 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 |  **CCE(FTGP) THEME** | **LESSON TITLE / DURATION**  | **Lesson OVERVIEW**  |**TIME PERIOD**<br>**(e.g. Term 1 Week 2)**   |
 |:-:|---|---|---|
 | Growing Years  | <br><br><br><br><br><br><br>The Changes in Me<br>(60 min)  | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | <br><br>Term 2/Week 2<br>(5A/5B/5C/5D) <br><br><br><br><br><br><br><br><br>Term 2/Week 4<br>(5E/5F/5G) |
-|   |   |   |   |
+|   | <br><br><br><br><br><br><br>Did You Know?<br>(60 min)  | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do’.**<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | <br><br><br><br><br>Term 2/Week 5<br>(5A/5B/5C/5D) <br><br><br><br><br><br><br>Term 2/Week 9<br>(5E/5F/5G) |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
