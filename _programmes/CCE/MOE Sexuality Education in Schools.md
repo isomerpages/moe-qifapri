@@ -59,6 +59,10 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 |   | <br><br><br><br><br>Keeping Myself Safe<br>(60 min)  | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | <br><br><br>Term 3/Week 3<br>(5E/5F/5G)<br><br><br><br><br><br>Term 3/Week 8<br>(5A/5B/5C/5D)  |
 |   |   |   |   |
 
+<img style="width:50%" src="/images/moesexed1.jpg">
+
+<center><b>Primary 6</b></center>
+
 
 **Information for Parents**
 
