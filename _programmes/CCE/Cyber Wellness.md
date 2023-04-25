@@ -84,7 +84,7 @@ Beyond CW lessons in FTGP and CCE, subject teachers infuse new media literacies 
 
 The Republic has introduced digital defence as the sixth pillar in its national defence framework Total Defence, signalling the threat cyber-attacks and disinformation pose, and the importance of cyber security.&nbsp;Digital Defence – Be Secure, Alert, and Responsible Online– is a whole-of-nation effort to protect and defend ourselves and our nation online. Qifa Primary School has carried out Pre Assembly Talk on Digital Defence to allow pupils to understand how to discern hallmarks of fake or sensationalised reports by checking against credible sources of information such as those of government agencies and official sources.
 
-![](/images/Digital%20Def.jpg)
+<img style="width:50%" src="/images/cyber2.jpg">
 
 **CW Workshops**
 
