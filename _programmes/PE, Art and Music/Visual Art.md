@@ -138,3 +138,5 @@ Art nurtures our pupils’ holistic growth development. Through positive learnin
 <img style="width:85%" src="/images/visualart1.jpg">
 <img style="width:85%" src="/images/visualart2.jpg">
 <img style="width:85%" src="/images/visualart3.jpg">
+<img style="width:85%" src="/images/visualart4.jpg">
+<img style="width:85%" src="/images/visualart5.jpg">
