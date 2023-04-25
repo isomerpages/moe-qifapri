@@ -75,12 +75,9 @@ You may&nbsp;click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;f
 
 **Information for Parents**
 
-8\. Parents may opt their children out of the Growing Years programme&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
+8 \. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\. Parents who wish to opt their children out of the&nbsp;**Growing Years (GY) programme**&nbsp;need to complete an opt-out form.&nbsp;This form will be distributed to parents at the start of the year and is also downloadable [here.](/files/Parents%20%20Opt-Out%20Form%20Annex%20A%202022.pdf)&nbsp;&nbsp;A hardcopy of the form, duly completed and signed, is to be submitted to the school office by Friday, 25 March 2022.
+9 \. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/2023%20info%20on%20sed%20for%20schs%20website%20primary%20schools_qifa%20primary%20school%2029%20jan%202023_annex%20a.pdf). The completed opt-out form is to be submitted by&nbsp;**Friday, 24 Feb 2023**. PG notification will be sent out on&nbsp;**Friday, 3 Feb 2023**.
 
-10\. Parents can contact the school at 67783085 or email&nbsp;[qifa\_ps@moe.edu.sg](mailto:qifa_ps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
+10 \. Parents can contact the school at&nbsp;67783085 or email&nbsp;[qifa\_ps@moe.edu.sg](mailto:qifa_ps@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
 
-11.&nbsp;Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary &nbsp;&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arrangements.
