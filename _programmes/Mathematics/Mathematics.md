@@ -18,3 +18,6 @@ Thus, the Mathematics instructional programme in Qifa focuses on developing the 
 
 <img style="width:85%" src="/images/mathe1.jpg"><br>
 <img style="width:85%" src="/images/mathe2.jpg">
+
+#### Maths Activities
+
