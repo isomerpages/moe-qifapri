@@ -85,8 +85,8 @@ The diagram below summarises the main objectives of the music curriculum.
 </tbody>
 </table>
 
-![](/images/screenshot.png)
+<img style="width:85%" src="/images/music2.jpg">
 
 **Whole-school Arts Appreciation: QIFA SHINE**
 
-![](/images/Music%20Shine.jpg)
+<img style="width:85%" src="/images/music3.jpg">
