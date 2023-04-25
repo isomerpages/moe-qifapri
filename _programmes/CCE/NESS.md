@@ -50,6 +50,19 @@ Racial Harmony Day serves to remind our pupils that race and religion are potent
 **_We must preserve racial and religious harmony_**
 <br clear="right">
 
+<img align="right" style="width:49%" src="/images/qifaness7.jpg">
+
+**National Day**&nbsp;<br>
+National Day marks our Separation from Malaysia, and our emergence as an&nbsp;independent country in the community of nations. This Ceremony aims to&nbsp;bring to the students a greater sense of the historical importance and solemnity of&nbsp;National Day.
+
+<img align="right" style="width:49%" src="/images/qifaness8.jpg">
+
+**_NE message:_**<br>
+**_We have confidence in our future_**<br>
+**_We must uphold meritocracy and incorruptibility_**<br>
+**_No one owes Singapore a living_**<br>
+**_Singapore is our homeland; this is where we belong_**
+
 #### **_Social Studies_**
 
   
