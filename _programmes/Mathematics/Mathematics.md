@@ -16,8 +16,9 @@ The department designs learning experiences to equip our pupils with thinking an
 
 Thus, the Mathematics instructional programme in Qifa focuses on developing the passion of learning in our pupils and improving their attainment in Mathematics. It also aims to prepare our pupils for academic excellence, to be inquisitive, so as to become lifelong learners equipped with the knowledge and skills for the 21st Century and beyond.
 
-<img style="width:85%" src="/images/mathe1.jpg"><br>
-<img style="width:85%" src="/images/mathe2.jpg">
+<img src="/images/mathe1.jpg" style="width:85%"><br>
+<img src="/images/mathe2.jpg" style="width:85%">
 
 #### Maths Activities
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQO8T9UXiz9z-ycqB9NIAc6Mdnayu_9elQOmGuhwBEc0DyYU3ouoqD0gfd7Cn7YB_St8A7kd1N5AAsA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
