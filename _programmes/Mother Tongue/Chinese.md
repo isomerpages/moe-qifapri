@@ -14,25 +14,23 @@ Chinese
 
   
 
-**Mission:**
-
+**Mission:**<br>
 To develop life-long learners with a passion for their Mother Tongue languages.
 
   
 
-**Approach:**  
-
-The MT believes in getting ‘REAL’: **R**eal **E**xperiences & **A**uthentic **L**earning. We seek to provide a REAL environment for our pupils through programmes that focus on Effective Communication, and Pedagogy and Curriculum that Centered by Differentiation Instructions within the classrooms.
+**Approach:**  <br>
+The MT believes in getting ‘REAL’:&nbsp;**R**eal&nbsp;**E**xperiences &amp;&nbsp;**A**uthentic&nbsp;**L**earning. We seek to provide a REAL environment for our pupils through programmes that focus on Effective Communication, and Pedagogy and Curriculum that Centered by Differentiation Instructions within the classrooms.
 
   
 
-To provide an authentic setting for pupils to communicate beyond the classroom, we collaborate with our parent volunteers to adapt the concept of Kidzania to Qifa called Kidzania@Qifa. We create a mini-community with parents role-playing doctors, zoo keepers, taxi drivers and policewomen etc.  The objective of this programme to create authentic settings for the pupils to use their mother tongue languages to converse and interact with others.
+To provide an authentic setting for pupils to communicate beyond the classroom, we collaborate with our parent volunteers to adapt the concept of Kidzania to Qifa called Kidzania@Qifa. We create a mini-community with parents role-playing doctors, zoo keepers, taxi drivers and policewomen etc.&nbsp; The objective of this programme to create authentic settings for the pupils to use their mother tongue languages to converse and interact with others.
 
 ![](/images/Kidzania@Qifapupils.jpg)Kidzania@Qifa: Pupils Interacting confidently with our Parents Volunteers
 
 ![](/images/Kidzania@Qifa%20fun.jpg)Kidzania@Qifa: Pupils having fun as they learn
 
-To develop our pupils into confident speakers, we encourage the pupils to share their favourite stories with their peers during recess time through the Bookalicious programme. To engage their peers, they are encouraged to present their stories in the form of a skit or any other creative form. 
+To develop our pupils into confident speakers, we encourage the pupils to share their favourite stories with their peers during recess time through the Bookalicious programme. To engage their peers, they are encouraged to present their stories in the form of a skit or any other creative form.&nbsp;
 
   
 
@@ -56,4 +54,3 @@ We take into considerations learners’ readiness in our lessons. Our resources 
   
 
 “I like doing Oral Buddy as I can share my knowledge with my peers and at the same time, I can make new friends from other classes” Alison Ng, 6E 2019.
-
