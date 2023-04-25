@@ -50,3 +50,11 @@ Visible Thinking Routines are embedded in our lessons to develop our pupils to b
 
 To be effective communicators, pupils need to learn to consider the different and diverse perspectives of others and be confident to share their own. Through the applied learning programme, pupils are free to pen down and discuss their thoughts with their peers in a fun and non-threatening learning environment.
 
+<img align="left" style="width:49%" src="/images/active1.jpg">
+<img align="right" style="width:49%" src="/images/active2.jpg">
+<br clear="left"><br>
+
+|   |   |
+|:-:|---|
+| Pupils using Let’s Talk cards to develop their academic discussion skills across subjects  | These lessons help to make pupils’ thinking visible and develop their critical thinking skills |
+|   |   |
