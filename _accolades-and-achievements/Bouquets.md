@@ -1,6 +1,6 @@
 ---
 title: Bouquets
-permalink: /accolades-and-achievements/Bouquets/permalink
+permalink: /accolades-and-achievements/Bouquets/permalink/
 description: ""
 ---
 Bouquets
@@ -22,14 +22,12 @@ We are very appreciative of the warm hospitality extended to our campers by the 
 
   
 
-Wong Kan Foo
-
-Director from Overseas Singaporean unit (MCCY)
-
+Wong Kan Foo<br>
+Director from Overseas Singaporean unit (MCCY)<br>
 August 2018
 
  
-  
+Please click&nbsp;[here](https://qifapri.moe.edu.sg/about-us/gallery/2018-photos)&nbsp;for photos of the event.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -39,8 +37,7 @@ August 2018
 
   
 
-Member of the Public, Mr Wayne Erh
-
+Member of the Public, Mr Wayne Erh<br>
 (Via online feedback to the school on Tuesday 21 April 2015)
 
   
@@ -49,17 +46,17 @@ Member of the Public, Mr Wayne Erh
 
   
 
-Students from Qifa Primary School took part in the judging process and assisted in the assessment of the public toilets at the Market & Food Centre at West Coast Drive. It was an opportunity for the students to appreciate the work of the rest room caretakers, and to learn about good toilet etiquette and hygiene practices to adopt when using public rest rooms.
+Students from Qifa Primary School took part in the judging process and assisted in the assessment of the public toilets at the Market &amp; Food Centre at West Coast Drive. It was an opportunity for the students to appreciate the work of the rest room caretakers, and to learn about good toilet etiquette and hygiene practices to adopt when using public rest rooms.
 
   
 
 Mr Arthur Fong, Chairman of West Coast Town Council, also presented a token of appreciation to Mr Kenny Ng from Qifa Primary School for their participation.
 
-![](/images/West%20Coast%20Town%20Council%20Newsletter%202014.png)
+<img style="width:85%" src="/images/bouquet1.jpg">
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-![](/images/YiKuishuai.png)
+<img style="width:85%" src="/images/bouquet2.jpg">
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -69,22 +66,20 @@ Mr Arthur Fong, Chairman of West Coast Town Council, also presented a token of a
 
   
 
-She has been volunteering since she was 5 years old. Despite her size, she helps to deliver items like mattresses and pillows. She finds it fun to help her aunty and uncle, who are also volunteers. I was told her exact words were _“Kalau kita help, kita happy!_ (If we help, we’ll be happy!)”."
+She has been volunteering since she was 5 years old. Despite her size, she helps to deliver items like mattresses and pillows. She finds it fun to help her aunty and uncle, who are also volunteers. I was told her exact words were&nbsp;_“Kalau kita help, kita happy!_&nbsp;(If we help, we’ll be happy!)”."
 
   
 
-Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister & Minister for Finance, at the launch of 4PM Ramadhan On Wheel 2014 on 29 March 2014. Adriana is in Primary 2F.
+Excerpt of speech by Mr Tharman Shanmugaratnam, Deputy Prime Minister &amp; Minister for Finance, at the launch of 4PM Ramadhan On Wheel 2014 on 29 March 2014. Adriana is in Primary 2F. Click here for the full text of the speech.
 
   
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-![](/images/Kenneth%20Chee%20Wei%20Quan.png)
-
-![](/images/Li%20Bo.png)
+<img style="width:85%" src="/images/bouquet3.jpg">
 
 
 
-* **[Bouquets from Parents and Other Partners](https://qifapri.moe.edu.sg/accolades-and-achievements/bouquets/bouquets-from-parents-and-other-partners)**
+* **[Bouquets from Parents and Other Partners](/bouquets-1/)**
 
-* **[Ex-pupils who have excelled in post primary education](https://qifapri.moe.edu.sg/accolades-and-achievements/bouquets/ex-pupils-who-have-excelled-in-post-primary-education)** 
+* **[Ex-pupils who have excelled in post primary education](https://qifapri.moe.edu.sg/accolades-and-achievements/bouquets/ex-pupils-who-have-excelled-in-post-primary-education)**

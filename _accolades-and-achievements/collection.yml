@@ -4,7 +4,12 @@ collections:
     order:
       - Graduating Cohort/.keep
       - Students Achievements Celebrated on Honours Day.md
-      - Students Achievements.md
+      - Student Achievements/.keep
       - What our ex pupils say about us.md
       - Bouquets.md
-      - Staff Accolades.md
+      - Staff Accolades/.keep
+      - Staff Accolades/Staff Accolades.md
+      - Staff Accolades/Thank You 'Cher Gratitude Portal.md
+      - Staff Accolades/MOE Service Excellence Award (MSEA).md
+      - Staff Accolades/Outstanding Youth in Education Award (OYEA).md
+      - Staff Accolades/School Based Teacher Awards.md

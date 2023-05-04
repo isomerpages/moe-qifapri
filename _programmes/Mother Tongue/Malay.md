@@ -9,20 +9,17 @@ Malay
 
   
 
-**Aim**
-
+**Aim**<br>
 The aim of learning Malay Language is to equip the individual with the right knowledge and attitude towards self and the community.
 
   
 
-**Goal**
-
+**Goal**<br>
 Pupils are able to be confident speakers and develop creative and critical mind.
 
   
 
-**Approaches**
-
+**Approaches**<br>
 The learning of Malay Language is carried out through the integration of six core skills, namely, oral, reading, listening, writing, written and oral interaction skills. The Malay Language teachers develop lessons to engage pupils in the learning of Malay language through differentiated learning as well as implementing various teaching strategies so as to actively involve pupils in acquiring the Malay Language in a fun and effective ways. The department also embarks on developing school-based curriculum innovation where lesson packages are designed using the Cooperative Learning approach and ICT, leveraging on the 21CC initiative to help our pupils to learn linguistic concepts and skills more deeply so that they will be equipped with the knowledge and skills for the 21st Century and beyond.
 
 ![](/images/Malay%20Model.png)
@@ -35,13 +32,13 @@ The learning of Malay Language is carried out through the integration of six cor
 
   
 
-Pupils participate in activities that develop their Oral skills. Some of the activities include Show & Tell, role play and Speaker’s corner (P1-P6).
+Pupils participate in activities that develop their Oral skills. Some of the activities include Show &amp; Tell, role play and Speaker’s corner (P1-P6).
 
   
 
 **Structured Reading Programme**
 
-Reading is promoted through extensive reading programme, PERMATA using supplementary readers, newspaper and magazines for all levels.  Through a shared book approach, pupil ambassadors will promote the books read to their peers to encourage pupils to borrow books from the school library.  Pupils also write book reviews and character portrayal based on the books read and participate in library activities.
+Reading is promoted through extensive reading programme, PERMATA using supplementary readers, newspaper and magazines for all levels.&nbsp; Through a shared book approach, pupil ambassadors will promote the books read to their peers to encourage pupils to borrow books from the school library.&nbsp; Pupils also write book reviews and character portrayal based on the books read and participate in library activities.
 
   
 
@@ -71,8 +68,8 @@ Selected P4-P6 pupils will be participating in the Scrabble Competition which wi
 
   
 
-**OVERVIEW OF PROGRAMMES & ACTIVITIES**
-![](/images/Programmes%20&%20Activities.png)
+**OVERVIEW OF PROGRAMMES &amp; ACTIVITIES**
+![](/images/Programmes%20&amp;%20Activities.png)
 
 ![](/images/Screenshot%2014.png)
 

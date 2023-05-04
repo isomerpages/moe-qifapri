@@ -3,45 +3,29 @@ title: English
 permalink: /programmes/English/permalink/
 description: ""
 ---
-English
-=======
+## English
 
-  
+##### <center> English Language Department </center>
 
-English Language Department
----------------------------
-
-  
-
-Mission
-
+<u>Mission</u><br>
 To develop Qifa pupils to be able and confident communicators and active learner
 
-  
-
-Curriculum Aims
-
+<u>Curriculum Aims</u><br>
 A Strong Foundation and A Rich Language for All - Approach to EL teaching from EL Syllabus 2010
 
 ![](/images/English%20Language%20Foundation.jpg)
 
-English Language Programs
+<u>English Language Programs</u>
 
 **_Writing Programme_**
 
-  
-
-MLEA (Modified Language Experience Approach towards Writing) at Lower Primary Levels
-
-  
+<u>MLEA (Modified Language Experience Approach towards Writing) at Lower Primary Levels</u> 
 
 In MLEA, there is a shared experience that is linked to the Big Book that has been read during Shared Reading. The shared experience provides the context and content for the pupils to think and talk about, using the language structures and vocabulary they have learnt in Shared Book Approach (SBA).
 
 ![](/images/Screenshot24.png)
 
-Writing Process Cycle (WPC) at Upper Primary Levels
-
-  
+<u>Writing Process Cycle (WPC) at Upper Primary Levels</u>
 
 Basing on the principles of the Modified Language Experience Approach (MLEA) at the Lower Primary, WPC continues to guide pupils at the Upper Primary levels in the processes of planning, writing and reviewing before they apply these skills in writing independently.
 
@@ -79,6 +63,6 @@ There are also customised programmes and competitions to stretch our learners.
 
   
 
-The English Department organises learning journeys to theatre for all Lower Primary pupils.  These theatre experience help to ignite the pupils’ passion for English and appreciate theatre work. The trips are followed by writing a reflection in the journal as a classroom activities.
+The English Department organises learning journeys to theatre for all Lower Primary pupils.&nbsp; These theatre experience help to ignite the pupils’ passion for English and appreciate theatre work. The trips are followed by writing a reflection in the journal as a classroom activities.
 
 ![](/images/Screenshot29.png)

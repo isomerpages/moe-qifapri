@@ -1,6 +1,6 @@
 ---
-title: Students Achievements
-permalink: /accolades-and-achievements/StudentsAchievements/permalink
+title: 2022 Achievement
+permalink: /students-achievements/2022-achievement/
 description: ""
 ---
 Other Achievements

@@ -21,9 +21,7 @@ The key approach to Cyber Wellness (CW) in Qifa is steered by the mission to equ
 
 *   Positive Peer Influence which encourages students to be a positive role model online and to advocate positive online behaviour. This includes sharing healthy and positive content, using technology for good, and standing up for victims of cyber bullying.
 
-![](/images/MOE%20Cyber%20Edu.jpg)
-
-**MOE Cyber Wellness Education**
+<img style="width:85%" src="/images/cyberwellness.jpg">
 
 Qifa has implemented a holistic approach to CW education guided by the framework. This comprises CW lessons during Form Teacher Guidance Period (FTGP), assembly talks, and CW school-wide programmes that aim to develop and empower our pupils into responsible digital learners.
 
@@ -33,7 +31,7 @@ CW lessons during FTGP periods aim to equip students with life-long social-emoti
 
 **Form Teacher Guidance Period (FTGP) lessons on CW**
 
-The FTGP lessons on CW were carried out in Semester 1. These lessons seek to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible user of Information Communications Technology (ICT). The CW lessons conducted are as follows:
+The FTGP lessons on CW were carried out in Semester 1. These lessons seek&nbsp;to equip students with life-long social-emotional competencies and sound values so that they can become safe, respectful and responsible user of Information Communications Technology (ICT). The CW lessons conducted are as follows:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -84,28 +82,28 @@ Beyond CW lessons in FTGP and CCE, subject teachers infuse new media literacies 
 
 **Assembly Talks**
 
-The Republic has introduced digital defence as the sixth pillar in its national defence framework Total Defence, signalling the threat cyber-attacks and disinformation pose, and the importance of cyber security. Digital Defence – Be Secure, Alert, and Responsible Online– is a whole-of-nation effort to protect and defend ourselves and our nation online. Qifa Primary School has carried out Pre Assembly Talk on Digital Defence to allow pupils to understand how to discern hallmarks of fake or sensationalised reports by checking against credible sources of information such as those of government agencies and official sources.
+The Republic has introduced digital defence as the sixth pillar in its national defence framework Total Defence, signalling the threat cyber-attacks and disinformation pose, and the importance of cyber security.&nbsp;Digital Defence – Be Secure, Alert, and Responsible Online– is a whole-of-nation effort to protect and defend ourselves and our nation online. Qifa Primary School has carried out Pre Assembly Talk on Digital Defence to allow pupils to understand how to discern hallmarks of fake or sensationalised reports by checking against credible sources of information such as those of government agencies and official sources.
 
-![](/images/Digital%20Def.jpg)
+<img style="width:50%" src="/images/cyber2.jpg">
 
 **CW Workshops**
 
 Our CW efforts also aim to develop student leaders to be advocates of CW in our school. The CW workshops for our Student Cyber Wellness Ambassadors (CWSAs) were carried out to engage pupils in positive peer influence to spread CW messages amongst their peers. These training workshops aim to develop ambassadors who can support their peers in cyber issues and champion CW-related efforts.
 
-![](/images/Pic1.jpeg)
+<img style="width:85%" src="/images/cyber3.jpg">
 
-One of our Qifa Primary School Cyber Wellness Ambassador, Ethan Tan Jiale, of Primary 6 Exemplary, was presented with the Cyber Wellness Student Ambassador (CWSA) Award 2019. The CWSA Award recognises student ambassadors who demonstrate leadership and commitment to the school’s Cyber Wellness efforts, and for their active involvement and notable contribution in promoting Cyber Wellness education amongst their peers.
+One of our&nbsp;Qifa Primary School Cyber Wellness Ambassador, Ethan Tan Jiale, of Primary 6 Exemplary, was presented with the Cyber Wellness Student Ambassador (CWSA) Award 2019. The CWSA Award recognises student ambassadors who demonstrate leadership and commitment to the school’s Cyber Wellness efforts, and for their active involvement and notable contribution in promoting Cyber Wellness education amongst their peers.
 
-![](/images/Pic2.jpeg)
+<img style="width:85%" src="/images/cyber4.jpg">
 
 **CW Activities**
 
-This year, some of our cyber wellness ambassadors took part in the inaugural National CW Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Academic Productivity & Well-Being with Mobile Devices & Screen Time” The ambassadors will be designing a comprehensive CW toolkit for their peers so that they can manage their screen time better.
+This year, some of our cyber wellness ambassadors took part in the inaugural National CW Advocacy Challenge (NCAC) organised by Crescent Girls’ School (CGS). The theme for this year challenge is “Academic Productivity &amp; Well-Being with Mobile Devices &amp; Screen Time” The ambassadors will be designing a comprehensive CW toolkit for their peers so that they can manage their screen time better.
 
-![](/images/Pic3.jpeg)
+<img style="width:85%" src="/images/cyber5.jpg">
 
 The CWSA workshops equipped the ambassadors with facilitation skills and questioning techniques that enable them to design interesting cyber wellness activities for their peers during the cyber wellness day. The theme for term 2 cyber wellness day was “Digital Defence”.
 
-![](/images/Pic4.jpeg)
+<img style="width:85%" src="/images/cyber6.jpg">
 
-Together with our CWSAs, the school ensures our students are safe and have positive experiences online by adopting positive CW habits.
+Together with our CWSAs,&nbsp;the school&nbsp;ensures our students are safe and have positive experiences online by adopting positive CW habits.

@@ -8,4 +8,5 @@ PAL
 
 ![](/images/PAL%20(1).jpg)
 
-![](/images/PAL%20(2).jpg)
+<img style="width:85%" src="/images/activelearning1.jpg">
+<img style="width:85%" src="/images/activelearning2.jpg">

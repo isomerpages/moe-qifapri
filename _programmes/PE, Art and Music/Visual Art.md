@@ -9,7 +9,7 @@ Visual Art
 
   
 
-Art beautifies our surroundings, captures memories, communicates ideas, imparts values and evokes emotions in our everyday life. Art exists in different forms from fine arts, design and to media.  
+Art beautifies our surroundings, captures memories, communicates ideas, imparts values and evokes emotions in our everyday life. Art exists in different forms from fine arts, design and&nbsp;to&nbsp;media.  
 
   
 
@@ -135,13 +135,9 @@ Art nurtures our pupils’ holistic growth development. Through positive learnin
 </tbody>
 </table>
 
-![](/images/1.jpeg)
-![](/images/2.jpeg)
-![](/images/3.jpeg)
-![](/images/4.jpeg)
-![](/images/5.jpeg)
-![](/images/6.jpeg)
-![](/images/7.jpeg)
-![](/images/8.jpeg)
-![](/images/9.jpeg)
-![](/images/10.jpg)
+<img style="width:85%" src="/images/visualart1.jpg">
+<img style="width:85%" src="/images/visualart2.jpg">
+<img style="width:85%" src="/images/visualart3.jpg">
+<img style="width:85%" src="/images/visualart4.jpg">
+<img style="width:85%" src="/images/visualart5.jpg">
+<img style="width:85%" src="/images/visualart6.jpg">
