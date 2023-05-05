@@ -13,12 +13,9 @@ Clementi Central Post Office<br>
 P.O. Box 65<br>
 Singapore 911203
 
-Office Number: 6777 8811
-
-Mobile Number: 9056 9496
-
-Fax: 67791616
-
+Office Number: 6777 8811<br>
+Mobile Number: 9056 9496<br>
+Fax: 67791616<br>
 Website:&nbsp;[http://www.alanbus.com](http://www.alanbus.com/)<br>
 Email:&nbsp;[alanbus@alanbus.com](mailto:alanbus@alanbus.com)<br>
 [Application Form](https://go.gov.sg/qps-sch-bus)
