@@ -25,10 +25,10 @@ Parents
 
 * [Term 2 Weighted Assessment (Primary 6)](/files/term%202%20wa2%20p6%202023.pdf)
  
-* [Google Classroom Documents](/partnership/Parents/google-classroom/permalink/)
+* [Google Classroom Documents](/partnership/parents/google-classroom/)
  
-* [Home-based Learning (HBL)](/partnership/Parents/hbl/permalink/)
+* [Home-based Learning (HBL)](/partnership/parents/hbl/)
  
-* [2021 P6 Graduation](/partnership/Parents/2021-P6-Graduation/permalink/)
+* [2021 P6 Graduation](/partnership/parents/2021-P6-Graduation/)
  
 * [2021 PSLE Results Day](https://drive.google.com/drive/folders/1y4mHjAZ_jHLvLKXolLqsDW6BMdPlIZ52)
