@@ -18,6 +18,7 @@ Parents
 * [School-based Assessments](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/parents/school-based-assessments)
 
 * [Term 2 Weighted Assessment (Primary 3)](/files/letter%20to%20parents%20p3%202023%20_update.pdf)
+* [Term 2 Weighted Assessment (Primary 4)](/files/term%202%20wa2%20p4%202023.pdf)
 
 * [Term 2 Weighted Assessment (Primary 6)](/files/term%202%20wa2%20p6%202023.pdf)
  
