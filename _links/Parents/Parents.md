@@ -1,10 +1,9 @@
 ---
 title: Parents
-permalink: /links/parents/permalink/
+permalink: /links/parents/
 description: ""
 third_nav_title: Parents
 ---
-
 Parents
 =======
 

@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /programmes/English/permalink/
+permalink: /programmes/english/
 description: ""
 ---
 ## English

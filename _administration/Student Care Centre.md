@@ -1,6 +1,6 @@
 ---
 title: Student Care Centre
-permalink: /administration/StudentCareCentre/permalink/
+permalink: /administration/student-care-centre/
 description: ""
 ---
 Student Care Centre

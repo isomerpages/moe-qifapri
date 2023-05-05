@@ -1,6 +1,6 @@
 ---
 title: Tamil
-permalink: /programmes/Mother-Tongue/tamil/permalink/
+permalink: /programmes/mother-tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
 ---

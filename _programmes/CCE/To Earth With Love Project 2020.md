@@ -1,6 +1,6 @@
 ---
 title: To Earth With Love Project 2020
-permalink: /programmes/CCE/ToEarthWithLoveProject2020/permalink/
+permalink: /programmes/cce/to-earth-with-love-project-2020/
 description: ""
 third_nav_title: CCE
 ---

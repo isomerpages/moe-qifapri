@@ -1,6 +1,6 @@
 ---
 title: 2021 P6 Graduation
-permalink: /partnership/Parents/2021-P6-Graduation/permalink/
+permalink: /partnership/parents/2021-p6-graduation/
 description: ""
 third_nav_title: Parents
 ---

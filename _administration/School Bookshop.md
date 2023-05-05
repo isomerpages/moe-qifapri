@@ -1,6 +1,6 @@
 ---
 title: School Bookshop
-permalink: /administration/bookshop/permalink/
+permalink: /administration/bookshop/
 description: ""
 ---
 School Bookshop

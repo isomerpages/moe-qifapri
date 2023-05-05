@@ -1,6 +1,6 @@
 ---
 title: Reading
-permalink: /links/Pupils/reading/permalink/
+permalink: /links/pupils/reading/
 description: ""
 third_nav_title: Pupils
 ---

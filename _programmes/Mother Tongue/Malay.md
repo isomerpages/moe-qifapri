@@ -1,6 +1,6 @@
 ---
 title: Malay
-permalink: /programmes/Mother-Tongue/malay/permalink/
+permalink: /programmes/mother-tongue/malay/
 description: ""
 third_nav_title: Mother Tongue
 ---

@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /administration/faq/permalink/
+permalink: /administration/faq/
 description: ""
 ---
 Frequently Asked Questions (FAQ)

@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /programmes/CCE/StudentLeadership/permalink/
+permalink: /programmes/cce/student-leadership/
 description: ""
 third_nav_title: CCE
 ---

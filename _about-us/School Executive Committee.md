@@ -1,6 +1,6 @@
 ---
 title: School Executive Committee
-permalink: /about-us/sec/permalink/
+permalink: /about-us/sec/
 description: ""
 ---
 School Executive Committee

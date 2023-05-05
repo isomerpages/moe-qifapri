@@ -1,6 +1,6 @@
 ---
 title: Values In Action
-permalink: /programmes/CCE/VIA/permalink/
+permalink: /programmes/cce/via/
 description: ""
 third_nav_title: CCE
 ---
@@ -15,7 +15,7 @@ VIA
 
 Values-in-Action (VIA) programmes provide platforms to develop students into socially responsible citizens who contribute meaningfully and actively to the school, community and nation. Through the various VIA activities, students internalise and demonstrate the school values through application of knowledge and skills learnt. When making a difference to the school and community, students also develop greater self-awareness and social-awareness.
 
-VIA Programme in Qifa inculcates the joy of learning by providing students with various opportunities to develop creativity, confidence and problem-solving skills. In addition, VIA programmes also help our students to develop entrepreneurial dare so that our students will have the grit and resilience to innovate and persevere in times of crisis and challenges.   .     
+VIA Programme in Qifa inculcates the joy of learning by providing students with various opportunities to develop creativity, confidence and problem-solving skills. In addition, VIA programmes also help our students to develop entrepreneurial dare so that our students will have the grit and resilience to innovate and persevere in times of crisis and challenges.&nbsp;&nbsp;&nbsp;.&nbsp; &nbsp;  
 
 **Our Key Programmes**
 
@@ -25,7 +25,7 @@ VIA Programme in Qifa inculcates the joy of learning by providing students with 
 
   
 
-Values-in-Action in Qifa consists of a progressive 6-year programmes and activities which provide students with ample opportunities for the learning and application of good values, knowledge and skills to attain the various learning outcomes of CCE. To develop students into ‘Leaders of Character’ and ‘Contributors with Passion’, the focus of P1 to P6 VIA Level-based programmes emphasizes on showing empathy to others and the environment. The VIA Level-based activities also provide students the opportunities to embrace their social roles in the school and community through the joy of learning and contributing.
+Values-in-Action in Qifa&nbsp;consists of a progressive 6-year programmes and activities which provide students with ample opportunities for the learning and application of good values, knowledge and skills to attain the various learning outcomes of CCE. To develop students into ‘Leaders of Character’ and ‘Contributors with Passion’, the focus of P1 to P6 VIA Level-based programmes emphasizes on showing empathy to others and the environment. The VIA Level-based activities also provide students the opportunities to embrace their social roles in the school and community through the joy of learning and contributing.
 
 From P1 to P6, the VIA Level-based programmes are guided by Design Thinking Model “Feel-Imagine-Do-Share” adapted from “_Design for Change”_. Design Thinking Model emphasizes on students’ empathetic thinking, problem-solving and creative thinking skills. During the Level-based programmes, students will identify an area they want to focus on. Students will then conduct research on the areas they have identified and brainstorm possible solutions to address the issues. Lastly, students will embark on experiential learning by implementing their ideas and share their efforts with their schoolmates through assembly talks or project work display. During the process, students exemplify the school values ‘Pride in Work’ and ‘Enterprising Spirit’ as they are challenged to try out possible solutions to address underlying issues.
 
@@ -91,13 +91,13 @@ P3 students designing posters for Food Wastage Reduction Initiative
 
 ![](/images/Screenshot9.png)
 
-**(1)**   **‘Keep Qifa Clean’ Programme**
+**(1)**&nbsp;&nbsp;&nbsp;**‘Keep Qifa Clean’ Programme**
 
 All students from P1 to P6 are involved in ‘Keep Qifa Clean’ Programme. Students acquire self-management skills and self-discipline as they learn to clean up after themselves through daily canteen and classroom cleaning. The programme inculcates in the students everyday responsibility and graciousness to care for their own and shared spaces in the school.
 
-During the cleaning of the canteen, student pick up rubbish and food scraps on the tables and the floor and throw the rubbish into the rubbish bins. They also help to clear plates/utensils that are not returned. The last 10 minutes of each day before school dismissal is also assigned for the cleaning of their classrooms as students would have to take ownership of their classrooms cleanliness to ensure that their learning spaces are clean and tidy before they go home.
+During the cleaning of the canteen,&nbsp;student pick up rubbish and food scraps on the tables and the floor and throw the rubbish into the rubbish bins. They also help to clear plates/utensils that are not returned.&nbsp;The&nbsp;last 10 minutes of each day before school dismissal is also assigned for the cleaning of their classrooms as students would have to take ownership of their classrooms cleanliness to ensure that their learning spaces are clean and tidy before they go home.
 
-**(2)**   **Newspaper Collection Drive**
+**(2)**&nbsp;&nbsp;&nbsp;**Newspaper Collection Drive**
 
 All students are involved in newspaper collection drive every semester. Students are required to bring newspapers from home for recycling. This collection drive helps students to develop into socially responsible individuals who show ‘A Caring Heart’ for the environment as they learned the importance of 3Rs ‘Reduce, Reuse and Recycle’
 
@@ -105,7 +105,7 @@ All students are involved in newspaper collection drive every semester. Students
 
 **West Coast Earth Hour**  
 
-Our school collaborates with West Coast Community on the community event: West Coast Earth Hour annually. Student leaders such as VIA Monitors and prefects set up educational and game booths to educate the community on a series of environmental issues. This event provided room for exploration and creation for the students, as they led and planned the activities. Students also had the opportunity to develop 21st century competencies and skills as they were trained to become confident speakers through their interactions with the public and take on the role of self-directed learners when they researched useful information on the different environmental issues and decided as a group the kind of exhibits and information they would want to showcase.
+Our school collaborates with West Coast Community on the community event: West Coast Earth Hour annually. Student leaders such as VIA Monitors and prefects set up educational and game booths to educate the community on a series of environmental issues. This event provided room for exploration and creation for the students, as they led and planned the activities. Students also had the opportunity to develop 21st&nbsp;century competencies and skills as they were trained to become confident speakers through their interactions with the public and take on the role of self-directed learners when they researched useful information on the different environmental issues and decided as a group the kind of exhibits and information they would want to showcase.
 
 ![](/images/Screenshot11.png)
 
@@ -115,6 +115,6 @@ Intergenerational Learning Programme (ILP) provides opportunities for the studen
 
 ![](/images/Screenshot12.png)
 
-‘ILP programme allows students to teach the Senior Citizens on how to use the mobile applications. I enjoyed interacting with them.’ 
+‘ILP programme allows students to teach the Senior Citizens on how to use the mobile applications. I enjoyed interacting with them.’&nbsp;
 
- - Yu Mengxuan, 4 Exemplary 2019.
+&nbsp;- Yu Mengxuan, 4 Exemplary 2019.

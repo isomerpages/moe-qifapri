@@ -1,6 +1,6 @@
 ---
 title: Bouquets
-permalink: /accolades-and-achievements/Bouquets/permalink/
+permalink: /accolades-and-achievements/bouquets/
 description: ""
 ---
 Bouquets

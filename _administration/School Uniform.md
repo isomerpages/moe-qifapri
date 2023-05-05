@@ -1,6 +1,6 @@
 ---
 title: School Uniform
-permalink: /administration/uniform/permalink/
+permalink: /administration/uniform/
 description: ""
 ---
 School Uniform

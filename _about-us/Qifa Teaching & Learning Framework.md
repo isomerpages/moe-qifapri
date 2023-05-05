@@ -1,6 +1,6 @@
 ---
 title: Qifa Teaching & Learning Framework
-permalink: /about-us/framework/permalink/
+permalink: /about-us/framework/
 description: ""
 ---
 Qifa Teaching & Learning Framework

@@ -1,6 +1,6 @@
 ---
 title: Pupil Travel Declaration
-permalink: /links/Parents/travel-declaration/permalink/
+permalink: /links/parents/travel-declaration/
 description: ""
 third_nav_title: Parents
 ---

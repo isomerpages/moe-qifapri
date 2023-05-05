@@ -1,6 +1,6 @@
 ---
 title: Students Achievements Celebrated on Honours Day
-permalink: /accolades-and-achievements/honoursday/permalink/
+permalink: /accolades-and-achievements/honours-day/
 description: ""
 ---
 Honours Day 2022

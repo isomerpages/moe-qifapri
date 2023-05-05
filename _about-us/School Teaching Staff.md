@@ -1,6 +1,6 @@
 ---
 title: School Teaching Staff
-permalink: /about-us/teachingstaff/permalink/
+permalink: /about-us/teachingstaff/
 description: ""
 ---
 School Teaching Staff

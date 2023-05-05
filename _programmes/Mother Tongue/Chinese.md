@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /programmes/Mother-Tongue/chinese/permalink/
+permalink: /programmes/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
 ---

@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /programmes/PE-Art-and-Music/permalink/
+permalink: /programmes/pe-art-and-music/
 description: ""
 third_nav_title: PE, Art and Music
 ---

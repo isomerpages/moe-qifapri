@@ -1,6 +1,6 @@
 ---
 title: Teachers
-permalink: /links/teachers/permalink/
+permalink: /links/teachers/
 description: ""
 ---
 Teachers

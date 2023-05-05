@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /partnership/Parents/hbl/permalink/
+permalink: /partnership/parents/hbl/
 description: ""
 third_nav_title: Parents
 ---

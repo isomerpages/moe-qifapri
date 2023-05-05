@@ -1,15 +1,15 @@
 ---
 title: STAR Pupil Award 2020
-permalink: /programmes/CCE/STARPupil/permalink/
+permalink: /programmes/cce/star-pupil/
 description: ""
 third_nav_title: CCE
 ---
 STAR Pupil Award 2020
 =====================
 
-The Qifa Star Pupil Award is given out to deserving pupils who have demonstrated exemplary character and outstanding personal qualities through their behaviour and actions in school. As part of our holistic education, our school recognises and affirms pupils who demonstrate our school values, ICAR³E (Integrity, Courage, Adaptability, Respect, Resilience, Responsibility, Empathy).    
+The Qifa Star Pupil Award is given out to deserving pupils who have demonstrated exemplary character and outstanding personal qualities through their behaviour and actions in school. As part of our holistic education, our school recognises and affirms pupils who demonstrate our school values, ICAR³E (Integrity, Courage, Adaptability, Respect, Resilience, Responsibility, Empathy). &nbsp;  
   
-For Semester 1, the emphasis is on the following values, namely, Integrity, Courage, Adaptability and Resilience while for Semester 2, the emphasis is on the following values, namely, Respect, Responsibility and Empathy. The selection process is clearly explained to the pupils and they are identified and nominated by the Form Teacher, supported by a Subject Teacher. The CCE Department would like to encourage all Qifa pupils to continue to demonstrate our ICAR³E.values.
+For Semester 1, the emphasis is on the following values, namely, Integrity, Courage, Adaptability and Resilience while for Semester 2, the emphasis is on the following values, namely, Respect, Responsibility and Empathy. The selection process is clearly explained to the pupils and they are identified and nominated by the Form Teacher, supported by a Subject Teacher. The CCE Department would like to encourage all Qifa pupils to continue to demonstrate our&nbsp;ICAR³E.values.
 
 ![](/images/starpupilaward.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Information, Communications and Technology
-permalink: /programmes/ICT/permalink/
+permalink: /programmes/ict/
 description: ""
 third_nav_title: ICT
 ---

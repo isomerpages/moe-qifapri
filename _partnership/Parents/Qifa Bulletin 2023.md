@@ -1,6 +1,6 @@
 ---
 title: Qifa Bulletin 2023
-permalink: /partnership/parents/permalink/
+permalink: /partnership/parents/
 description: ""
 third_nav_title: Parents
 ---

@@ -1,6 +1,6 @@
 ---
 title: School Advisory Committee
-permalink: /partnership/School-Advisory-Committee/permalink/
+permalink: /partnership/school-advisory-committee/
 description: ""
 ---
 School Advisory Committee

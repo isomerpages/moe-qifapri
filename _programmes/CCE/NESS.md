@@ -1,6 +1,6 @@
 ---
 title: NESS
-permalink: /programmes/CCE/NESS/permalink/
+permalink: /programmes/cce/ness/
 description: ""
 third_nav_title: CCE
 ---
@@ -74,4 +74,3 @@ As part of engaging pupils’ interest in inquiry based learning, learning journ
 <img style="width:85%" src="/images/qifaness9.jpg"><br>
 <img style="width:85%" src="/images/qifaness10.jpg"><br>
 <img style="width:85%" src="/images/qifaness11.jpg">
-

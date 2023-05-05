@@ -1,6 +1,6 @@
 ---
 title: CCAs
-permalink: /programmes/cca/permalink/
+permalink: /programmes/cca/
 description: ""
 ---
 CCA
@@ -13,7 +13,7 @@ CCAs with an asterisk \* indicate these CCAs engage coaches/instructors.
 
   
 
-CCAs with a hash symbol # indicate these CCAs participate in National School Games yearly (Sports & Games CCAs) or 
+CCAs with a hash symbol # indicate these CCAs participate in National School Games yearly (Sports &amp; Games CCAs) or&nbsp;
 
 Singapore Youth Festival bi-annually (Performing Art CCAs) – subject to selection
 

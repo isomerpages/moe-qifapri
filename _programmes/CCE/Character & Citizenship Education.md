@@ -1,6 +1,6 @@
 ---
 title: Character & Citizenship Education
-permalink: /programmes/CCE/permalink/
+permalink: /programmes/cce/
 description: ""
 third_nav_title: CCE
 ---

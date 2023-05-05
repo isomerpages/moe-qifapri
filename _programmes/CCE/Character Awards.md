@@ -1,6 +1,6 @@
 ---
 title: Character Awards
-permalink: /programmes/CCE/CharacterAwards/permalink/
+permalink: /programmes/cce/character-awards/
 description: ""
 third_nav_title: CCE
 ---

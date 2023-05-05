@@ -1,6 +1,6 @@
 ---
 title: MOE Sexuality Education in Schools
-permalink: /programmes/CCE/sexed/permalink/
+permalink: /programmes/cce/sexuality-education/
 description: ""
 third_nav_title: CCE
 ---

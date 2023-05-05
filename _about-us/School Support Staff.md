@@ -1,6 +1,6 @@
 ---
 title: School Support Staff
-permalink: /about-us/support/permalink/
+permalink: /about-us/support/
 description: ""
 ---
 School Support Staff

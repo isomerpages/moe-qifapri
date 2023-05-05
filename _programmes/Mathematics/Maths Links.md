@@ -1,6 +1,6 @@
 ---
 title: Maths Links
-permalink: /programmes/Mathematics/links/permalink/
+permalink: /programmes/mathematics/links/
 description: ""
 third_nav_title: Mathematics
 ---

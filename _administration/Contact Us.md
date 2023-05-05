@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /administration/contactus/permalink/
+permalink: /administration/contact-us/
 description: ""
 ---
 Contact Us

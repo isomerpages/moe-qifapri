@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /about-us/Gallery/permalink
+permalink: /about-us/gallery/
 description: ""
 ---
 Honours Day
