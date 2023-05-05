@@ -20,7 +20,8 @@ Mobile Number: 9056 9496
 Fax: 67791616
 
 Website:&nbsp;[http://www.alanbus.com](http://www.alanbus.com/)<br>
-Email:&nbsp;[alanbus@alanbus.com](mailto:alanbus@alanbus.com)
+Email:&nbsp;[alanbus@alanbus.com](mailto:alanbus@alanbus.com)<br>
+[Application Form](https://go.gov.sg/qps-sch-bus)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
