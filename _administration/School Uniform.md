@@ -14,9 +14,9 @@ School Uniform
 
 **Contact Numbers:**<br>
 Phone: +65 6352 2741<br>
-Fax: +65 6842 2741
-
-**Email:**&nbsp;contact@shanghai-uniforms.com
+Fax: +65 6842 2741<br>
+Email:&nbsp;contact@shanghai-uniforms.com<br>
+Website: https://shanghai-uniforms.com/
 
 **Retail Outlet Operating Hours**<br>
 Mon-Sat : 10 AM to 6 PM<br>
