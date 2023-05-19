@@ -320,9 +320,9 @@ School Teaching Staff
     </tr>
     <tr>
       <td class="tg-njgx" rowspan="2">4A</td>
-      <td class="tg-njgx">Mdm Janet Seah</td>
+      <td class="tg-njgx">Ms Yang Huiyi</td>
       <td class="tg-njgx"></td>
-      <td class="tg-njgx">janet_seah_phuay_hoon@schools.gov.sg</td>
+      <td class="tg-njgx">yang_huiyi_a@schools.gov.sg</td>
     </tr>
     <tr>
       <td class="tg-njgx">Mdm Nafisah</td>
@@ -390,7 +390,7 @@ School Teaching Staff
       <td class="tg-njgx">silvia_lim_si_qi@schools.gov.sg</td>
     </tr>
     <tr>
-      <td class="tg-njgx" rowspan="2">4G</td>
+      <td class="tg-njgx" rowspan="3">4G</td>
       <td class="tg-njgx">Ms Adeline Chan</td>
       <td class="tg-njgx">AYH/Middle Primary</td>
       <td class="tg-njgx">chan_hui_ling_a@schools.gov.sg</td>
@@ -399,6 +399,11 @@ School Teaching Staff
       <td class="tg-njgx">Ms Yuan Quan</td>
       <td class="tg-njgx"></td>
       <td class="tg-njgx">yuan_quan@schools.gov.sg</td>
+    </tr>
+    <tr>
+			  <td class="tg-njgx">Ms. Tan Li Ling</td>
+      <td class="tg-njgx"></td>
+      <td class="tg-njgx">tan_li_ling_b@schools.gov.sg</td>
     </tr>
     <tr>
       <td class="tg-kgb6" colspan="4">PRIMARY 5</td>
@@ -421,9 +426,9 @@ School Teaching Staff
       <td class="tg-njgx">chua_gim_san@schools.gov.sg</td>
     </tr>
     <tr>
-      <td class="tg-njgx">Ms Nurul Aisyah</td>
+      <td class="tg-njgx">Ms Nurul Aisyah </td>
       <td class="tg-njgx"></td>
-      <td class="tg-njgx"></td>
+      <td class="tg-njgx">nurul_aisyah_saifudin@schools.gov.sg</td>
     </tr>
     <tr>
       <td class="tg-njgx" rowspan="2">5C</td>
