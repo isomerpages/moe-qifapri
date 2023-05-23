@@ -3,108 +3,189 @@ title: RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC)
 permalink: /ripmwc/
 description: ""
 ---
-<table border="0" cellpadding="0" cellspacing="0" width="578" style="border-collapse:
- collapse;width:434pt"><colgroup><col width="163" style="mso-width-source:userset;mso-width-alt:5961;width:122pt"> <col width="110" style="mso-width-source:userset;mso-width-alt:4022;width:83pt"> <col width="225" style="mso-width-source:userset;mso-width-alt:8228;width:169pt"> <col width="80" style="mso-width-source:userset;mso-width-alt:2925;width:60pt"></colgroup><tbody><tr height="40" style="height:30.0pt"><td height="40" class="xl65" width="163" style="height:30.0pt;width:122pt">Name of<br>Competition</td><td class="xl66" width="110" style="border-left:none;width:83pt">Achievement</td><td class="xl66" width="225" style="border-left:none;width:169pt">Students Involved</td><td class="xl66" width="80" style="border-left:none;width:60pt">Class</td></tr><tr height="20" style="height:15.0pt"><td rowspan="15" height="300" class="xl64" width="163" style="height:225.0pt;
-	border-top:none;width:122pt">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) - Open Category</td><td rowspan="3" class="xl70" width="110" style="border-top:none;width:83pt">High Distinction</td><td class="xl67" style="border-top:none;border-left:none">XU YIHONG</td><td class="xl67" style="border-top:none;border-left:none">6F</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl67" style="height:15.0pt;border-top:none;border-left:
-  none">ZHENG HUIHENG</td><td class="xl67" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl67" style="height:15.0pt;border-top:none;border-left:
-  none">(*Invited for 2nd round of contest)</td><td class="xl67" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td rowspan="7" height="140" class="xl71" width="110" style="height:105.0pt;
-  border-top:none;width:83pt">Distinction</td><td class="xl68" style="border-top:none;border-left:none">SURYAVARMAN CHANDRASEKAR</td><td class="xl68" style="border-top:none;border-left:none">6E</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">ZHAO HAO WEN KINGSTON</td><td class="xl68" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">JIANG ZHIYUAN</td><td class="xl68" style="border-top:none;border-left:none">6E</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">JAVIER WEE JIA WEI</td><td class="xl68" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">RIDDHI THAPAR</td><td class="xl68" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">LEE XIYUE JANE</td><td class="xl68" style="border-top:none;border-left:none">6F</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">CHUA HONG YEE, THEODORE</td><td class="xl68" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td rowspan="5" height="100" class="xl63" width="110" style="height:75.0pt;
-  border-top:none;width:83pt">Merit</td><td class="xl69" style="border-top:none;border-left:none">DUAN WEI</td><td class="xl69" style="border-top:none;border-left:none">6F</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl69" style="height:15.0pt;border-top:none;border-left:
-  none">EMMETT CHNG XUE YANG</td><td class="xl69" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl69" style="height:15.0pt;border-top:none;border-left:
-  none">QIN YIXIN</td><td class="xl69" style="border-top:none;border-left:none">6G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl69" style="height:15.0pt;border-top:none;border-left:
-  none">LIU JIAAN</td><td class="xl69" style="border-top:none;border-left:none">6E</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl69" style="height:15.0pt;border-top:none;border-left:
-  none">PNG ZHI YANG</td><td class="xl69" style="border-top:none;border-left:none">6E</td></tr></tbody></table>
+<table style="border-collapse:
+ collapse;width:434pt" width="578" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:5961;width:122pt" width="163"> <col style="mso-width-source:userset;mso-width-alt:4022;width:83pt" width="110"> <col style="mso-width-source:userset;mso-width-alt:8228;width:169pt" width="225"> <col style="mso-width-source:userset;mso-width-alt:2925;width:60pt" width="80"></colgroup><tbody><tr style="height:30.0pt" height="40"><td style="height:30.0pt;width:122pt" width="163" class="xl65" height="40">Name of<br>Competition</td><td style="border-left:none;width:83pt" width="110" class="xl66">Achievement</td><td style="border-left:none;width:169pt" width="225" class="xl66">Students Involved</td><td style="border-left:none;width:60pt" width="80" class="xl66">Class</td></tr><tr style="height:15.0pt" height="20"><td style="height:225.0pt;
+	border-top:none;width:122pt" width="163" class="xl64" height="300" rowspan="15">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) - Open Category</td><td style="border-top:none;width:83pt" width="110" class="xl70" rowspan="3">High Distinction</td><td style="border-top:none;border-left:none" class="xl67">XU YIHONG</td><td style="border-top:none;border-left:none" class="xl67">6F</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl67" height="20">ZHENG HUIHENG</td><td style="border-top:none;border-left:none" class="xl67">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl67" height="20">(*Invited for 2nd round of contest)</td><td style="border-top:none;border-left:none" class="xl67">&nbsp;</td></tr><tr style="height:15.0pt" height="20"><td style="height:105.0pt;
+  border-top:none;width:83pt" width="110" class="xl71" height="140" rowspan="7">Distinction</td><td style="border-top:none;border-left:none" class="xl68">SURYAVARMAN CHANDRASEKAR</td><td style="border-top:none;border-left:none" class="xl68">6E</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">ZHAO HAO WEN KINGSTON</td><td style="border-top:none;border-left:none" class="xl68">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">JIANG ZHIYUAN</td><td style="border-top:none;border-left:none" class="xl68">6E</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">JAVIER WEE JIA WEI</td><td style="border-top:none;border-left:none" class="xl68">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">RIDDHI THAPAR</td><td style="border-top:none;border-left:none" class="xl68">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">LEE XIYUE JANE</td><td style="border-top:none;border-left:none" class="xl68">6F</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl68" height="20">CHUA HONG YEE, THEODORE</td><td style="border-top:none;border-left:none" class="xl68">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:75.0pt;
+  border-top:none;width:83pt" width="110" class="xl63" height="100" rowspan="5">Merit</td><td style="border-top:none;border-left:none" class="xl69">DUAN WEI</td><td style="border-top:none;border-left:none" class="xl69">6F</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl69" height="20">EMMETT CHNG XUE YANG</td><td style="border-top:none;border-left:none" class="xl69">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl69" height="20">QIN YIXIN</td><td style="border-top:none;border-left:none" class="xl69">6G</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl69" height="20">LIU JIAAN</td><td style="border-top:none;border-left:none" class="xl69">6E</td></tr><tr style="height:15.0pt" height="20"><td style="height:15.0pt;border-top:none;border-left:
+  none" class="xl69" height="20">PNG ZHI YANG</td><td style="border-top:none;border-left:none" class="xl69">6E</td></tr></tbody></table>
 <br><br>
-     <!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} .font5 {color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:underline; text-underline-style:single; font-family:Calibri, sans-serif; mso-font-charset:0;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {text-align:center;} .xl66 {font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl67 {font-size:9.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl68 {font-size:9.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl69 {font-weight:700; text-align:center; border-top:.5pt solid windowtext; border-right:none; border-bottom:none; border-left:.5pt solid windowtext; white-space:normal;} .xl70 {border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} .xl71 {text-align:center; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:.5pt solid windowtext;} .xl72 {font-size:9.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border-top:1.0pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl73 {text-align:center; border-top:1.0pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl74 {text-align:center; border-top:.5pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl75 {border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl76 {text-align:center; border-top:.5pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:.5pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl77 {border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:.5pt solid windowtext;} .xl78 {border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:none;} .xl79 {font-size:10.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:.5pt solid windowtext;} .xl80 {text-align:center; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:.5pt solid windowtext;} .xl81 {font-size:9.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border-top:1.0pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl82 {text-align:center; border-top:1.0pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl83 {text-align:center; border-top:.5pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl84 {font-size:9.0pt; font-family:Arial, sans-serif; mso-font-charset:0; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl85 {text-align:center; border-top:.5pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:.5pt solid windowtext; background:yellow; mso-pattern:black none;} .xl86 {vertical-align:middle; border-top:1.0pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext; background:yellow; mso-pattern:black none;} .xl87 {vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext; background:yellow; mso-pattern:black none;} .xl88 {vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:1.0pt solid windowtext; background:yellow; mso-pattern:black none;} .xl89 {text-align:center; vertical-align:middle; border-top:1.0pt solid windowtext; border-right:1.0pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext; background:#E2EFDA; mso-pattern:black none; white-space:normal;} .xl90 {text-align:center; vertical-align:middle; border-top:none; border-right:1.0pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext; background:#E2EFDA; mso-pattern:black none; white-space:normal;} .xl91 {text-align:center; vertical-align:middle; border-top:none; border-right:1.0pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:1.0pt solid windowtext; background:#E2EFDA; mso-pattern:black none; white-space:normal;} .xl92 {vertical-align:middle; border-top:1.0pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext; background:#D0CECE; mso-pattern:black none;} .xl93 {vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:none; border-left:1.0pt solid windowtext;} .xl94 {vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:1.0pt solid windowtext; border-left:1.0pt solid windowtext;} -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="453" style="border-collapse:
- collapse;width:341pt"><colgroup><col width="116" style="mso-width-source:userset;mso-width-alt:4242;width:87pt"> <col width="85" style="mso-width-source:userset;mso-width-alt:3108;width:64pt"> <col width="190" style="mso-width-source:userset;mso-width-alt:6948;width:143pt"> <col width="62" style="width:47pt"></colgroup><tbody><tr height="41" style="height:30.75pt"><td height="41" class="xl69" width="116" style="height:30.75pt;width:87pt">Name of<br>Competition</td><td class="xl66" width="85" style="width:64pt">Achievement</td><td class="xl66" width="190" style="border-left:none;width:143pt">Students Involved</td><td class="xl66" width="62" style="border-left:none;width:47pt">Class</td></tr><tr height="19" style="mso-height-source:userset;height:14.45pt"><td rowspan="8" height="162" class="xl89" dir="LTR" width="116" style="border-bottom:
-  1.0pt solid black;height:121.7pt;width:87pt">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) - <font class="font5">Junior Category</font></td><td class="xl70" style="border-top:none">&nbsp;</td><td class="xl77" style="border-top:none;border-left:none">&nbsp;</td><td class="xl71" style="border-top:none;border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td rowspan="3" height="61" class="xl86" style="border-bottom:1.0pt solid black;
-  height:45.75pt">Distinction</td><td class="xl81" style="border-left:none">NATHAN GABRIELL SONG</td><td class="xl82" style="border-left:none">5G</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl67" style="height:15.0pt;border-top:none;border-left:
-  none">WANG BOYA, BRYAN</td><td class="xl83" style="border-top:none;border-left:none">5F</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl84" style="height:15.75pt;border-top:none;border-left:
-  none">ZHANG SHIPEI</td><td class="xl85" style="border-top:none;border-left:none">5E</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl78" style="height:15.75pt">&nbsp;</td><td class="xl79" style="border-left:none">&nbsp;</td><td class="xl80" style="border-left:none">&nbsp;</td></tr><tr height="20" style="height:15.0pt"><td rowspan="3" height="61" class="xl92" style="border-bottom:1.0pt solid black;
-  height:45.75pt">Merit</td><td class="xl72" style="border-left:none">MICAH HONG YU SHAYNE</td><td class="xl73" style="border-left:none">5E</td></tr><tr height="20" style="height:15.0pt"><td height="20" class="xl68" style="height:15.0pt;border-top:none;border-left:
-  none">TAN ZHI XUAN</td><td class="xl74" style="border-top:none;border-left:none">5F</td></tr><tr height="21" style="height:15.75pt"><td height="21" class="xl75" style="height:15.75pt;border-top:none;border-left:
-  none">WU YUEHAN</td><td class="xl76" style="border-top:none;border-left:none">5G</td></tr></tbody></table><br>
-	<br>
-	         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-alt:"Nirmala UI"; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-<table class="MsoTableGridLight" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid #BFBFBF .5pt;
- mso-border-themecolor:background1;mso-border-themeshade:191;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="160" valign="top" style="width:119.7pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;mso-border-alt:
-  solid #BFBFBF .5pt;mso-border-themecolor:background1;mso-border-themeshade:
-  191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">Name of Competition</p><p></p></td><td width="160" valign="top" style="width:119.7pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">Achievement</p></td><td width="160" valign="top" style="width:119.7pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">Students Involved</p></td><td width="160" valign="top" style="width:119.7pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-left:none;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">Class</p></td></tr><tr style="mso-yfti-irow:1;height:33.3pt"><td width="160" rowspan="2" style="width:119.7pt;border:solid #BFBFBF 1.0pt;
-  mso-border-themecolor:background1;mso-border-themeshade:191;border-top:none;
+<table class="MsoTableGridLight" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="175" style="width:131.4pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Name of <br> Competition</b></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b></b></p></td><td width="162" style="width:121.5pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Achievement</b></p></td><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Students Involved</b></p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+	line-height:normal"><b>Class</b></p></td></tr><tr style="mso-yfti-irow:1;height:26.85pt"><td width="175" rowspan="6" style="width:131.4pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
   mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
-  mso-border-top-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) - Round 2</p></td><td width="160" rowspan="2" style="width:119.7pt;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">Distinction</p></td><td width="160" style="width:119.7pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) – Junior Category</p></td><td width="162" rowspan="3" style="width:121.5pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">XU YIHONG</p></td><td width="160" style="width:119.7pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">Distinction</p></td><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">6F</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:72.9pt"><td width="160" style="width:119.7pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">NATHAN GABRIELL SONG</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  72.9pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
-  line-height:normal">ZHENG HUIHENG</p></td><td width="160" style="width:119.7pt;border-top:none;border-left:none;
-  border-bottom:solid #BFBFBF 1.0pt;mso-border-bottom-themecolor:background1;
-  mso-border-bottom-themeshade:191;border-right:solid #BFBFBF 1.0pt;mso-border-right-themecolor:
-  background1;mso-border-right-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5G</p></td></tr><tr style="mso-yfti-irow:2;height:26.85pt"><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">WANG BOYA, BRYAN</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5F</p></td></tr><tr style="mso-yfti-irow:3;height:26.85pt"><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">ZHANG SHIPEI</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5E</p></td></tr><tr style="mso-yfti-irow:4;height:26.85pt"><td width="162" rowspan="3" style="width:121.5pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">Merit</p></td><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">MICAH HONG YU SHAYNE</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5E</p></td></tr><tr style="mso-yfti-irow:5;height:26.85pt"><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
   mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
-  mso-border-left-alt:solid #BFBFBF .5pt;mso-border-left-themecolor:background1;
-  mso-border-left-themeshade:191;mso-border-alt:solid #BFBFBF .5pt;mso-border-themecolor:
-  background1;mso-border-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:
-  72.9pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">TAN ZHI XUAN</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5F</p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes;height:26.85pt"><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">WU YUEHAN</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:26.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">5G</p></td></tr></tbody></table><br><br>
+	     
+
+<table class="MsoTableGridLight" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="175" valign="top" style="width:131.4pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+	line-height:normal"><b>Name of<br>Competition</b></p><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"></p></td><td width="162" valign="top" style="width:121.5pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Achievement</b></p></td><td width="156" valign="top" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Students Involved</b></p></td><td width="145" valign="top" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal"><b>Class</b></p></td></tr><tr style="mso-yfti-irow:1;height:33.3pt"><td width="175" rowspan="2" style="width:131.4pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC) - Round 2</p></td><td width="162" rowspan="2" style="width:121.5pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">Distinction</p></td><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">XU YIHONG</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:33.3pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">6F</p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:37.75pt"><td width="156" style="width:117.0pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:37.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
+  line-height:normal">ZHENG HUIHENG</p></td><td width="145" style="width:108.9pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
+  mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;
+  mso-border-top-alt:solid #BFBFBF .5pt;mso-border-top-themecolor:background1;
+  mso-border-top-themeshade:191;mso-border-top-alt:solid #BFBFBF .5pt;
+  mso-border-top-themecolor:background1;mso-border-top-themeshade:191;
+  mso-border-bottom-alt:solid #BFBFBF .5pt;mso-border-bottom-themecolor:background1;
+  mso-border-bottom-themeshade:191;padding:0in 5.4pt 0in 5.4pt;height:37.75pt"><p class="MsoNormal" align="center" style="margin-bottom:0in;text-align:center;
   line-height:normal">6G</p></td></tr></tbody></table>
