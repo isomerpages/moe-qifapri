@@ -5,4 +5,4 @@ description: ""
 ---
 * [Raffles Institution  Primary Mathematics World Contest](https://qifapri.moe.edu.sg/ripmwc/)
 * [Singapore Mathematical Olympiad for Primary School](https://qifapri.moe.edu.sg/smops/)
-[](https://qifapri.moe.edu.sg/sasmo/)
+* [Singapore And Asian Schools Math Olympiad](https://qifapri.moe.edu.sg/sasmo/)
