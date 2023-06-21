@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Vendors.md
       - Pupils/.keep
       - Pupils/Pupils.md
       - Pupils/Reading.md
@@ -10,3 +9,4 @@ collections:
       - Parents/Parents.md
       - Parents/Pupil Travel Declaration.md
       - Teachers.md
+      - Vendors.md
