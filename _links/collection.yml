@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Canteen Stall Application.md
       - Pupils/.keep
       - Pupils/Pupils.md
       - Pupils/Reading.md
