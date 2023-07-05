@@ -3,8 +3,6 @@ title: School Bus
 permalink: /school-bus/
 description: ""
 ---
-  
-
 **School Bus Advertisement**
 
 To apply, please refer to the Service Requirements and the Application Procedure below.
@@ -12,16 +10,16 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 
 1. Call for Proposal:
-* [Call for Proposal.pdf](/files/call%20for%20proposal.pdf)
+* [](/files/School%20Bus/call%20for%20proposal%20for%20appt.pdf)[Call for Proposal.pdf](/files/call%20for%20proposal.pdf)
 2. Agreement for Appointment of School Bus Operator:
-* [Agreement for Appointment of School Bus Operator.pdf]()
-* [Request for School Bus Services.pdf]()
+* [Agreement for Appointment of School Bus Operator.pdf](/files/School%20Bus/agreement%20for%20appt.pdf)
+* [Request for School Bus Services.pdf](/files/School%20Bus/req%20for%20sch%20bus%20svc.pdf)
 
 
 **Application Procedure**
 
 1. Complete the Call for Proposal - Annex A:
-* 
+* [Call for proposal Annex A.pdf](/files/School%20Bus/call%20for%20proposal.pdf)
 2. Submit the completed Call for Proposal – Annex A by closing date, 14 Jul 2023, to the School’s General Office.
 
 **Address:** 50 West Coast Avenue, Singapore
