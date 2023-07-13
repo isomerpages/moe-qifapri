@@ -20,7 +20,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the Call for Proposal - Annex A:
 * [Call for proposal Annex A.pdf](/files/School%20Bus/call%20for%20proposal.pdf)
-2. Submit the completed Call for Proposal – Annex A by closing date, 14 Jul 2023, to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, 19th Jul 2023, to the School’s General Office.
 
 **Address:** 50 West Coast Avenue, Singapore
 
