@@ -92,10 +92,7 @@ School Executive Committee
     <td class="tg-njgx">lee_hui_min@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-njgx">Mr Lim Cheng Leong<br></td>
-    <td class="tg-njgx">HOD/Information Communications Technology</td>
-    <td class="tg-njgx">lim_cheng_leong@schools.gov.sg</td>
-  </tr>
+    </tr>
   <tr>
     <td class="tg-njgx">Ms Eileen Ang</td>
     <td class="tg-njgx">SH/Physical Education &amp; Co-Curricular Activities</td>
@@ -106,12 +103,7 @@ School Executive Committee
     <td class="tg-njgx">LH/Staff Learning &amp; Development</td>
     <td class="tg-njgx">ong_jingxuan@schools.gov.sg</td>
   </tr>
-  <tr>
-    <td class="tg-njgx">Ms Yap Kar Wei <br></td>
-    <td class="tg-njgx">LH/Chinese (int)<br></td>
-    <td class="tg-njgx">yap_kar_wei@schools.gov.sg<br></td>
-  </tr>
-  <tr>
+    <tr>
     <td class="tg-njgx">Ms Nurul Jannah<br></td>
     <td class="tg-njgx">AYH/Lower Primary<br></td>
     <td class="tg-njgx">nurul_jannah_ismail@schools.gov.sg </td>
