@@ -1,6 +1,6 @@
 ---
-title: Administration
-permalink: /administration/
+title: School Bus Service
+permalink: /administration/schoolbusservice/
 description: ""
 ---
 School Bus Service
