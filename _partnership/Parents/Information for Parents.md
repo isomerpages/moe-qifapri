@@ -1,13 +1,12 @@
 ---
-title: Parents
-permalink: /partnership/parents/
+title: Information for Parents
+permalink: /partnership/parents/infoforparents/
 description: ""
 third_nav_title: Parents
 ---
-Parents
+Information for Parents
 =======
 
-### Information for Parents
 
 * [e-Parents Seminar 2023](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/e-parents-seminar-2023)
 
