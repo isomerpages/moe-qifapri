@@ -8,7 +8,6 @@ Home-based Learning (HBL)
 =========================
 
 #####  **A. Zoom**
- 
 Our teachers will be leveraging the video conferencing tool – Zoom to carry out synchronous online teaching during HBL. A guide has been created to help parents and students to access Zoom.
 
 * [Zoom User Guide](https://qifapri.moe.edu.sg/qql/slot/u316/Setting%20Up%20of%20Zoom%20Virtual%20Room_Step-by-Step%20Guide%20for%20Students%20%20Parents.pdf)
