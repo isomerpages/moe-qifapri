@@ -4,10 +4,9 @@ permalink: /partnership/parents/
 description: ""
 third_nav_title: Parents
 ---
-Parents
+Information for Parents
 =======
 
-### Information for Parents
 
 * [e-Parents Seminar 2023](https://qifapri-moe-edu-sg-admin.cwp.sg/partnership/e-parents-seminar-2023)
 
