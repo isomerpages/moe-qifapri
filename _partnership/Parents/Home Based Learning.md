@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 Home-based Learning (HBL)
 =========================
-##### P1-5 Home-based Learning (HBL) Schedule
+##### P1-5 Home-based Learning (HBL) Schedule (3 - 4 Aug 2023)
 * [Primary 1 HBL Schedule (3 - 4 Aug 2023)](/files/p1%20hbl%20em_mtl%20plan%202023.pdf)
 * [Primary 2 HBL Schedule (3 - 4 Aug 2023)](/files/p2%20hbl%20em_mtl%20plan%202023.pdf)
 * [Primary 3 HBL Schedule (3 - 4 Aug 2023)](/files/p3%20hbl%20ems_mtl%20plan%202023.pdf)
