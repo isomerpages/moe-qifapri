@@ -123,5 +123,9 @@ School Executive Committee
     <td class="tg-njgx">SH/Discipline (int)</td>
     <td class="tg-njgx">toh_bee_lay@schools.gov.sg</td>
   </tr>
-</tbody>
+  <tr>
+       <td class="tg-njgx">Mdm Nafisah</td>
+    <td class="tg-njgx">SH/Malay Language (int)</td>
+    <td class="tg-njgx">nafisah_abd_hamid@schools.gov.sg</td>
+</tr></tbody>
 </table>
