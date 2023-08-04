@@ -6,7 +6,7 @@ description: ""
 School Executive Committee
 ==========================
 
-![](/images/Done/Done/Org%20Chart.jpg)
+![](/images/Done/2023%20school%20management%20team.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -119,12 +119,7 @@ School Executive Committee
     <td class="tg-njgx">chong_siang_feih@schools.gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-njgx">Ms Shabeena</td>
-    <td class="tg-njgx">SH/Leadership, Engagement, Advocacy and Partnership </td>
-    <td class="tg-njgx">shabeena_begum_azizzul_rah@schools.gov.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-njgx">Mrs Bernice Yap</td>
+       <td class="tg-njgx">Mrs Bernice Yap</td>
     <td class="tg-njgx">SH/Discipline (int)</td>
     <td class="tg-njgx">toh_bee_lay@schools.gov.sg</td>
   </tr>
