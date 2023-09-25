@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Students Achievements Celebrated on Honours Day.md
+      - Student Achievements/Student Achievements.md
       - Student Achievements/.keep
       - Bouquets/.keep
       - Bouquets/Bouquets.md
