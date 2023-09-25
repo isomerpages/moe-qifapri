@@ -2,6 +2,7 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - Student Achievements/Students Achievements Celebrated on Honours Day.md
       - Student Achievements/.keep
       - Bouquets/.keep
       - Bouquets/Bouquets.md
