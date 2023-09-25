@@ -2,6 +2,7 @@ collections:
   students-achievements:
     output: true
     order:
+      - 2022 Achievements/.keep
       - 2023 Achievements/.keep
       - 2023 Achievements/Singapore Math Kangaroo Contest (SMKC) 2023.md
       - 2023 Achievements/National Mathematical Olympiad of Singapore 2023.md
