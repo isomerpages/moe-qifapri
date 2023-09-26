@@ -4,7 +4,7 @@ permalink: /students-achievements/2021-achievements/cca-aes/
 description: ""
 third_nav_title: 2021 Achievements
 ---
-## CCA and Aesthetics
+### CCA and Aesthetics
 
 | **Name of Competition/Award**  | **Achievement**  | **Pupils Involved**  |
 |:-:|---|---|
