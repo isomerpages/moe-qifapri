@@ -4,17 +4,6 @@ permalink: /partnership/parents/hbl/
 description: ""
 third_nav_title: Parents
 ---
-Home-based Learning (HBL)
-=========================
-##### P1-5 Home-based Learning (HBL) Schedule (3 - 4 Aug 2023)
-* [Primary 1 HBL Schedule (3 - 4 Aug 2023)](/files/p1%20hbl%20em_mtl%20plan%202023.pdf)
-* [Primary 2 HBL Schedule (3 - 4 Aug 2023)](/files/p2%20hbl%20em_mtl%20plan%202023.pdf)
-* [Primary 3 HBL Schedule (3 - 4 Aug 2023)](/files/p3%20hbl%20ems_mtl%20plan%202023.pdf)
-* [Primary 4 HBL Schedule (3 - 4 Aug 2023)](/files/p4%20hbl%20ems_mtl%20plan%202023.pdf)
-* [Primary 5 HBL Schedule (3 - 4 Aug 2023)](/files/p5%20hbl%20ems_mtl%20plan%202023.pdf)
-* [Primary 5 Foundation HBL Schedule (3 - 4 Aug 2023)](/files/p5a%20hbl%20fdn%20ems_mtl%20plan%202023.pdf)
-
-
 ##### **A. Student Learning Space (SLS)**
 
 * [SLS Student User Guide](https://www.learning.moe.edu.sg/student-user-guide/organise/)
@@ -42,10 +31,13 @@ Home-based Learning (HBL)
 >* Complete the online form (https://tinyurl.com/QPS-SLS-Helpdesk) to send in your request
 >2.  After school operating hours
 >* Mondays to Fridays, 4.00p.m. to 9.00p.m. Saturdays, 9.00a.m. to 9.00p.m. (Closed on Sundays and public holidays)
->*    Call SLS Helpdesk at 6702 6513 or
->*    Email helpdesk@sls.ufinity.com
+>*    Call SLS Helpdesk at 6702 6513 or Email helpdesk@sls.ufinity.com
  
-##### **B. KooBits**
+##### **B. Zoom**
+* [Virtual Room User Guide](/files/setting%20up%20of%20zoom%20virtual%20room_step-by-step%20guide%20for%20students%20&%20parents.pdf)
+
+
+##### **C. KooBits**
 * [KooBits Student User Guide](https://drive.google.com/file/d/1C0hHyQsqqCOMSZeNCtppeLFIkuEoytBP/view?usp=sharing)
 * [How to complete teacher assigned work on Koobits](/files/How%20to%20complete%20teacher%20assigned%20work%20on%20Koobits.pdf)
 * [How to access video tutorials on Koobits to learn how to solve a problem](/files/How%20to%20access%20video%20tutorials%20on%20Koobits%20to%20learn%20how%20to%20solve%20a%20problem.pdf)

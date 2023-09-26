@@ -2,14 +2,17 @@ collections:
   accolades-and-achievements:
     output: true
     order:
+      - Bouquets/.keep
+      - Bouquets/Bouquets.md
+      - Bouquets/Bouquets from Parents and Other Partners.md
       - Graduating Cohort/.keep
-      - Students Achievements Celebrated on Honours Day.md
-      - Student Achievements/.keep
-      - What our ex pupils say about us.md
-      - Bouquets.md
       - Staff Accolades/.keep
       - Staff Accolades/Staff Accolades.md
       - Staff Accolades/Thank You 'Cher Gratitude Portal.md
       - Staff Accolades/MOE Service Excellence Award (MSEA).md
       - Staff Accolades/Outstanding Youth in Education Award (OYEA).md
       - Staff Accolades/School Based Teacher Awards.md
+      - Student Achievements/.keep
+      - Student Achievements/Student Achievements.md
+      - Students Achievements Celebrated on Honours Day.md
+      - What our ex pupils say about us.md
