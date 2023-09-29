@@ -3,7 +3,7 @@ title: Canteen Stall Application
 permalink: /canteen/
 description: ""
 ---
-Western Food Stall (halal) | 20 Jul 2023 |
+Western Food Stall (halal) | 29 Sep 2023 |
 
 \*\*Application Procedure\*\*
 
