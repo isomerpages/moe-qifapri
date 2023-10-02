@@ -13,3 +13,4 @@ third_nav_title: Parents
 * [July](/files/Bulletin/qifa%20bulletin%20-%20jul%202023.pdf)
 * August ([Part 1](/files/Bulletin/qifa%20bulletin%20-%20aug%202023%20(part%201).pdf) & [Part 2](/files/Bulletin/qifa%20bulletin%20-%20aug%202023%20(part%202).pdf))
 * [September](/files/qifa%20bulletin%20-%20sep%202023.pdf)
+* [October](/files/qifa%20bulletin%20-%20oct%202023.pdf)
