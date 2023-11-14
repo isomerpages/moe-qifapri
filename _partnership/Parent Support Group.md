@@ -2,12 +2,11 @@
 title: Parent Support Group
 permalink: /partnership/psg/permalink/
 description: ""
+variant: markdown
 ---
 Parent Support Group
 ====================
-![](/images/PSGHEADER1.png)
-
-![](/images/parent%20support%20group%202.jpg)
+![2023 - 2025 PSG EXCO](/images/WhatsApp_Image_2023_11_09_at_09_36_00__1_.jpeg)
 
 At Qifa Primary School, the parents play an active role as partners to work alongside the teachers and support the school’s activities.    
   
