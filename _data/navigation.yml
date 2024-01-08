@@ -27,3 +27,8 @@ links:
     collection: links
   - title: P1 2024
     url: https://sites.google.com/moe.edu.sg/primary1qifa2024/home
+  - title: Test
+    url: /permalink
+    sublinks:
+      - title: Test A
+        url: www.google.com
