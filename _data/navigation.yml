@@ -1,34 +1,10 @@
 logo: /images/logo-main.png
 links:
-  - title: About Us Archive
-    collection: about-us-archive
+  - title: About Us
+    url: https://sites.google.com/moe.edu.sg/qps-about-us
   - title: Administration
-    collection: administration
-  - title: Accolades and Achievements
-    url: /students-achievements/our-grad-cohort/
-    sublinks:
-      - title: Our Graduating Cohort
-        url: /students-achievements/our-grad-cohort/
-      - title: Celebrated on Honours Day
-        url: /accolades-and-achievements/honours-day/
-      - title: Students Achievements
-        url: /students-achievements/2023-achievement/
-      - title: What ex-pupils say about us
-        url: /accolades-and-achievements/ex/
-      - title: Bouquets
-        url: /accolades-and-achievements/bouquets/
-      - title: Staff Accolades
-        url: /accolades-and-achievements/staff-accolades/staff/
+    url: https://sites.google.com/moe.edu.sg/qps-ad-matters
   - title: Programmes
-    collection: programmes
-  - title: Partnership
-    collection: partnership
-  - title: Links
-    collection: links
+    url: https://sites.google.com/moe.edu.sg/qps-programmes
   - title: P1 2024
     url: https://sites.google.com/moe.edu.sg/primary1qifa2024/home
-  - title: Test
-    url: /permalink
-    sublinks:
-      - title: Test A
-        url: www.google.com
