@@ -1,7 +1,7 @@
 logo: /images/logo-main.png
 links:
-  - title: About Us
-    collection: about-us
+  - title: About Us Archive
+    collection: about-us-archive
   - title: Administration
     collection: administration
   - title: Accolades and Achievements
