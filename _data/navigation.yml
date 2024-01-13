@@ -2,6 +2,15 @@ logo: /images/Main Images/school_logo_icon.png
 links:
   - title: About Us
     url: https://sites.google.com/moe.edu.sg/qps-about-us
+    sublinks:
+      - title: School Information
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-information
+      - title: School History
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-history
+      - title: Principal's Message
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/principals-message
+      - title: Qifa T&L Framework
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/tl-framework
   - title: Administration
     url: https://sites.google.com/moe.edu.sg/qps-ad-matters
   - title: Programmes
