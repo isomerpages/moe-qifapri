@@ -2,13 +2,58 @@ logo: /images/Main Images/school_logo_icon.png
 links:
   - title: About Us
     url: https://sites.google.com/moe.edu.sg/qps-about-us
+    sublinks:
+      - title: School Information
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-information
+      - title: School History
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-history
+      - title: Principal's Message
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/principals-message
+      - title: Qifa T&L Framework
+        url: https://sites.google.com/moe.edu.sg/qps-about-us/tl-framework
   - title: Administration
     url: https://sites.google.com/moe.edu.sg/qps-ad-matters
+    sublinks:
+      - title: Contact Us
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/contact-us
+      - title: School Bus Service
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bus-service
+      - title: School Bookshop
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bookshop
+      - title: School Uniform
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-uniform
+      - title: Forms
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/forms
+      - title: Privacy Statement
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/privacy-statement
+      - title: Student Care Centre
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/student-care-centre
+      - title: Frequently Asked Questions
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/frequently-asked-questions
   - title: Programmes
     url: https://sites.google.com/moe.edu.sg/qps-programmes
+    sublinks:
+      - title: Applied Learning Programme
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/alp
+      - title: Learning for Life Programme
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/llp
+      - title: Programme for Active Learning
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/pal
   - title: Links
-    url: https://sites.google.com/moe.edu.sg/qps-links/links
+    url: https://sites.google.com/moe.edu.sg/qps-links
+    sublinks:
+      - title: Pupils
+        url: https://sites.google.com/moe.edu.sg/qps-links/pupils
+      - title: Parents
+        url: https://sites.google.com/moe.edu.sg/qps-links/parents
+      - title: Teachers
+        url: https://sites.google.com/moe.edu.sg/qps-links/teachers
+      - title: Vendors
+        url: https://sites.google.com/moe.edu.sg/qps-links/vendors
   - title: Partnerships
     url: https://sites.google.com/moe.edu.sg/qps-partnerships
+    sublinks:
+      - title: Parents
+        url: https://sites.google.com/moe.edu.sg/qps-partnerships/parents
   - title: P1 2024
     url: https://sites.google.com/moe.edu.sg/primary1qifa2024/home
