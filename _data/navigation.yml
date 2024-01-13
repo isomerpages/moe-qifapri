@@ -13,6 +13,23 @@ links:
         url: https://sites.google.com/moe.edu.sg/qps-about-us/tl-framework
   - title: Administration
     url: https://sites.google.com/moe.edu.sg/qps-ad-matters
+    sublinks:
+      - title: Contact Us
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/contact-us
+      - title: School Bus Service
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bus-service
+      - title: School Bookshop
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bookshop
+      - title: School Uniform
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-uniform
+      - title: Forms
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/forms
+      - title: Privacy Statement
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/privacy-statement
+      - title: Student Care Centre
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/student-care-centre
+      - title: Frequently Asked Questions
+        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/frequently-asked-questions
   - title: Programmes
     url: https://sites.google.com/moe.edu.sg/qps-programmes
   - title: Links
