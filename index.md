@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/permalink/
+          url: https://sites.google.com/moe.edu.sg/qps-announcements
         - title: Qifa Bulletin
           description: ""
           url: https://drive.google.com/drive/folders/1d1DSqhnqhUoSj__oXyoI9t1ZsvAbPhZT?usp=sharing
