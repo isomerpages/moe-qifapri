@@ -41,6 +41,14 @@ links:
         url: https://sites.google.com/moe.edu.sg/qps-programmes/llp
       - title: Programme for Active Learning
         url: https://sites.google.com/moe.edu.sg/qps-programmes/pal
+      - title: English
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/english
+      - title: Mathematics
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/mathematics
+      - title: Science
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/science
+      - title: Mother Tongue
+        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/mother-tongue
   - title: Links
     url: https://sites.google.com/moe.edu.sg/qps-links
     sublinks:
