@@ -1,0 +1,37 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - English.md
+      - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Programmes.md
+      - Mathematics/Maths Links.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - ICT/.keep
+      - ICT/Information, Communications and Technology.md
+      - ICT/ICT Achievements.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
+      - CCE/MOE Sexuality Education in Schools.md
+      - CCE/The Heritage of Qifa Primary School.md
+      - CCE/Cyber Wellness.md
+      - CCE/To Earth With Love Project 2020.md
+      - CCE/NESS.md
+      - CCE/Student Leadership.md
+      - CCE/Values In Action.md
+      - CCE/Character Awards.md
+      - CCE/STAR Pupil Award 2020.md
+      - Programme for Active Learning.md
+      - PE, Art and Music/.keep
+      - PE, Art and Music/Physical Education.md
+      - PE, Art and Music/Visual Art.md
+      - PE, Art and Music/Music.md
+      - CCAs.md

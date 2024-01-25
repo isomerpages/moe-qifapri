@@ -1,0 +1,12 @@
+collections:
+  links:
+    output: true
+    order:
+      - Pupils/.keep
+      - Pupils/Pupils.md
+      - Pupils/Reading.md
+      - Parents/.keep
+      - Parents/Parents.md
+      - Parents/Pupil Travel Declaration.md
+      - Teachers.md
+      - Vendors.md

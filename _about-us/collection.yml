@@ -1,0 +1,7 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School History.md
+      - School information.md
