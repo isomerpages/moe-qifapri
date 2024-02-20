@@ -2,6 +2,7 @@ collections:
   arc-ungroup-files:
     output: true
     order:
+      - Canteen Stall Application.md
       - School Bus.md
       - RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC).md
       - Announcements.md
