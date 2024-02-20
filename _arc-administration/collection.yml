@@ -1,5 +1,5 @@
 collections:
-  administration:
+  arc-administration:
     output: true
     order:
       - School Bus Service.md
