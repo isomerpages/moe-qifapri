@@ -1,12 +1,9 @@
 collections:
-  about-us-archive:
+  arc-about-us:
     output: true
     order:
       - School Vision.md
       - Qifa Teaching & Learning Framework.md
-      - School Executive Committee.md
-      - School Teaching Staff.md
-      - School Support Staff.md
       - School Song.md
       - School Rules.md
       - Gallery.md

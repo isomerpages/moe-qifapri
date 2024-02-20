@@ -3,7 +3,6 @@ title: Announcements
 permalink: /announcements/permalink/
 description: ""
 ---
-
 # Announcements
 [**Caring Teacher Award 2022**](https://www.cta.nie.edu.sg/)
 
@@ -28,4 +27,3 @@ The annual publication of WE STories is a collection of stories from secondary s
 [**Singapore Student Learning Space (SLS) - Click here for instructions**](https://qifapri-moe-edu-sg-admin.cwp.sg/#)
 
 For details on how to activate your SLS account, please click [here](/files/Guide%20to%20SLS.pdf) for instructions. Thank you.
-

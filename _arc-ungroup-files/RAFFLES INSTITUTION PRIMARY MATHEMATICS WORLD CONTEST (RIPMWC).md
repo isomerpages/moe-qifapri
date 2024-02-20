@@ -3,8 +3,6 @@ title: RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC)
 permalink: /ripmwc/
 description: ""
 ---
-
-
 <table class="MsoTableGridLight" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0in 5.4pt 0in 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="175" style="width:131.4pt;border:none;border-bottom:solid #BFBFBF 1.0pt;
   mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:191;

@@ -1,5 +1,5 @@
 collections:
-  accolades-and-achievements:
+  arc-accolades-n-achievements:
     output: true
     order:
       - Bouquets/.keep
