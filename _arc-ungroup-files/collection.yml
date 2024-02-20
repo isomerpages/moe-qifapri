@@ -2,6 +2,7 @@ collections:
   arc-ungroup-files:
     output: true
     order:
+      - Ex pupils who have excelled in post primary education.md
       - Singapore And Asian Schools Math Olympiad (SASM0).md
       - SPSSC NATIONAL SCHOOL GAMES SENIOR DIVISION (BASKETBALL).md
       - Canteen Stall Application.md
