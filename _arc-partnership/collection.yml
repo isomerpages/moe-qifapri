@@ -1,5 +1,5 @@
 collections:
-  partnership:
+  arc-partnership:
     output: true
     order:
       - Parents/Qifa Bulletin 2023.md
