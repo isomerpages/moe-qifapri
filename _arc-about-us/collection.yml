@@ -1,5 +1,5 @@
 collections:
-  about-us-archive:
+  arc-about-us:
     output: true
     order:
       - School Vision.md
