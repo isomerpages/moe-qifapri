@@ -1,5 +1,5 @@
 collections:
-  students-achievements:
+  arc-students-achievements:
     output: true
     order:
       - 2023 Achievements/2023 Achievements.md
