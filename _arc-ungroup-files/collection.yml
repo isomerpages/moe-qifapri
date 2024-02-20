@@ -2,6 +2,7 @@ collections:
   arc-ungroup-files:
     output: true
     order:
+      - Singapore Mathematical Olympiad for Primary School.md
       - School Based Assessments 2023.md
       - Ex pupils who have excelled in post primary education.md
       - Singapore And Asian Schools Math Olympiad (SASM0).md
