@@ -2,6 +2,7 @@ collections:
   arc-ungroup-files:
     output: true
     order:
+      - SPSSC NATIONAL SCHOOL GAMES SENIOR DIVISION (BASKETBALL).md
       - Canteen Stall Application.md
       - School Bus.md
       - RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC).md
