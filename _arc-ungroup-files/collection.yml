@@ -2,4 +2,5 @@ collections:
   arc-ungroup-files:
     output: true
     order:
+      - RAFFLES INSTITUTION PRIMARY MATHEMATICS WORLD CONTEST (RIPMWC).md
       - Announcements.md
