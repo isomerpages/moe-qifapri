@@ -1,0 +1,4 @@
+collections:
+  arc-ungroup-files:
+    output: true
+    order: []
