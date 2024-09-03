@@ -34,9 +34,8 @@ with a growth mindset and exposed to the 21st century competencies, our
 students strive hard and do well in all domains – academically as well
 as in arts and sports. All these are possible because of the dedication
 and care in nurturing them to be the best they can be.</p>
-
-<center><p><strong>Qifa – a place where we…<br>Plant the seed of wonder<br>Grow the tree of knowledge and<br>Harvest the fruits with love.</strong>
-</p></center>
+<p><strong>Qifa – a place where we…<br>Plant the seed of wonder<br>Grow the tree of knowledge and<br>Harvest the fruits with love.</strong>
+</p>
 <p>I invite all of you to join me, in working together to bring out the best
 in your children by providing them with a rich, stimulating learning environment,
 one where they will discover their gifts and passions.</p>
