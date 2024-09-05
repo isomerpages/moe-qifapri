@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Qifa Primary School
-description: Brief site description here
+description: Official website of Qifa Primary School
 image: /images/logo-main.png
 permalink: /
 notification: ""
