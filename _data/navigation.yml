@@ -42,3 +42,27 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/social-studies
       - title: Programme for Active Learning
         url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/pal
+  - title: Qifa Experience
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
+    sublinks:
+      - title: Co-Curricular Activities
+        url: https://sites.google.com/moe.edu.sg/qifa-cca
+      - title: Applied Learning Programme
+        url: https://sites.google.com/moe.edu.sg/qifa-alp
+      - title: Learning for Life Programme
+        url: https://sites.google.com/moe.edu.sg/qifa-llp
+      - title: IGNITE
+        url: https://sites.google.com/moe.edu.sg/ qifa-ignite
+      - title: Student Leadership
+        url: https://sites.google.com/moe.edu.sg/qifa-student-leaders
+      - title: Internationalization
+        url: https://sites.google.com/moe.edu.sg/qifa-internationalization
+      - title: Values in Action
+        url: https://sites.google.com/moe.edu.sg/qifa-via
+      - title: P1 Orientation Programme
+        url: https://sites.google.com/moe.edu.sg/primary1qifa2024
+      - title: BEES Day
+        url: https://sites.google.com/moe.edu.sg/qifa-bees-day
+  - title: General Information
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
+    sublinks: []
