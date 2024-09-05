@@ -65,4 +65,27 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-bees-day
   - title: General Information
     url: https://sites.google.com/moe.edu.sg/qifa-primary-school
-    sublinks: []
+    sublinks:
+      - title: Qifa Bulletin
+        url: /permalink
+      - title: For Parents
+        url: /permalink
+      - title: For Students
+        url: /permalink
+      - title: For Teachers
+        url: /permalink
+      - title: School Safety
+        url: /permalink
+  - title: School Services
+    url: /permalink
+    sublinks:
+      - title: School After Care
+        url: /permalink
+      - title: School Bus
+        url: /permalink
+      - title: School Bookshop
+        url: /permalink
+      - title: School Canteen
+        url: /permalink
+      - title: School Dental
+        url: /permalink
