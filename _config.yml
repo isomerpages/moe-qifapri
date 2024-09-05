@@ -3,7 +3,7 @@ url: https://qifapri.moe.edu.sg
 favicon: /images/Main Images/school_logo_icon.png
 colors:
   primary-color: "#276885"
-  secondary-color: "#ffffff"
+  secondary-color: "#f8f8f8"
   media-colors:
     - title: media-color-one
       color: "#276885"
