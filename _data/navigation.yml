@@ -21,3 +21,24 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-our-partners
       - title: Contact Us
         url: https://sites.google.com/moe.edu.sg/qifa-contact-us
+  - title: Our Curriculum
+    url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum
+    sublinks:
+      - title: English
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/english
+      - title: Mathematics
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/mathematics
+      - title: Science
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/science
+      - title: Mother Tongue
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/mother-tongue
+      - title: PE, Art & Music
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/pe-art-music
+      - title: CCE
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/cce
+      - title: EdTech
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/edtech
+      - title: Social Studies
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/social-studies
+      - title: Programme for Active Learning
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/pal
