@@ -74,18 +74,17 @@ links:
         url: /permalink
       - title: For Teachers
         url: /permalink
-      - title: School Safety
-        url: /permalink
-  - title: School Services
-    url: /permalink
-    sublinks:
       - title: School After Care
-        url: /permalink
-      - title: School Bus
         url: /permalink
       - title: School Bookshop
         url: /permalink
+      - title: School Bus
+        url: /permalink
+      - title: School Uniform
+        url: /permalink
       - title: School Canteen
         url: /permalink
-      - title: School Dental
+      - title: School Dental Clinic
+        url: /permalink
+      - title: School Safety
         url: /permalink
