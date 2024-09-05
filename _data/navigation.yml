@@ -1,7 +1,7 @@
 logo: /images/Main Images/school_logo_icon.png
 links:
   - title: About Us
-    url: /permalink
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
     sublinks:
       - title: From the Principal's Desk
         url: https://sites.google.com/moe.edu.sg/qifa-principal-message
@@ -11,13 +11,13 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-school-info
       - title: School History
         url: https://sites.google.com/moe.edu.sg/qifa-school-history
-      - title: Contact Us
-        url: https://sites.google.com/moe.edu.sg/qifa-contact-us
-      - title: Qifa Shine
-        url: https://sites.google.com/moe.edu.sg/qifa-shine
-      - title: Staff Directory
-        url: https://sites.google.com/moe.edu.sg/qifa-staff-dir
       - title: School Rules
         url: https://sites.google.com/moe.edu.sg/qifa-school-rules
+      - title: Staff Directory
+        url: https://sites.google.com/moe.edu.sg/qifa-staff-dir
+      - title: Qifa Shine
+        url: https://sites.google.com/moe.edu.sg/qifa-shine
       - title: Our Partners
         url: https://sites.google.com/moe.edu.sg/qifa-our-partners
+      - title: Contact Us
+        url: https://sites.google.com/moe.edu.sg/qifa-contact-us
