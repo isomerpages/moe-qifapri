@@ -76,6 +76,13 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-teachers
       - title: School Calendar
         url: https://sites.google.com/moe.edu.sg/qifa-calendar
+      - title: School Safety
+        url: https://sites.google.com/moe.edu.sg/qifa-safety
+      - title: Frequently Asked Questions
+        url: https://sites.google.com/moe.edu.sg/qifa-faq
+  - title: School Services
+    url: https://sites.google.com/moe.edu.sg/qifa-services
+    sublinks:
       - title: Student Care Centre
         url: https://sites.google.com/moe.edu.sg/qifa-services/student-care-centre
       - title: School Bookshop
@@ -88,7 +95,3 @@ links:
         url: https://sites.google.com/moe.edu.sg/qifa-services/school-canteen
       - title: School Dental Clinic
         url: https://sites.google.com/moe.edu.sg/qifa-services/school-dental-clinic
-      - title: School Safety
-        url: https://sites.google.com/moe.edu.sg/qifa-safety
-      - title: Frequently Asked Questions
-        url: https://sites.google.com/moe.edu.sg/qifa-faq
