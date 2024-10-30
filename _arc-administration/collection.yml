@@ -2,7 +2,6 @@ collections:
   arc-administration:
     output: true
     order:
-      - School Bus Service.md
       - School Bookshop.md
       - School Uniform.md
       - Forms.md
