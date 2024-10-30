@@ -3,110 +3,1126 @@ title: Singapore Math Kangaroo Contest (SMKC) 2023
 permalink: /accolades-and-achievements/student-achievements/smkc2023/
 description: ""
 third_nav_title: 2023 Achievements
+variant: tiptap
 ---
-##### Primary 3
-| Achievement | Student Name | Class |
-| -------- | -------- | -------- |
-| **Gold**     | Zhang Jinyu     | 3G     |
-|      | Lu Yu Yon     | 3E     |
-|      |      |      |
-| **Silver**     | Ho Wen Bin Lucas     | 3E     |
-|      | Jiang Yihan     | 3E     |
-|      | Lim Zhi Heng     | 3G     |
-|      | Wu Yuzhe     | 3G     |
-|      | Lee Rui Zhi, Ethan     | 3F     |
-|      | Leon Voo Le An     | 3F     |
-|      | Zhao Bangxing     | 3F     |
-|      |      |      |
-| **Bronze**     | Emily Goh Yi Ling     | 3E     |
-|      | Wang Yuntian     | 3E     |
-|      | Kaden Chua Gia An     | 3E     |
-|      | Lee Rui Qi Janelle     | 3E     |
-|      | Zhai Simeng     | 3E     |
-|      | Lee Jun Ting     | 3E     |
-|      | Chua Jun Xiang Zaeyern     | 3F     |
-|      | Lei Birui     | 3F     |
-|      | Wang Xinzhi Keira     | 3F     |
-|      | Ethan Ong     | 3F     |
-|      | Guo Kaiwen     | 3F     |
-|      | Wang Mu'en     | 3F     |
-|      | Zhao Hao Tian Dylan     | 3F     |
-|      | Chen Yuexin     | 3G     |
-|      | Ng Shaw Hong     | 3G     |
-|      | Chen Xi     | 3G     |
-|      | Cheah Chi Ru     | 3G     |
-|      |      |      |
-| **Honorable Mention**     | Dou Zi Enn     | 3F     |
-|      | Olivia Uy Mendoza     | 3G     |
-|      |      |      |
-
-##### Primary 4
-| Achievement | Student Name | Class |
-| -------- | -------- | -------- |
-| **Gold**     | Liu Zikang     | 4F     |
-|      | Lu Yu Meng     | 4F     |
-|      | Chew Tim Luck Nicholas     | 4G     |
-|      | Dong Yanming     | 4G     |
-|      |      |      |
-| **Silver**     | Lim Jian An     | 4E     |
-|      | Lim En Xi Natalie     | 4E     |
-|      | Elliot Chng Xue Yu     | 4F     |
-|      | Ong Tze Yang, Jireh     | 4F     |
-|      | Pham Duy Hung Lucas     | 4G     |
-|      |      |      |
-| **Bronze**     | Chia Ming Huan     | 4E     |
-|      | Edric Tan Si Han     | 4E     |
-|      | Li Jia Xin     | 4E     |
-|      | Wong Ding Sheng Paden     | 4E     |
-|      | Yang Qiaoxi     | 4F     |
-|      | Madhaiyan Vishakan     | 4F     |
-|      | Wu Xinyuan     | 4F     |
-|      | Daryl Tai Le     | 4F     |
-|      | Lee Jek Ooi, Nathan     | 4G     |
-|      | Zheng Yijin     | 4G     |
-|      | Cao Yueru     | 4G     |
-|      | Zhang Songyue     | 4G     |
-|      |      |      |
-| **Honorable Mention**     | Lucia Carrasco Chan     | 4E     |
-|      | Koo Rui Jie     | 4E     |
-|      | Huang Huimin     | 4E     |
-|      | Chua Cong Quan Thaddeus     | 4E     |
-|      | Kesler Tay Kai Rong     | 4F     |
-|      | Chan Hor Yan     | 4F     |
-|      | Ge Jingyue     | 4G     |
-|      | Yan Xinyi Erin     | 4G     |
-|      | Li Qingzhi     | 4G     |
-|      | Joanne Zhou Jiaying     | 4G     |
-|      |      |      |
-
-##### Primary 5
-| Achievement | Student Name | Class |
-| -------- | -------- | -------- |
-| **Gold**     | Seah Sze Wei     | 5E     |
-|      |      |      |
-| **Silver**     | Yap Xian Le     | 5F     |
-|      | Damian Putu Sujana     | 5F     |
-|      | Wang Boya, Bryan     | 5F     |
-|      | Sun Mingyuan     | 5F     |
-|      | Wang Yuhan     | 5G     |
-|      | Nathan Gabriell Song     | 5G     |
-|      |      |      |
-| **Bronze**     | Eymelia Ling Xin Lei     | 5E     |
-|      | Zhang Shipei     | 5E     |
-|      | Emma Tang Jing Ying     | 5E     |
-|      | Ang Yu Jun     | 5E     |
-|      | Goh Yan Qi     | 5E     |
-|      | Nurhan Daiyan Bin Nur Syamsul Nazmi     | 5F     |
-|      | Caelen Ang Kai Le     | 5F     |
-|      | Tan Zhi Xuan     | 5F     |
-|      | Ryan Sim Chuan Jun     | 5F     |
-|      | Lu Hanzhang     | 5F     |
-|      | Wu Yuehan     | 5G     |
-|      | Li Chenming     | 5G     |
-|      | Matthew Goh Jun Han     | 5G     |
-|      |      |      |
-| **Honorable Mention**     | Micah Hong Yu Shayne     | 5E     |
-|      | Tang Ke Hong Zachary     | 5E     |
-|      | Lim Xian Dong     | 5F     |
-|      | Vihaan Jain     | 5F     |
-|      |      |      |
+<h5>Primary 3</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Jinyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lu Yu Yon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ho Wen Bin Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jiang Yihan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Zhi Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Yuzhe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Rui Zhi, Ethan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leon Voo Le An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhao Bangxing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emily Goh Yi Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Yuntian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kaden Chua Gia An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Rui Qi Janelle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhai Simeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jun Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Jun Xiang Zaeyern</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lei Birui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Xinzhi Keira</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethan Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guo Kaiwen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Mu'en</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhao Hao Tian Dylan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Yuexin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ng Shaw Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Xi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheah Chi Ru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Honorable Mention</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dou Zi Enn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Olivia Uy Mendoza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Primary 4</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Zikang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lu Yu Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chew Tim Luck Nicholas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dong Yanming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Jian An</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim En Xi Natalie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elliot Chng Xue Yu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Tze Yang, Jireh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pham Duy Hung Lucas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chia Ming Huan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Edric Tan Si Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Jia Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wong Ding Sheng Paden</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yang Qiaoxi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Madhaiyan Vishakan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Xinyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daryl Tai Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jek Ooi, Nathan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zheng Yijin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cao Yueru</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Songyue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Honorable Mention</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lucia Carrasco Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Koo Rui Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Huang Huimin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Cong Quan Thaddeus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kesler Tay Kai Rong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chan Hor Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ge Jingyue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yan Xinyi Erin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Qingzhi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joanne Zhou Jiaying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Primary 5</h5>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Class</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gold</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Seah Sze Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Silver</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yap Xian Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Damian Putu Sujana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Boya, Bryan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sun Mingyuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wang Yuhan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathan Gabriell Song</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Bronze</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eymelia Ling Xin Lei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Shipei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Emma Tang Jing Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ang Yu Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Yan Qi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurhan Daiyan Bin Nur Syamsul Nazmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Caelen Ang Kai Le</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ryan Sim Chuan Jun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lu Hanzhang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wu Yuehan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Chenming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Matthew Goh Jun Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Honorable Mention</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Micah Hong Yu Shayne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tang Ke Hong Zachary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Xian Dong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vihaan Jain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
