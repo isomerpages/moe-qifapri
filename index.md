@@ -1,19 +1,19 @@
 ---
 layout: homepage
 title: Qifa Primary School
-description: Brief site description here
+description: Official website of Qifa Primary School
 image: /images/logo-main.png
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/Main Images/Banner Photos/MainBanner1.png
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/qps-announcements
-        - title: Qifa Bulletin
-          description: ""
-          url: https://drive.google.com/drive/folders/1d1DSqhnqhUoSj__oXyoI9t1ZsvAbPhZT?usp=sharing
       variant: image
+      key_highlights:
+        - title: Follow us on Facebook
+          description: ""
+          url: https://www.facebook.com/qifaps
+        - title: Like us on Instagram
+          description: ""
+          url: https://www.instagram.com/qifa_ps
 ---

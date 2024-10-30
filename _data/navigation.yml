@@ -1,87 +1,83 @@
 logo: /images/Main Images/school_logo_icon.png
 links:
   - title: About Us
-    url: https://sites.google.com/moe.edu.sg/qps-about-us
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
     sublinks:
+      - title: From the Principal's Desk
+        url: https://sites.google.com/moe.edu.sg/qifa-principal-message
+      - title: School Crest
+        url: https://sites.google.com/moe.edu.sg/qifa-school-crest
       - title: School Information
-        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-information
+        url: https://sites.google.com/moe.edu.sg/qifa-school-info
       - title: School History
-        url: https://sites.google.com/moe.edu.sg/qps-about-us/school-history
-      - title: Principal's Message
-        url: https://sites.google.com/moe.edu.sg/qps-about-us/principals-message
-      - title: Student Development Framework
-        url: https://sites.google.com/moe.edu.sg/qps-about-us/qifa-holistic-student-development-framework
-      - title: School Staff
-        url: https://docs.google.com/spreadsheets/d/1oj-6pt1bbBYgp1cKawwjl058wISiwD2NSpmgexBqm44/edit?usp=sharing
-  - title: Accolades & Achievements
-    url: https://sites.google.com/moe.edu.sg/qps-accolades-achievements
-  - title: Administration
-    url: https://sites.google.com/moe.edu.sg/qps-ad-matters
-    sublinks:
+        url: https://sites.google.com/moe.edu.sg/qifa-school-history
+      - title: School Rules
+        url: https://sites.google.com/moe.edu.sg/qifa-school-rules
+      - title: Staff Directory
+        url: https://sites.google.com/moe.edu.sg/qifa-staff-dir
+      - title: Qifa Shine
+        url: https://sites.google.com/moe.edu.sg/qifa-shine
+      - title: Our Partners
+        url: https://sites.google.com/moe.edu.sg/qifa-our-partners
       - title: Contact Us
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/contact-us
-      - title: School Bus Service
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bus-service
-      - title: School Bookshop
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-bookshop
-      - title: School Uniform
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-uniform
-      - title: School Canteen
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-canteen
-      - title: School Dental Clinic
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/school-dental-clinic
-      - title: Forms
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/forms
-      - title: Privacy Statement
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/privacy-statement
-      - title: Student Care Centre
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/student-care-centre
-      - title: Frequently Asked Questions
-        url: https://sites.google.com/moe.edu.sg/qps-ad-matters/frequently-asked-questions
-  - title: Programmes
-    url: https://sites.google.com/moe.edu.sg/qps-programmes
+        url: https://sites.google.com/moe.edu.sg/qifa-contact-us
+  - title: Our Curriculum
+    url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum
     sublinks:
-      - title: Applied Learning Programme
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/alp
-      - title: Learning for Life Programme
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/llp
-      - title: Programme for Active Learning
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/pal
       - title: English
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/english
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/english
       - title: Mathematics
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/mathematics
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/mathematics
       - title: Science
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/science
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/science
       - title: Mother Tongue
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/mother-tongue
-      - title: EdTech
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/edtech
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/mother-tongue
+      - title: PE, Art & Music
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/pe-art-music
       - title: CCE
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/cce
-      - title: PE, Arts & Music
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/pe-art-music
-      - title: CCAs
-        url: https://sites.google.com/moe.edu.sg/qps-programmes/departments/ccas
-  - title: Links
-    url: https://sites.google.com/moe.edu.sg/qps-links
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/cce
+      - title: EdTech
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/departments/edtech
+      - title: Programme for Active Learning
+        url: https://sites.google.com/moe.edu.sg/qifa-our-curriculum/pal
+  - title: Qifa Experience
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
     sublinks:
-      - title: Pupils
-        url: https://sites.google.com/moe.edu.sg/qps-links/pupils
-      - title: Parents
-        url: https://sites.google.com/moe.edu.sg/qps-links/parents
-      - title: Teachers
-        url: https://sites.google.com/moe.edu.sg/qps-links/teachers
-      - title: Vendors
-        url: https://sites.google.com/moe.edu.sg/qps-links/vendors
-  - title: Partnerships
-    url: https://sites.google.com/moe.edu.sg/qps-partnerships
+      - title: Co-Curricular Activities
+        url: https://sites.google.com/moe.edu.sg/qifa-cca
+      - title: Applied Learning Programme
+        url: https://sites.google.com/moe.edu.sg/qifa-alp
+      - title: Learning for Life Programme
+        url: https://sites.google.com/moe.edu.sg/qifa-llp
+      - title: P1 Orientation Programme
+        url: https://sites.google.com/moe.edu.sg/primary1qifa2024
+  - title: General Information
+    url: https://sites.google.com/moe.edu.sg/qifa-primary-school
     sublinks:
-      - title: Parents
-        url: https://sites.google.com/moe.edu.sg/qps-partnerships/parents
-      - title: Parent Support Group
-        url: https://sites.google.com/moe.edu.sg/qps-partnerships/parent-support-group
-      - title: School Advisory Committee
-        url: https://sites.google.com/moe.edu.sg/qps-partnerships/school-advisory-committee
-  - title: P1 2024
-    url: https://sites.google.com/moe.edu.sg/primary1qifa2024/home
+      - title: Qifa Bulletin
+        url: https://drive.google.com/drive/folders/1d1DSqhnqhUoSj__oXyoI9t1ZsvAbPhZT?usp=sharing
+      - title: For Parents
+        url: https://sites.google.com/moe.edu.sg/qifa-parents
+      - title: For Students
+        url: https://sites.google.com/moe.edu.sg/qifa-students
+      - title: For Teachers
+        url: https://sites.google.com/moe.edu.sg/qifa-teachers
+      - title: School Calendar
+        url: https://sites.google.com/moe.edu.sg/qifa-calendar
+      - title: Frequently Asked Questions
+        url: https://sites.google.com/moe.edu.sg/qifa-faq
+  - title: School Services
+    url: https://sites.google.com/moe.edu.sg/qifa-services
+    sublinks:
+      - title: Student Care Centre
+        url: https://sites.google.com/moe.edu.sg/qifa-services/student-care-centre
+      - title: School Bookshop
+        url: https://sites.google.com/moe.edu.sg/qifa-services/school-bookshop
+      - title: School Bus
+        url: https://sites.google.com/moe.edu.sg/qifa-services/school-bus
+      - title: School Uniform
+        url: https://sites.google.com/moe.edu.sg/qifa-services/school-uniform
+      - title: School Canteen
+        url: https://sites.google.com/moe.edu.sg/qifa-services/school-canteen
+      - title: School Dental Clinic
+        url: https://sites.google.com/moe.edu.sg/qifa-services/school-dental-clinic
