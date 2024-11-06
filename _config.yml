@@ -2,19 +2,19 @@ title: Qifa Primary School
 url: https://qifapri.moe.edu.sg
 favicon: /images/Main Images/school_logo_icon.png
 colors:
-  primary-color: "#276885"
-  secondary-color: "#276885"
+  primary-color: "#266885"
+  secondary-color: "#266885"
   media-colors:
     - title: media-color-one
-      color: "#276885"
+      color: "#266885"
     - title: media-color-two
-      color: "#276885"
+      color: "#266885"
     - title: media-color-three
-      color: "#276885"
+      color: "#266885"
     - title: media-color-four
-      color: "#276885"
+      color: "#266885"
     - title: media-color-five
-      color: "#276885"
+      color: "#266885"
 description: Official website of Qifa Primary School
 permalink: none
 baseurl: ""
