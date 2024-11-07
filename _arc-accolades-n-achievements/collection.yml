@@ -1,5 +1,4 @@
 collections:
   arc-accolades-n-achievements:
     output: true
-    order:
-      - Staff Accolades/.keep
+    order: []
