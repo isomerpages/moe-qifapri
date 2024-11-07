@@ -2,9 +2,6 @@ collections:
   arc-accolades-n-achievements:
     output: true
     order:
-      - Bouquets/.keep
-      - Bouquets/Bouquets.md
-      - Bouquets/Bouquets from Parents and Other Partners.md
       - Staff Accolades/.keep
       - Staff Accolades/Staff Accolades.md
       - Staff Accolades/Thank You 'Cher Gratitude Portal.md
