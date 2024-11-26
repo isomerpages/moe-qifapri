@@ -16,4 +16,7 @@ sections:
         - title: Like us on Instagram
           description: ""
           url: https://www.instagram.com/qifa_ps
+        - title: Subscribe to us on Youtube
+          description: ""
+          url: https://www.youtube.com/@qps_official
 ---
